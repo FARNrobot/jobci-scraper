@@ -1,12 +1,105 @@
 {
-  "last_updated": "2026-05-08T19:24:43.730559+00:00",
-  "total": 68,
+  "last_updated": "2026-05-08T22:00:45.856689+00:00",
+  "total": 73,
   "sources": [
-    "BAD",
     "CM Porto",
-    "Indeed"
+    "Indeed",
+    "BAD"
   ],
   "jobs": [
+    {
+      "id": "f61d0112545b",
+      "title": "Physicochemical Analyst",
+      "org": "Nestlé USA",
+      "area": "Dados",
+      "contrato": "A Prazo",
+      "modalidade": "Presencial",
+      "setor": "Privado",
+      "local": "Internacional",
+      "tags": [],
+      "newBadge": true,
+      "posted": "2026-05-08",
+      "deadline": "2026-06-07",
+      "url": "https://pt.indeed.com/viewjob?jk=beab336a32a25ccb",
+      "desc": "**RESUMO DA POSIÇÃO**  \n\nLocal: Avanca, Portugal  \n\nTipo de Contrato: Contrato a Termo Certo  \n\nFormação: Formação técnica ou superior  \n\nExperiência: Mínimo de 2 anos em funções similares\n\n **A OPORTUNIDADE**  \n\nTrabalhar na Nestlé significa que te irás juntar à maior multinacional de alimentação e…",
+      "source": "Indeed"
+    },
+    {
+      "id": "3132c748a9b6",
+      "title": "Specialist IS Business Systems Analyst",
+      "org": "Amgen",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Híbrido",
+      "setor": "ONG",
+      "local": "Internacional",
+      "tags": [
+        "SQL",
+        "FAIR"
+      ],
+      "newBadge": true,
+      "posted": "2026-05-08",
+      "deadline": "2026-06-07",
+      "url": "https://pt.indeed.com/viewjob?jk=a0388c68a4f898c6",
+      "desc": "Portugal \\- Lisbon\nJOB ID: R\\-243827 LOCATION: Portugal \\- Lisbon WORK LOCATION TYPE: Flex Commuter / Hybrid DATE POSTED: May. 08, 2026 CATEGORY: Information Systems\nJoin our team at AMGEN Capability Center Portugal, consistently recognized among the top companies in the Best Workplaces™ ranking by…",
+      "source": "Indeed"
+    },
+    {
+      "id": "1334ac79ffb2",
+      "title": "First Line Support Analyst",
+      "org": "Damia Group",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "ONG",
+      "local": "Internacional",
+      "tags": [
+        "SQL"
+      ],
+      "newBadge": true,
+      "posted": "2026-05-08",
+      "deadline": "2026-06-07",
+      "url": "https://pt.indeed.com/viewjob?jk=d5ed1795bc5ffc2d",
+      "desc": "They are currently hiring a**First Line Support Analyst** to join an amazing team\nAbout the company:\nTheir vision is to enable incredible travel customer engagement through personalised, timely communications, highly automated workflows and AI technologies, delivering tangible ROI, regulation compli…",
+      "source": "Indeed"
+    },
+    {
+      "id": "47f36fae47f4",
+      "title": "Comercial B2B | Gestão de Eventos | Lisboa",
+      "org": "LEADS4SALES",
+      "area": "Gestão da Informação",
+      "contrato": "A Prazo",
+      "modalidade": "Presencial",
+      "setor": "Privado",
+      "local": "Internacional",
+      "tags": [],
+      "newBadge": true,
+      "posted": "2026-05-08",
+      "deadline": "2026-06-07",
+      "url": "https://pt.indeed.com/viewjob?jk=193d23131c477cf8",
+      "desc": "**Gestor Comercial – Lisboa**\n\nEstamos a recrutar um(a) Gestor(a) Comercial para integrar uma empresa dinâmica e em crescimento, com foco na gestão de clientes e acompanhamento de eventos.\n\n**Funções:**\n\n* Prospeção e angariação de novos clientes;\n* Gestão e acompanhamento de contactos comerciais;\n*…",
+      "source": "Indeed"
+    },
+    {
+      "id": "de7d0deee8fe",
+      "title": "Red Team Analyst",
+      "org": "Capgemini",
+      "area": "Dados",
+      "contrato": "Efetivo",
+      "modalidade": "Híbrido",
+      "setor": "Cultural",
+      "local": "Internacional",
+      "tags": [
+        "SQL",
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-05-08",
+      "deadline": "2026-06-07",
+      "url": "https://pt.indeed.com/viewjob?jk=d3e317231b3762dc",
+      "desc": "**CAPGEMINI ENGINEERING**\n-------------------------\n\n\nAt Capgemini Engineering, the world leader in engineering services, we bring together a global team of engineers, scientists, and architects to help the world’s most innovative companies unleash their potential. From autonomous cars to life\\-savi…",
+      "source": "Indeed"
+    },
     {
       "id": "ec1615dcc783",
       "title": "Accounting Analyst",
@@ -19,7 +112,7 @@
       "tags": [
         "MARC"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-08",
       "deadline": "2026-06-07",
       "url": "https://pt.indeed.com/viewjob?jk=aa89f0742c3efd32",
@@ -36,7 +129,7 @@
       "setor": "ONG",
       "local": "Internacional",
       "tags": [],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-08",
       "deadline": "2026-06-07",
       "url": "https://pt.indeed.com/viewjob?jk=637e8e6e113c65fb",
@@ -58,7 +151,7 @@
         "EAD",
         "CMS"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-08",
       "deadline": "2026-06-07",
       "url": "https://pt.indeed.com/viewjob?jk=cd6f831cad434338",
@@ -75,7 +168,7 @@
       "setor": "ONG",
       "local": "Internacional",
       "tags": [],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-08",
       "deadline": "2026-06-07",
       "url": "https://pt.indeed.com/viewjob?jk=5a3a3f888b27aad3",
@@ -92,7 +185,7 @@
       "setor": "ONG",
       "local": "Internacional",
       "tags": [],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-08",
       "deadline": "2026-06-07",
       "url": "https://pt.indeed.com/viewjob?jk=0d185274bf5bfa0e",
@@ -111,7 +204,7 @@
       "tags": [
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-08",
       "deadline": "2026-06-07",
       "url": "https://pt.indeed.com/viewjob?jk=45592aa436ff29d2",
@@ -128,7 +221,7 @@
       "setor": "Academia",
       "local": "Internacional",
       "tags": [],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-08",
       "deadline": "2026-06-07",
       "url": "https://pt.indeed.com/viewjob?jk=3675c484c095c336",
@@ -145,7 +238,7 @@
       "setor": "Público",
       "local": "Internacional",
       "tags": [],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-08",
       "deadline": "2026-06-07",
       "url": "https://pt.indeed.com/viewjob?jk=fe5aeee928d09e05",
@@ -530,7 +623,7 @@
         "SQL",
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-07",
       "deadline": "2026-06-06",
       "url": "https://pt.indeed.com/viewjob?jk=36072b5d74862f7d",
