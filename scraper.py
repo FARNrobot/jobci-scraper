@@ -335,16 +335,15 @@ def scrape_bad() -> list:
         r.raise_for_status()
         soup = BeautifulSoup(r.text, "lxml")
 
-        # Cada vaga é um <h2> seguido de parágrafos com área/local/tipo
-        headings = soup.find_all("h2")
-        for h in headings:
+        # Cada vaga real na BAD tem sempre um link "Ver Oferta" nos siblings do h2.
+        # Filtra apenas h2 que tenham esse link — ignora menus, cabeçalhos, etc.
+        for h in soup.find_all("h2"):
             title = h.get_text(strip=True)
-            if not title or len(title) < 10:
+            if not title or len(title) < 15:
                 continue
 
-            # Recolhe texto dos elementos seguintes até ao próximo h2
+            link_url = None
             meta_texts = []
-            link_url = "#"
             sib = h.find_next_sibling()
             while sib and sib.name != "h2":
                 text = sib.get_text(strip=True)
@@ -356,29 +355,36 @@ def scrape_bad() -> list:
                     link_url = href if href.startswith("http") else "https://bad.pt" + href
                 sib = sib.find_next_sibling()
 
-            # Extrai localização da metadata
+            # Sem "Ver Oferta" = não é uma vaga, ignora
+            if not link_url:
+                continue
+
             combined = " ".join(meta_texts).lower()
+            title_l = title.lower()
+
             local = "Portugal"
-            for city in ["porto", "lisboa", "braga", "coimbra", "bruxelas", "luxemburgo"]:
+            for city in ["porto", "lisboa", "braga", "coimbra", "bruxelas", "luxemburgo", "aveiro", "évora", "faro", "setúbal"]:
                 if city in combined:
                     local = city.capitalize()
                     break
 
-            # Extrai área
-            area = "Arquivo"
-            if "biblioteca" in combined:
-                area = "Biblioteca"
+            area = "Arquivo / Documentação"
+            if "biblioteca" in combined or "biblioteca" in title_l:
+                area = "Biblioteca / Serviços Digitais"
+            elif "informação" in title_l and "gestão" in title_l:
+                area = "Gestão da Informação"
             elif "documentação" in combined or "documental" in combined:
-                area = "Arquivo"
+                area = "Gestão Documental"
 
-            # Tipo de vaga
             contrato = "Efetivo"
-            if "estágio" in combined:
+            if "estágio" in combined or "estágio" in title_l:
                 contrato = "Estágio"
-            elif "mobilidade" in combined or "a prazo" in combined:
+            elif "mobilidade" in combined:
                 contrato = "A Prazo"
             elif "bolsa" in combined:
                 contrato = "Bolsa"
+            elif "a prazo" in combined or "termo" in combined:
+                contrato = "A Prazo"
 
             jobs.append(build_job(
                 title=title, org="BAD — Bolsa de Emprego",
@@ -555,10 +561,27 @@ def scrape_apply_up() -> list:
 #  FONTE E — CM Porto (cm-porto.pt)
 # ═══════════════════════════════════════════════════════════
 
+# A CM Porto publica concursos em páginas específicas.
+# Estratégia: recolher APENAS <a> cujo href contenha padrões de URL de concurso.
+# Nunca capturar links de navegação, gestão, segurança, etc.
 CMP_URLS = [
+    "https://www.cm-porto.pt/recursos-humanos/concursos-e-avisos-de-abertura",
     "https://www.cm-porto.pt/recursos-humanos/oportunidades-de-emprego",
-    "https://www.cm-porto.pt/municipio/recursos-humanos",
-    "https://www.cm-porto.pt/noticias?tipo=concursos",
+    "https://www.cm-porto.pt/recursos-humanos/recrutamento",
+]
+
+CMP_JOB_URL_PATTERNS = [
+    "/concurso", "/aviso-de-abertura", "/recrutamento/",
+    "/procedimento", "/oferta-de-emprego", "/emprego/",
+]
+
+CMP_EXCLUDE_PATTERNS = [
+    "/seguranca", "/sistema-de-gestao", "/centro-de-gestao",
+    "/gestao-integrada", "/noticias", "/agenda", "/sobre",
+    "/contactos", "/mapa", "/acessibilidade", "/politica",
+    "/municipio", "/servicos", "/vereacao", "/camara",
+    "recursos-humanos#", "/recursos-humanos/sistema",
+    "/recursos-humanos/centro",
 ]
 
 def scrape_cm_porto() -> list:
@@ -568,40 +591,46 @@ def scrape_cm_porto() -> list:
         try:
             r = requests.get(url, headers=HEADERS, timeout=15)
             if r.status_code != 200:
+                print(f"  ⚠ CM Porto {url}: HTTP {r.status_code}")
                 continue
             soup = BeautifulSoup(r.text, "lxml")
 
-            # Procura qualquer elemento que contenha termos de CI
-            candidates = []
-            for tag in soup.find_all(["h1", "h2", "h3", "h4", "li", "p", "a"]):
-                text = tag.get_text(strip=True)
-                if is_relevant(text) and 15 < len(text) < 200:
-                    link = tag if tag.name == "a" else tag.find("a", href=True)
-                    href = link["href"] if link and link.get("href") else url
-                    full_url = href if href.startswith("http") else f"https://www.cm-porto.pt{href}"
-                    candidates.append((text, full_url))
-
             seen_titles = set()
-            for title, job_url in candidates:
-                if title not in seen_titles:
-                    seen_titles.add(title)
-                    jobs.append(build_job(
-                        title=title, org="Câmara Municipal do Porto",
-                        url=job_url, posted=TODAY_STR,
-                        local="Porto", setor="Público",
-                        source="CM Porto",
-                    ))
+            for a in soup.find_all("a", href=True):
+                href = a["href"]
+                full_url = href if href.startswith("http") else f"https://www.cm-porto.pt{href}"
+                title = a.get_text(strip=True)
+
+                href_lower = href.lower()
+                is_job_url = any(p in href_lower for p in CMP_JOB_URL_PATTERNS)
+                is_excluded = any(p in href_lower for p in CMP_EXCLUDE_PATTERNS)
+
+                if not is_job_url or is_excluded:
+                    continue
+                if not title or len(title) < 10 or len(title) > 250:
+                    continue
+                if title in seen_titles:
+                    continue
+
+                seen_titles.add(title)
+                jobs.append(build_job(
+                    title=title, org="Câmara Municipal do Porto",
+                    url=full_url, posted=TODAY_STR,
+                    local="Porto", setor="Público",
+                    source="CM Porto",
+                ))
 
             if jobs:
-                break  # encontrou vagas nesta URL, para
+                print(f"  ✅ CM Porto: {len(jobs)} vagas em {url}")
+                break
             time.sleep(0.5)
         except Exception as e:
-            print(f"  ⚠ {url}: {e}")
+            print(f"  ⚠ CM Porto {url}: {e}")
             continue
 
-    print(f"  ✅ CM Porto: {len(jobs)} vagas encontradas")
+    if not jobs:
+        print("  ℹ CM Porto: 0 vagas (sem concursos abertos ou estrutura alterada)")
     return jobs
-
 
 # ═══════════════════════════════════════════════════════════
 #  AGREGAÇÃO E PERSISTÊNCIA
