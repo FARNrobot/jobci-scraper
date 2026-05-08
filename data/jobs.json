@@ -1,12 +1,106 @@
 {
-  "last_updated": "2026-05-08T10:27:18.724082+00:00",
-  "total": 51,
+  "last_updated": "2026-05-08T13:59:05.583637+00:00",
+  "total": 56,
   "sources": [
-    "CM Porto",
     "Indeed",
+    "CM Porto",
     "BAD"
   ],
   "jobs": [
+    {
+      "id": "29c395d1f3ff",
+      "title": "Gestor de Clientes",
+      "org": "Crystal Algorithm",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "Cultural",
+      "local": "Internacional",
+      "tags": [
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-05-08",
+      "deadline": "2026-06-07",
+      "url": "https://pt.indeed.com/viewjob?jk=29162c08df3df447",
+      "desc": "Responsabilidades\n\n* Ser o principal ponto de contato para suas contas e clientes\n* Construir relacionamentos fortes e duradouros, baseados na confiança\n* Desenvolver novas oportunidades de negócios com clientes existentes e novos\n* Oferecer soluções personalizadas que atendam às necessidades e obje…",
+      "source": "Indeed"
+    },
+    {
+      "id": "01865602de83",
+      "title": "Capabilities & Insights Analyst - Transformation Operations",
+      "org": "McKinsey & Company",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Remoto",
+      "setor": "Público",
+      "local": "Internacional",
+      "tags": [
+        "Python",
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-05-08",
+      "deadline": "2026-06-07",
+      "url": "https://pt.indeed.com/viewjob?jk=cb5af082716fab17",
+      "desc": "Job ID: 106742\nLisbon  \n\n\nDo you want to do work that matters, alongside supportive leaders who will help you grow faster than you ever thought possible? Are you a creative problem\\-solver who is energized by challenges? You’ve come to the right place.\n\n\nYOUR IMPACT\n\n\nYou will specialize in corporat…",
+      "source": "Indeed"
+    },
+    {
+      "id": "f5974ab77b61",
+      "title": "Técnico Superior",
+      "org": "Câmara Municipal de Montalegre",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "Público",
+      "local": "Internacional",
+      "tags": [
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-05-08",
+      "deadline": "2026-06-07",
+      "url": "https://pt.indeed.com/viewjob?jk=53ede0aed21eb66e",
+      "desc": "**Código da Oferta:**OE202605/0294\n**Tipo Oferta:**Procedimento Concursal Comum\n**Estado:**Ativa\n**Nível Orgânico:**Câmaras Municipais\n**Órgão/Serviço:**Câmara Municipal de Montalegre\n**Vínculo:**CTFP por tempo indeterminado\n**Regime:**Carreiras Gerais\n**Carreira:**Técnico Superior\n**Categoria:**Téc…",
+      "source": "Indeed"
+    },
+    {
+      "id": "975a8b7ae6bf",
+      "title": "Técnico Superior",
+      "org": "Faculdade de Medicina da Universidade de Lisboa",
+      "area": "Arquivo",
+      "contrato": "Bolsa",
+      "modalidade": "Presencial",
+      "setor": "Academia",
+      "local": "Internacional",
+      "tags": [
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-05-08",
+      "deadline": "2026-06-07",
+      "url": "https://pt.indeed.com/viewjob?jk=3a1f1e4b4b020880",
+      "desc": "**Código da Oferta:**OE202605/0295\n**Tipo Oferta:**Procedimento Concursal Comum\n**Estado:**Ativa\n**Nível Orgânico:**Ministério da Educação, Ciência e Inovação\n**Órgão/Serviço:**Faculdade de Medicina da Universidade de Lisboa\n**Vínculo:**CTFP por tempo indeterminado\n**Regime:**Carreiras Gerais\n**Carr…",
+      "source": "Indeed"
+    },
+    {
+      "id": "07990aa98c1f",
+      "title": "Controller de Gestão Industrial (M/F) - Sintra",
+      "org": "Galucho - Indústrias Metalomecânicas",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "Privado",
+      "local": "Internacional",
+      "tags": [],
+      "newBadge": true,
+      "posted": "2026-05-08",
+      "deadline": "2026-06-07",
+      "url": "https://pt.indeed.com/viewjob?jk=9bb29b5e13da932a",
+      "desc": "A Galucho é líder do mercado de equipamentos agrícolas e de transporte em Portugal, e procuramos desenvolver soluções eficientes e apostar na inovação e na qualidade, porque juntos fazemos máquinas para a vida.  \n\\#juntosfazemosmaquinasparaavida\n\nÉ nossa missão continuar a liderar e a crescer, e que…",
+      "source": "Indeed"
+    },
     {
       "id": "5d709b35269c",
       "title": "Senior Compensation Analyst (Part Time Contractor)",
@@ -20,7 +114,7 @@
         "EAD",
         "FAIR"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-08",
       "deadline": "2026-06-07",
       "url": "https://pt.indeed.com/viewjob?jk=d744a8a7081da668",
@@ -37,7 +131,7 @@
       "setor": "Privado",
       "local": "Internacional",
       "tags": [],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-08",
       "deadline": "2026-06-07",
       "url": "https://pt.indeed.com/viewjob?jk=d39f6f9fd6b2e2cf",
