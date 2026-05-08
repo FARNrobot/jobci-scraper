@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-08T01:14:41.097359+00:00",
-  "total": 46,
+  "last_updated": "2026-05-08T05:32:18.472295+00:00",
+  "total": 48,
   "sources": [
     "Indeed",
     "BAD",
@@ -178,6 +178,44 @@
       "url": "https://www.cm-porto.pt/protecao-de-dados/protecao-de-dados",
       "desc": "",
       "source": "CM Porto"
+    },
+    {
+      "id": "15ceeb431f6d",
+      "title": "Senior Business Analyst",
+      "org": "CONSORT Group",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Remoto",
+      "setor": "ONG",
+      "local": "Internacional",
+      "tags": [
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-05-07",
+      "deadline": "2026-06-06",
+      "url": "https://pt.indeed.com/viewjob?jk=75d56068f43c291d",
+      "desc": "Every moment counts. Especially those you live to the fullest. Welcome to Consort Group.\n\n\nFor over 30 years, Consort Group has been helping companies leverage their data and infrastructure. It is backed by two leaders, Consortis and Consortia, and places people and social responsibility at the hear…",
+      "source": "Indeed"
+    },
+    {
+      "id": "b45cd593d5b2",
+      "title": "Compliance Control and Risk Management Team Leader",
+      "org": "Grupo Clave",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "ONG",
+      "local": "Internacional",
+      "tags": [
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-05-07",
+      "deadline": "2026-06-06",
+      "url": "https://pt.indeed.com/viewjob?jk=b7c2890b2f31e246",
+      "desc": "Nortempo Seleção is currently recruiting a **Compliance Control and Risk Management Team Leader** to join a leading client based in **Lisbon**.\n\n#### **Job Description**\n\n* Manage and coordinate an **internal control team (approx. 5 members)**, ensuring proper task allocation, prioritization, and fo…",
+      "source": "Indeed"
     },
     {
       "id": "fb2c666c8c76",
