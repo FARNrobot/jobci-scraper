@@ -1,12 +1,51 @@
 {
-  "last_updated": "2026-05-08T13:59:05.583637+00:00",
-  "total": 56,
+  "last_updated": "2026-05-08T16:16:58.939731+00:00",
+  "total": 59,
   "sources": [
+    "BAD",
     "Indeed",
-    "CM Porto",
-    "BAD"
+    "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "e66022d6e905",
+      "title": "Business Analyst - Engineering",
+      "org": "Airbus",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Remoto",
+      "setor": "Cultural",
+      "local": "Internacional",
+      "tags": [
+        "GDPR",
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-05-08",
+      "deadline": "2026-06-07",
+      "url": "https://pt.indeed.com/viewjob?jk=4e11dc8a4a7e86fe",
+      "desc": "**Job Description:**\n\nWe are looking for an Business Analyst \\- Engineering to join our Airbus GBS team in Lisbon or Coimbra!\n\n\n**Responsibilities \\- your mission**\n\n* To support the Engineering Function on its business processes through Key Performance Indicators dashboard management : status and u…",
+      "source": "Indeed"
+    },
+    {
+      "id": "e36ce9b2d5a3",
+      "title": "Gestor de Marketing",
+      "org": "Zumbu.com",
+      "area": "Gestão da Informação",
+      "contrato": "Estágio",
+      "modalidade": "Presencial",
+      "setor": "Academia",
+      "local": "Internacional",
+      "tags": [
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-05-08",
+      "deadline": "2026-06-07",
+      "url": "https://pt.indeed.com/viewjob?jk=d5e6fc39f3b28879",
+      "desc": "We are looking for a Marketing Trainee passionate about Influencer Marketing to help support and grow Zumub’s global affiliate program. This role will assist with campaign management and partner relationships across international markets.\n\nROLE:  \nResearch and prospect influencers and affiliates glo…",
+      "source": "Indeed"
+    },
     {
       "id": "29c395d1f3ff",
       "title": "Gestor de Clientes",
@@ -19,7 +58,7 @@
       "tags": [
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-08",
       "deadline": "2026-06-07",
       "url": "https://pt.indeed.com/viewjob?jk=29162c08df3df447",
@@ -39,7 +78,7 @@
         "Python",
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-08",
       "deadline": "2026-06-07",
       "url": "https://pt.indeed.com/viewjob?jk=cb5af082716fab17",
@@ -58,7 +97,7 @@
       "tags": [
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-08",
       "deadline": "2026-06-07",
       "url": "https://pt.indeed.com/viewjob?jk=53ede0aed21eb66e",
@@ -77,7 +116,7 @@
       "tags": [
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-08",
       "deadline": "2026-06-07",
       "url": "https://pt.indeed.com/viewjob?jk=3a1f1e4b4b020880",
@@ -94,7 +133,7 @@
       "setor": "Privado",
       "local": "Internacional",
       "tags": [],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-08",
       "deadline": "2026-06-07",
       "url": "https://pt.indeed.com/viewjob?jk=9bb29b5e13da932a",
@@ -331,6 +370,23 @@
       "url": "https://www.cm-porto.pt/protecao-de-dados/protecao-de-dados",
       "desc": "",
       "source": "CM Porto"
+    },
+    {
+      "id": "23a82c182c7b",
+      "title": "Técnico Superior",
+      "org": "None",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "Público",
+      "local": "Internacional",
+      "tags": [],
+      "newBadge": true,
+      "posted": "2026-05-07",
+      "deadline": "2026-06-06",
+      "url": "https://pt.indeed.com/viewjob?jk=4ee1521aeff737e0",
+      "desc": "**Código da Oferta:**OE202605/0242\n**Tipo Oferta:**Procedimento Concursal Comum\n**Estado:**Ativa\n**Nível Orgânico:**Ministério da Agricultura e Pescas\n**Órgão/Serviço:**Direção\\-Geral da Agricultura e Desenvolvimento Rural\n**Vínculo:**CTFP por tempo indeterminado\n**Regime:**Carreiras Gerais\n**Carrei…",
+      "source": "Indeed"
     },
     {
       "id": "15ceeb431f6d",
