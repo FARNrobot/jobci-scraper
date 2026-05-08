@@ -1,0 +1,27 @@
+name: "JobCI — Scraper de Vagas"
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+      - run: pip install -r requirements.txt
+      - run: python scraper.py
+        env:
+          PYTHONUNBUFFERED: "1"
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: atualizar vagas [auto]"
+          file_pattern: "data/jobs.json"
+          commit_user_name: "JobCI Bot"
+          commit_user_email: "bot@jobci.local"
