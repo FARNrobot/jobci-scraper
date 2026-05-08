@@ -632,6 +632,7 @@ def scrape_cm_porto() -> list:
         print("  ℹ CM Porto: 0 vagas (sem concursos abertos ou estrutura alterada)")
     return jobs
 
+
 # ═══════════════════════════════════════════════════════════
 #  AGREGAÇÃO E PERSISTÊNCIA
 # ═══════════════════════════════════════════════════════════
