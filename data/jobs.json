@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T00:55:17.132970+00:00",
+  "last_updated": "2026-05-08T01:07:50.515551+00:00",
   "total": 46,
   "sources": [
     "Indeed",
@@ -192,7 +192,7 @@
         "GDPR",
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-07",
       "deadline": "2026-06-06",
       "url": "https://pt.indeed.com/viewjob?jk=d1cedd5d9136c997",
@@ -211,7 +211,7 @@
       "tags": [
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-07",
       "deadline": "2026-06-06",
       "url": "https://pt.indeed.com/viewjob?jk=94ae29339a676658",
@@ -231,7 +231,7 @@
         "EAD",
         "MARC"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-07",
       "deadline": "2026-06-06",
       "url": "https://pt.indeed.com/viewjob?jk=d892853ceb92aa51",
@@ -250,7 +250,7 @@
       "tags": [
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-07",
       "deadline": "2026-06-06",
       "url": "https://pt.indeed.com/viewjob?jk=c8e2e7d541bbf56e",
@@ -269,7 +269,7 @@
       "tags": [
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-07",
       "deadline": "2026-06-06",
       "url": "https://pt.indeed.com/viewjob?jk=cc0b46698cb56d63",
@@ -288,7 +288,7 @@
       "tags": [
         "SQL"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-07",
       "deadline": "2026-06-06",
       "url": "https://pt.indeed.com/viewjob?jk=edb1c900b38bcef9",
@@ -308,7 +308,7 @@
         "SQL",
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-07",
       "deadline": "2026-06-06",
       "url": "https://pt.indeed.com/viewjob?jk=bfed4ee41e8ed0a9",
@@ -327,7 +327,7 @@
       "tags": [
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-07",
       "deadline": "2026-06-06",
       "url": "https://pt.indeed.com/viewjob?jk=3812762a80b9b648",
@@ -346,7 +346,7 @@
       "tags": [
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-07",
       "deadline": "2026-06-06",
       "url": "https://pt.indeed.com/viewjob?jk=a5b4c38bb7fd70e1",
@@ -365,7 +365,7 @@
       "tags": [
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-07",
       "deadline": "2026-06-06",
       "url": "https://pt.indeed.com/viewjob?jk=33a589e4d5348ef4",
@@ -385,7 +385,7 @@
         "Power BI",
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-07",
       "deadline": "2026-06-06",
       "url": "https://pt.indeed.com/viewjob?jk=e8dc870c7c79be8d",
@@ -405,7 +405,7 @@
         "EAD",
         "CMS"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-07",
       "deadline": "2026-06-06",
       "url": "https://pt.indeed.com/viewjob?jk=ef164733bdd4d637",
@@ -425,7 +425,7 @@
         "EAD",
         "FAIR"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-07",
       "deadline": "2026-06-06",
       "url": "https://pt.indeed.com/viewjob?jk=f233ba0bfd0d5363",
@@ -442,7 +442,7 @@
       "setor": "Público",
       "local": "Internacional",
       "tags": [],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-07",
       "deadline": "2026-06-06",
       "url": "https://pt.indeed.com/viewjob?jk=fa4db515689d8284",
@@ -569,7 +569,7 @@
         "EAD",
         "MARC"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-06",
       "deadline": "2026-06-05",
       "url": "https://pt.indeed.com/viewjob?jk=2fbafb30ec81ed82",
@@ -588,7 +588,7 @@
       "tags": [
         "MARC"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-06",
       "deadline": "2026-06-05",
       "url": "https://pt.indeed.com/viewjob?jk=68318eaa52ed5d06",
@@ -607,7 +607,7 @@
       "tags": [
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-06",
       "deadline": "2026-06-05",
       "url": "https://pt.indeed.com/viewjob?jk=35d2cc1105bc75c8",
@@ -628,7 +628,7 @@
         "SQL",
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-06",
       "deadline": "2026-06-05",
       "url": "https://pt.indeed.com/viewjob?jk=e81676fc0d260b6b",
@@ -648,7 +648,7 @@
         "EAD",
         "FAIR"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-06",
       "deadline": "2026-06-05",
       "url": "https://pt.indeed.com/viewjob?jk=ae93f0c2073f77e4",
@@ -682,7 +682,7 @@
       "setor": "Privado",
       "local": "Internacional",
       "tags": [],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-05",
       "deadline": "2026-06-04",
       "url": "https://pt.indeed.com/viewjob?jk=6b0f36ab67dcadc5",
@@ -699,7 +699,7 @@
       "setor": "Academia",
       "local": "Internacional",
       "tags": [],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-05",
       "deadline": "2026-06-04",
       "url": "https://pt.indeed.com/viewjob?jk=a8a20fb992b266b1",
@@ -720,7 +720,7 @@
         "EAD",
         "FAIR"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-05",
       "deadline": "2026-06-04",
       "url": "https://pt.indeed.com/viewjob?jk=214b036ef8473c75",
@@ -737,7 +737,7 @@
       "setor": "Privado",
       "local": "Internacional",
       "tags": [],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-05",
       "deadline": "2026-06-04",
       "url": "https://pt.indeed.com/viewjob?jk=48c36b52f610b154",
@@ -814,7 +814,7 @@
       "tags": [
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-04-12",
       "deadline": "2026-05-12",
       "url": "https://pt.indeed.com/viewjob?jk=107c3e6900319513",
@@ -831,7 +831,7 @@
       "setor": "Cultural",
       "local": "Internacional",
       "tags": [],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2025-10-22",
       "deadline": "2025-11-21",
       "url": "https://pt.indeed.com/viewjob?jk=cb5a031cae51aa88",
@@ -850,7 +850,7 @@
       "tags": [
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2025-10-22",
       "deadline": "2025-11-21",
       "url": "https://pt.indeed.com/viewjob?jk=c477c48ecdaf0e4b",
