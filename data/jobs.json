@@ -1,12 +1,49 @@
 {
-  "last_updated": "2026-05-08T07:47:00.514540+00:00",
-  "total": 49,
+  "last_updated": "2026-05-08T10:27:18.724082+00:00",
+  "total": 51,
   "sources": [
     "CM Porto",
     "Indeed",
     "BAD"
   ],
   "jobs": [
+    {
+      "id": "5d709b35269c",
+      "title": "Senior Compensation Analyst (Part Time Contractor)",
+      "org": "PSI CRO",
+      "area": "Gestão da Informação",
+      "contrato": "Freelance",
+      "modalidade": "Remoto",
+      "setor": "Academia",
+      "local": "Internacional",
+      "tags": [
+        "EAD",
+        "FAIR"
+      ],
+      "newBadge": true,
+      "posted": "2026-05-08",
+      "deadline": "2026-06-07",
+      "url": "https://pt.indeed.com/viewjob?jk=d744a8a7081da668",
+      "desc": "**Company Description**  \n\nPSI is a leading Contract Research Organization with more than 25 years in the industry, offering a perfect balance between stability and innovation to both clients and employees. We focus on delivering quality and on\\-time services across a variety of therapeutic indicati…",
+      "source": "Indeed"
+    },
+    {
+      "id": "7b60ad9a7c4c",
+      "title": "Gestor de Negócios / Comercial - CRM (M/F) - Esmoriz",
+      "org": "Oliju",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "Privado",
+      "local": "Internacional",
+      "tags": [],
+      "newBadge": true,
+      "posted": "2026-05-08",
+      "deadline": "2026-06-07",
+      "url": "https://pt.indeed.com/viewjob?jk=d39f6f9fd6b2e2cf",
+      "desc": "Experiência em Comercial / Marketing\n\nNeste sentido pretendemos reforçar a nossa equipa com a integração de um Gestor de Negócios (M/F)\n\nFluente em Inglês,escrito e oral.\n\nValorizam\\-se conhecimentos em outros idiomas, especialmente o Francês.\n\nFunções:\n\n\\-Controlo de Encomendas, Facturação\n\n\\-Orçam…",
+      "source": "Indeed"
+    },
     {
       "id": "b953fa52028f",
       "title": "Data Analyst Senior com Google Cloud (Falante em Francês) ou Porto",
@@ -22,7 +59,7 @@
         "SQL",
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-08",
       "deadline": "2026-06-07",
       "url": "https://pt.indeed.com/viewjob?jk=8d93f5faa3de22aa",
