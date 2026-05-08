@@ -75,6 +75,34 @@ SEARCH_QUERIES = [
     # Concursos públicos
     '"concurso público" arquivo OR documentação OR biblioteca Portugal',
     'DGLAB OR BAD emprego arquivo biblioteca documentação',
+    # Cargos mais frequentes dos diplomados MCI (estudo iConf 2026)
+    "information manager",
+    "gestor de informação",
+    "business analyst",
+    "functional analyst",
+    "consultant information",
+    "consultor gestão informação",
+    "project manager informação",
+
+    # Cargos clássicos de CI
+    "arquivista",
+    "bibliotecário",
+    "técnico de arquivo",
+    "documentalista",
+    "records manager",
+
+    # Áreas emergentes do plano de estudos MCI
+    "data steward",
+    "knowledge manager",
+    "preservação digital",
+    "arquitetura de informação",
+    "gestão documental",
+    "information governance",
+
+    # Setor público (BEP, CM Porto)
+    "técnico superior arquivo",
+    "técnico superior biblioteca",
+    "ciência da informação",
 ]
 
 JOBSPY_SITES   = ["indeed", "google"]
