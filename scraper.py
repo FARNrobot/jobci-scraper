@@ -33,9 +33,48 @@ except ImportError:
 #  CONFIGURAÇÃO
 # ═══════════════════════════════════════════════════════════
 
-OUTPUT_PATH = Path("data/jobs.json")
-TODAY = datetime.now(timezone.utc)
-TODAY_STR = TODAY.strftime("%Y-%m-%d")
+OUTPUT_PATH  = Path("data/jobs.json")
+CACHE_PATH   = Path("data/cache_ttl.json")
+TODAY        = datetime.now(timezone.utc)
+TODAY_STR    = TODAY.strftime("%Y-%m-%d")
+
+# TTL por fonte em horas — fontes mais estáticas correm menos vezes
+SOURCE_TTL = {
+    "jobspy":    3,   # Indeed/Google — alta rotatividade
+    "bad":      12,   # BAD — atualização diária
+    "bep":       6,   # BEP — moderada
+    "applyup":   6,
+    "cmporto":  24,   # CM Porto — raramente muda
+}
+
+def _cache_load() -> dict:
+    try:
+        if CACHE_PATH.exists():
+            return json.loads(CACHE_PATH.read_text(encoding="utf-8"))
+    except Exception:
+        pass
+    return {}
+
+def _cache_save(cache: dict):
+    CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
+    CACHE_PATH.write_text(json.dumps(cache, indent=2), encoding="utf-8")
+
+def source_needs_refresh(source_key: str) -> bool:
+    """Devolve True se o TTL da fonte expirou ou não existe registo."""
+    cache = _cache_load()
+    last  = cache.get(source_key)
+    if not last:
+        return True
+    ttl_h = SOURCE_TTL.get(source_key, 6)
+    elapsed = (TODAY - datetime.fromisoformat(last)).total_seconds() / 3600
+    needs = elapsed >= ttl_h
+    print(f"  ⏱ [{source_key}] última corrida há {elapsed:.1f}h (TTL={ttl_h}h) → {'correr' if needs else 'ignorar'}")
+    return needs
+
+def mark_source_done(source_key: str):
+    cache = _cache_load()
+    cache[source_key] = TODAY.isoformat()
+    _cache_save(cache)
 
 HEADERS = {
     "User-Agent": (
@@ -274,11 +313,42 @@ def fmt_date(d) -> str:
     except Exception:
         return TODAY_STR
 
-def deadline_from(posted: str, days: int = 30) -> str:
+# Padrões para extrair prazo real da descrição da vaga
+_DEADLINE_PATTERNS = [
+    r'candidaturas?\s+at[eé]\s+(\d{1,2}[/-]\d{1,2}[/-]\d{2,4})',
+    r'prazo\s+(?:de\s+)?candidatura[s:]?\s+(\d{1,2}[/-]\d{1,2}[/-]\d{2,4})',
+    r'data\s+limite[:\s]+(\d{1,2}[/-]\d{1,2}[/-]\d{2,4})',
+    r'closing\s+date[:\s]+(\d{1,2}[/-]\d{1,2}[/-]\d{2,4})',
+    r'deadline[:\s]+(\d{1,2}[/-]\d{1,2}[/-]\d{2,4})',
+    r'até\s+(?:ao\s+dia\s+)?(\d{1,2}[/-]\d{1,2}[/-]\d{2,4})',
+    r'(\d{1,2}[/-]\d{1,2}[/-]\d{4})\s+(?:é\s+a\s+)?data\s+(?:limite|final)',
+]
+
+def extract_deadline(desc: str, posted: str, default_days: int = 30) -> str:
+    """Tenta extrair prazo real da descrição; usa estimativa como fallback."""
+    if desc:
+        for pattern in _DEADLINE_PATTERNS:
+            m = re.search(pattern, desc.lower())
+            if m:
+                raw = m.group(1).replace("-", "/")
+                parts = raw.split("/")
+                if len(parts) == 3:
+                    try:
+                        d, mo, y = parts
+                        if len(y) == 2:
+                            y = "20" + y
+                        dt = datetime(int(y), int(mo), int(d))
+                        return dt.strftime("%Y-%m-%d")
+                    except Exception:
+                        pass
+    # Fallback: estimativa baseada na data de publicação
     try:
-        return (datetime.strptime(posted, "%Y-%m-%d") + timedelta(days=days)).strftime("%Y-%m-%d")
+        return (datetime.strptime(posted, "%Y-%m-%d") + timedelta(days=default_days)).strftime("%Y-%m-%d")
     except Exception:
         return ""
+
+def deadline_from(posted: str, days: int = 30) -> str:
+    return extract_deadline("", posted, days)
 
 def extract_tags(title: str, desc: str = "") -> list:
     skills = [
@@ -316,10 +386,28 @@ def is_relevant(title: str, desc: str = "") -> bool:
     weak_hits = sum(1 for kw in WEAK_KEYWORDS if kw in text)
     return weak_hits >= 2
 
+def classify_level(title: str, desc: str = "") -> str:
+    """Classifica nível de senioridade com base no título e descrição."""
+    text = (title + " " + desc).lower()
+    if any(w in text for w in [
+        "estagiário", "estagiaria", "estágio", "estagio", "trainee",
+        "junior", "júnior", "entry level", "entry-level", "recém",
+        "licenciado", "recém-graduado", "graduate"
+    ]):
+        return "Júnior"
+    if any(w in text for w in [
+        "sénior", "senior", "sr.", "lead", "principal", "especialista",
+        "expert", "head of", "director", "diretor", "chefe de",
+        "responsável", "coordenador", "gestor sénior"
+    ]):
+        return "Sénior"
+    return "Médio"
+
 def build_job(*, title, org, desc="", url="#", posted=None, area=None,
               contrato=None, modalidade=None, setor=None, local="Portugal",
               source="", job_type="", is_remote=False) -> dict:
     posted = posted or TODAY_STR
+    posted_fmt = fmt_date(posted)
     return {
         "id":        make_id(title, org),
         "title":     title.strip(),
@@ -329,10 +417,11 @@ def build_job(*, title, org, desc="", url="#", posted=None, area=None,
         "modalidade":modalidade or classify_modality(desc, is_remote),
         "setor":     setor or classify_sector(org, desc),
         "local":     normalize_location(local),
+        "nivel":     classify_level(title, desc),
         "tags":      extract_tags(title, desc),
         "newBadge":  True,
-        "posted":    fmt_date(posted),
-        "deadline":  deadline_from(fmt_date(posted), 30),
+        "posted":    posted_fmt,
+        "deadline":  extract_deadline(desc, posted_fmt, 30),
         "url":       url,
         "desc":      (desc[:300].strip() + "…") if len(desc) > 300 else desc.strip(),
         "source":    source,
@@ -342,6 +431,23 @@ def build_job(*, title, org, desc="", url="#", posted=None, area=None,
 # ═══════════════════════════════════════════════════════════
 #  FONTE A — JobSpy (Indeed + Google Jobs)
 # ═══════════════════════════════════════════════════════════
+
+def _canonical_url(url: str, site: str) -> str:
+    """Extrai URL canónica e permanente para Indeed/Google Jobs."""
+    if not url or url == "#":
+        return "#"
+    # Indeed: preserva só ?jk=ID, descarta parâmetros de tracking
+    if "indeed.com" in url:
+        m = re.search(r'jk=([a-f0-9]+)', url)
+        if m:
+            return f"https://www.indeed.com/viewjob?jk={m.group(1)}"
+    # Google Jobs: tenta extrair URL original embutida
+    if "google.com" in url:
+        m = re.search(r'url=([^&]+)', url)
+        if m:
+            from urllib.parse import unquote
+            return unquote(m.group(1))
+    return url.split("&utm")[0].split("?tk=")[0]  # remove tracking genérico
 
 def scrape_jobspy() -> list:
     print("\n── FONTE A: JobSpy (Indeed + Google Jobs) ──")
@@ -380,7 +486,7 @@ def scrape_jobspy() -> list:
             desc    = str(row.get("description", "") or "")
             jobs.append(build_job(
                 title=title, org=org, desc=desc,
-                url=str(row.get("job_url", "#") or "#"),
+                url=_canonical_url(str(row.get("job_url", "#") or "#"), str(row.get("site",""))),
                 posted=row.get("date_posted"),
                 local=f"{city} {state} {country}",
                 job_type=str(row.get("job_type", "") or ""),
@@ -709,12 +815,36 @@ def scrape_cm_porto() -> list:
 #  AGREGAÇÃO E PERSISTÊNCIA
 # ═══════════════════════════════════════════════════════════
 
+def _similarity(a: str, b: str) -> float:
+    """Similaridade simples baseada em bigramas (rápida, sem dependências)."""
+    def bigrams(s):
+        s = s.lower().strip()
+        return set(s[i:i+2] for i in range(len(s)-1))
+    ba, bb = bigrams(a), bigrams(b)
+    if not ba or not bb:
+        return 0.0
+    return 2 * len(ba & bb) / (len(ba) + len(bb))
+
 def deduplicate(jobs: list) -> list:
-    seen, result = set(), []
+    """Remove duplicados exactos (por ID) e quasi-duplicados (similaridade ≥85%)."""
+    seen_ids, seen_titles, result = set(), [], []
     for j in jobs:
-        if j["id"] not in seen:
-            seen.add(j["id"])
-            result.append(j)
+        if j["id"] in seen_ids:
+            continue
+        # Verifica similaridade com títulos já aceites (mesma org)
+        title = j.get("title","")
+        org   = j.get("org","")
+        is_dup = False
+        for (st, so) in seen_titles:
+            if so.lower() == org.lower() and _similarity(title, st) >= 0.85:
+                is_dup = True
+                break
+        if is_dup:
+            continue
+        seen_ids.add(j["id"])
+        seen_titles.append((title, org))
+        result.append(j)
+    print(f"  🔁 Deduplicação: {len(jobs)} → {len(result)} vagas únicas")
     return result
 
 
@@ -768,11 +898,30 @@ if __name__ == "__main__":
     print("  E) CM Porto → cm-porto.pt")
 
     all_jobs = []
-    all_jobs += scrape_jobspy()
-    all_jobs += scrape_bad()
-    all_jobs += scrape_bep()
-    all_jobs += scrape_apply_up()
-    all_jobs += scrape_cm_porto()
+    if source_needs_refresh("jobspy"):
+        all_jobs += scrape_jobspy(); mark_source_done("jobspy")
+    else:
+        print("\n── FONTE A: JobSpy — cache válida, a ignorar ──")
+
+    if source_needs_refresh("bad"):
+        all_jobs += scrape_bad(); mark_source_done("bad")
+    else:
+        print("\n── FONTE B: BAD — cache válida, a ignorar ──")
+
+    if source_needs_refresh("bep"):
+        all_jobs += scrape_bep(); mark_source_done("bep")
+    else:
+        print("\n── FONTE C: BEP — cache válida, a ignorar ──")
+
+    if source_needs_refresh("applyup"):
+        all_jobs += scrape_apply_up(); mark_source_done("applyup")
+    else:
+        print("\n── FONTE D: Apply UP — cache válida, a ignorar ──")
+
+    if source_needs_refresh("cmporto"):
+        all_jobs += scrape_cm_porto(); mark_source_done("cmporto")
+    else:
+        print("\n── FONTE E: CM Porto — cache válida, a ignorar ──")
 
     all_jobs = deduplicate(all_jobs)
     print(f"\n✅ Total único (antes de merge): {len(all_jobs)} vagas")
