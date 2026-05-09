@@ -1,12 +1,146 @@
 {
-  "last_updated": "2026-05-08T22:00:45.856689+00:00",
-  "total": 73,
+  "last_updated": "2026-05-09T03:28:00.662278+00:00",
+  "total": 81,
   "sources": [
-    "CM Porto",
+    "BAD",
     "Indeed",
-    "BAD"
+    "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "945ec2ea6fba",
+      "title": "Test Analyst",
+      "org": "Expleo Group",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Remoto",
+      "setor": "ONG",
+      "local": "Internacional",
+      "tags": [
+        "SQL",
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-05-08",
+      "deadline": "2026-06-07",
+      "url": "https://pt.indeed.com/viewjob?jk=f2d35d01d58e266a",
+      "desc": "Overview:\n\nExpleo is a trusted partner for your innovation journey. As a global engineering, technology and consulting service provider, we are ideally positioned to help you achieve your ambitions and future\\-proof your business. With a smart blend of bold thinking and reliable execution, we’re abl…",
+      "source": "Indeed"
+    },
+    {
+      "id": "2b0da0e30114",
+      "title": "Data Analyst",
+      "org": "Expleo Group",
+      "area": "Arquivo",
+      "contrato": "Efetivo",
+      "modalidade": "Remoto",
+      "setor": "ONG",
+      "local": "Internacional",
+      "tags": [
+        "SQL",
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-05-08",
+      "deadline": "2026-06-07",
+      "url": "https://pt.indeed.com/viewjob?jk=b253e8b96aa4b48a",
+      "desc": "Overview:\n\nExpleo is a trusted partner for your innovation journey. As a global engineering, technology and consulting service provider, we are ideally positioned to help you achieve your ambitions and future\\-proof your business. With a smart blend of bold thinking and reliable execution, we’re abl…",
+      "source": "Indeed"
+    },
+    {
+      "id": "2bb04c750366",
+      "title": "Service Desk Analyst - Healthcare Sector - (Dutch & English Speaker)",
+      "org": "Capgemini",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Híbrido",
+      "setor": "Cultural",
+      "local": "Internacional",
+      "tags": [
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-05-08",
+      "deadline": "2026-06-07",
+      "url": "https://pt.indeed.com/viewjob?jk=4571774c9bf6621d",
+      "desc": "**CAPGEMINI ENGINEERING**\n-------------------------\n\n\nAt Capgemini Engineering, the world leader in engineering services, we bring together a global team of engineers, scientists, and architects to help the world’s most innovative companies unleash their potential. From autonomous cars to life\\-savi…",
+      "source": "Indeed"
+    },
+    {
+      "id": "d0f7aa46c540",
+      "title": "Transformation Junior Analyst",
+      "org": "Capgemini",
+      "area": "Gestão da Informação",
+      "contrato": "Estágio",
+      "modalidade": "Remoto",
+      "setor": "ONG",
+      "local": "Internacional",
+      "tags": [
+        "SharePoint",
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-05-08",
+      "deadline": "2026-06-07",
+      "url": "https://pt.indeed.com/viewjob?jk=7d6ed399bfc06d75",
+      "desc": "**Transformation Junior Analyst**\n---------------------------------\n\n\nChoosing Capgemini means choosing a company where you will be empowered to shape your career in the way you’d like, where you’ll be supported and inspired by a collaborative community of colleagues around the world, and where you’…",
+      "source": "Indeed"
+    },
+    {
+      "id": "0c53e5b359c7",
+      "title": "Tiktok Product, Quality Assurance Analyst - Spanish (12-Month Fixed-term Contract)",
+      "org": "TikTok",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "Cultural",
+      "local": "Internacional",
+      "tags": [
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-05-08",
+      "deadline": "2026-06-07",
+      "url": "https://pt.indeed.com/viewjob?jk=5a575263d77eb030",
+      "desc": "Global Operations\n  \n  \n\nTiktok Product, Quality Assurance Analyst \\- Spanish (12\\-Month Fixed\\-term Contract)\n  \n  \n\nLocation\n  \n:\n  \n  \n\nLisbon\n  \n  \n\nEmployment Type\n  \n:\n  \n  \n\nRegular\n  \n  \n\nJob Code\n  \n:\n  \n  \n\nA16266\n  \n  \n\nResponsibilities\n  \n  \n\nIn ADSO, we are the EMEA AI Data Service and…",
+      "source": "Indeed"
+    },
+    {
+      "id": "7e2216db1b85",
+      "title": "Tiktok Product, Quality Assurance Analyst - Arabic (12-Month Fixed-term Contract)",
+      "org": "TikTok",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "Cultural",
+      "local": "Internacional",
+      "tags": [
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-05-08",
+      "deadline": "2026-06-07",
+      "url": "https://pt.indeed.com/viewjob?jk=440f79cbe5f1c997",
+      "desc": "Global Operations\n  \n  \n\nTiktok Product, Quality Assurance Analyst \\- Arabic (12\\-Month Fixed\\-term Contract)\n  \n  \n\nLocation\n  \n:\n  \n  \n\nLisbon\n  \n  \n\nEmployment Type\n  \n:\n  \n  \n\nRegular\n  \n  \n\nJob Code\n  \n:\n  \n  \n\nA72909\n  \n  \n\nResponsibilities\n  \n  \n\nIn ADSO, we are the EMEA AI Data Service and O…",
+      "source": "Indeed"
+    },
+    {
+      "id": "7e2bc67e249d",
+      "title": "Técnico de Gestão da Qualidade em Obra (M/F)",
+      "org": "Haru Construções e Remodelações",
+      "area": "Arquivo",
+      "contrato": "Efetivo",
+      "modalidade": "Remoto",
+      "setor": "Privado",
+      "local": "Internacional",
+      "tags": [],
+      "newBadge": true,
+      "posted": "2026-05-08",
+      "deadline": "2026-06-07",
+      "url": "https://pt.indeed.com/viewjob?jk=feb4c3d95cf9b95a",
+      "desc": "Técnico de Gestão da Qualidade em Obra (M/F)\n\nA HARU SERVICES LDA encontra\\-se a recrutar **Técnico de Gestão da Qualidade em Obra (M/F)** para integração em equipa técnica de fiscalização, gestão da qualidade e acompanhamento de empreitadas públicas de construção e reabilitação em Portugal.\n\nFUNÇÕE…",
+      "source": "Indeed"
+    },
     {
       "id": "f61d0112545b",
       "title": "Physicochemical Analyst",
@@ -17,7 +151,7 @@
       "setor": "Privado",
       "local": "Internacional",
       "tags": [],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-08",
       "deadline": "2026-06-07",
       "url": "https://pt.indeed.com/viewjob?jk=beab336a32a25ccb",
@@ -37,7 +171,7 @@
         "SQL",
         "FAIR"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-08",
       "deadline": "2026-06-07",
       "url": "https://pt.indeed.com/viewjob?jk=a0388c68a4f898c6",
@@ -56,7 +190,7 @@
       "tags": [
         "SQL"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-08",
       "deadline": "2026-06-07",
       "url": "https://pt.indeed.com/viewjob?jk=d5ed1795bc5ffc2d",
@@ -73,7 +207,7 @@
       "setor": "Privado",
       "local": "Internacional",
       "tags": [],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-08",
       "deadline": "2026-06-07",
       "url": "https://pt.indeed.com/viewjob?jk=193d23131c477cf8",
@@ -93,7 +227,7 @@
         "SQL",
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-08",
       "deadline": "2026-06-07",
       "url": "https://pt.indeed.com/viewjob?jk=d3e317231b3762dc",
@@ -1361,6 +1495,25 @@
       "deadline": "2025-11-21",
       "url": "https://pt.indeed.com/viewjob?jk=c477c48ecdaf0e4b",
       "desc": "Overview:\n\nJoin our high\\-performing Business Analysis team as a senior contributor, providing expert advice and leadership across key project areas. You’ll manage technical delivery using proven frameworks and tools to ensure projects are completed on time and within budget.\nResponsibilities:  \n\n*…",
+      "source": "Indeed"
+    },
+    {
+      "id": "c806393c1e27",
+      "title": "Banking Sector | Cyber Security Analyst",
+      "org": "Devoteam",
+      "area": "Arquivo",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "ONG",
+      "local": "Internacional",
+      "tags": [
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2023-07-07",
+      "deadline": "2023-08-06",
+      "url": "https://pt.indeed.com/viewjob?jk=59eea59e63830b8b",
+      "desc": "- At Devoteam, we believe that technology with strong human values can actively drive change for the better. Discover how Tech for People unlocks the future, creating a positive impact on the people and the world around us. We are a global leading player in Digital Transformation for leading organis…",
       "source": "Indeed"
     }
   ]
