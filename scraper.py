@@ -111,15 +111,68 @@ HOURS_OLD      = 72
 
 
 # ── Palavras-chave para filtrar relevância ──────────────────
-RELEVANT_KEYWORDS = [
-    "informação", "information", "arquivo", "archivist", "arquivista",
-    "documental", "documentação", "documentation", "bibliotec",
-    "knowledge", "dados", "data steward", "records", "content",
-    "digital preservation", "metadata", "metadados", "ux researcher",
-    "ciência da informação", "gestor", "gestão", "analyst", "analista",
-    "humanidades digitais", "digital humanities", "curador", "curator",
-    "taxonomia", "ontologia", "compliance", "rgpd", "gdpr", "ecm",
-    "dirigente", "assistente técnico", "técnico superior",
+# ── Palavras FORTES: a presença de uma só já qualifica a vaga ──────────────
+STRONG_KEYWORDS = [
+    # Cargos e áreas nucleares de CI
+    "arquivista", "archivist", "bibliotecário", "bibliotecária", "librarian",
+    "ciência da informação", "information science", "gestão da informação",
+    "information manager", "information management", "gestor de informação",
+    "gestão documental", "records manager", "records management",
+    "documentalista", "técnico de arquivo", "técnico de documentação",
+    "técnico superior de arquivo", "técnico superior de biblioteca",
+    "digital preservation", "preservação digital",
+    "humanidades digitais", "digital humanities",
+    "knowledge manager", "knowledge management",
+    "data steward", "curador de dados", "data curation",
+    "information governance", "enterprise content management",
+    "arquitetura de informação", "information architect",
+    "metadados", "metadata", "linked data", "ontologia", "taxonomia",
+    "information retrieval", "recuperação de informação",
+    "serviços de informação", "literacia da informação",
+    "gestão de coleções", "collection management",
+    "auditor de informação", "information audit",
+    "oficial de proteção de dados", "data protection officer",
+    "gestão de arquivo", "gestão de documentos",
+    "dglab", "bad ", "bnp ", "biblioteca nacional",
+    "biblioteca pública", "biblioteca universitária",
+    "arquivo histórico", "arquivo municipal", "arquivo nacional",
+    "ecm ", "alfresco", "documentum", "sharepoint records",
+]
+
+# ── Palavras FRACAS: precisam de estar combinadas com outras ────────────────
+# (não qualificam sozinhas — evitam falsos positivos)
+WEAK_KEYWORDS = [
+    "informação", "information", "arquivo", "biblioteca", "bibliotec",
+    "documental", "documentação", "documentation", "records", "content",
+    "knowledge", "dados", "digital", "curator", "curador",
+    "compliance", "rgpd", "gdpr", "técnico superior",
+    "gestão", "analyst", "analista",
+]
+
+# ── Termos que EXCLUEM a vaga mesmo que haja palavras-chave ─────────────────
+EXCLUDE_KEYWORDS = [
+    # TI / software sem ligação a CI
+    "desenvolvedor", "developer", "software engineer", "engenheiro de software",
+    "programador", "programmer", "devops", "cloud engineer", "data engineer",
+    "machine learning", "deep learning", "inteligência artificial", "ai engineer",
+    "cibersegurança", "cybersecurity", "network engineer", "sys admin",
+    "frontend", "backend", "fullstack", "full stack", "mobile developer",
+    # Finanças / contabilidade
+    "contabilista", "contabilidade", "auditor financeiro", "controller financeiro",
+    "gestor financeiro", "financial analyst", "CFO", "tesoureiro",
+    "seguros", "broker", "trader", "analista financeiro",
+    # Vendas / marketing
+    "comercial", "vendedor", "sales manager", "account executive",
+    "marketing digital", "social media manager", "seo specialist",
+    "growth hacker", "copywriter", "media buyer",
+    # Saúde / engenharia / outros
+    "enfermeiro", "médico", "farmacêutico", "engenheiro civil",
+    "engenheiro mecânico", "arquiteto", "arquiteto de soluções",
+    "motorista", "operador de armazém", "operador de produção",
+    "recursos humanos", "recrutamento", "payroll",
+    # Dados sem CI
+    "data scientist", "data analyst", "machine learning engineer",
+    "business intelligence", "bi developer", "etl developer",
 ]
 
 # ── Mapeamentos ─────────────────────────────────────────────
@@ -240,9 +293,28 @@ def extract_tags(title: str, desc: str = "") -> list:
     text = title + " " + (desc or "")
     return [s for s in skills if re.search(re.escape(s), text, re.IGNORECASE)][:6]
 
-def is_relevant(title: str) -> bool:
-    t = title.lower()
-    return any(kw in t for kw in RELEVANT_KEYWORDS)
+def is_relevant(title: str, desc: str = "") -> bool:
+    """
+    Retorna True se a vaga for relevante para Ciência da Informação.
+    Lógica:
+      1. Se contiver qualquer EXCLUDE_KEYWORD → rejeita
+      2. Se contiver qualquer STRONG_KEYWORD  → aceita
+      3. Se contiver ≥2 WEAK_KEYWORDS distintas → aceita
+      4. Caso contrário → rejeita
+    """
+    text = (title + " " + desc).lower()
+
+    # 1. Exclusões (têm prioridade sobre tudo)
+    if any(kw in text for kw in EXCLUDE_KEYWORDS):
+        return False
+
+    # 2. Palavra forte → aceita imediatamente
+    if any(kw in text for kw in STRONG_KEYWORDS):
+        return True
+
+    # 3. Duas ou mais palavras fracas → aceita
+    weak_hits = sum(1 for kw in WEAK_KEYWORDS if kw in text)
+    return weak_hits >= 2
 
 def build_job(*, title, org, desc="", url="#", posted=None, area=None,
               contrato=None, modalidade=None, setor=None, local="Portugal",
