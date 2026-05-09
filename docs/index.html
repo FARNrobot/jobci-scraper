@@ -86,6 +86,10 @@ a,button,input,select{transition:color var(--transition),background var(--transi
 .job-apply:hover{background:var(--color-primary);color:var(--color-text-inverse);}
 .new-badge{display:inline-flex;align-items:center;font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;background:var(--color-success-highlight);color:var(--color-success);padding:2px 6px;border-radius:var(--radius-full);margin-left:var(--space-2);vertical-align:middle;}
 .source-badge{font-size:10px;padding:1px 5px;border-radius:var(--radius-full);background:var(--color-blue-highlight);color:var(--color-blue);font-weight:500;margin-left:var(--space-1);}
+.nivel-badge{font-size:10px;padding:1px 6px;border-radius:var(--radius-full);font-weight:500;margin-left:var(--space-1);}
+.nivel-junior{background:oklch(from var(--color-success) l c h/.15);color:var(--color-success);}
+.nivel-medio{background:oklch(from var(--color-gold) l c h/.15);color:var(--color-gold);}
+.nivel-senior{background:oklch(from var(--color-primary) l c h/.15);color:var(--color-primary);}
 .empty-state{display:flex;flex-direction:column;align-items:center;text-align:center;padding:var(--space-16) var(--space-8);color:var(--color-text-muted);}
 .empty-icon{width:48px;height:48px;margin-bottom:var(--space-4);color:var(--color-text-faint);}
 .empty-state h3{font-size:var(--text-base);font-weight:600;color:var(--color-text);margin-bottom:var(--space-2);}
@@ -195,6 +199,22 @@ a,button,input,select{transition:color var(--transition),background var(--transi
         <label class="filter-label"><input type="checkbox" value="Internacional"> Internacional <span class="count">0</span></label>
       </div>
     </div>
+    <div class="filter-divider"></div>
+    <div class="filter-section">
+      <p class="filter-title">Nível</p>
+      <div class="filter-group" id="filter-nivel">
+        <label class="filter-label"><input type="checkbox" value="Júnior"> Júnior <span class="count">0</span></label>
+        <label class="filter-label"><input type="checkbox" value="Médio"> Médio <span class="count">0</span></label>
+        <label class="filter-label"><input type="checkbox" value="Sénior"> Sénior <span class="count">0</span></label>
+      </div>
+    </div>
+    <div class="filter-divider"></div>
+    <div class="filter-section">
+      <p class="filter-title">Fonte</p>
+      <div class="filter-group" id="filter-source">
+        <!-- preenchido dinamicamente por buildSourceFilter() -->
+      </div>
+    </div>
   </aside>
 
   <main class="main">
@@ -248,7 +268,7 @@ a,button,input,select{transition:color var(--transition),background var(--transi
 })();
 
 // ── STATE ──
-let JOBS=[],activeFilters={area:[],contrato:[],modalidade:[],setor:[],local:[]},searchQuery='',sortBy='recente',currentTab='todas';
+let JOBS=[],activeFilters={area:[],contrato:[],modalidade:[],setor:[],local:[],nivel:[],source:[]},searchQuery='',sortBy='recente',currentTab='todas';
 
 // ── PERSISTÊNCIA localStorage ──────────────────────────────────────────────
 const LS_SAVED     = 'jobci_saved_v1';
@@ -303,6 +323,8 @@ function getFiltered(){
     if(activeFilters.modalidade.length&&!activeFilters.modalidade.includes(j.modalidade)) return false;
     if(activeFilters.setor.length&&!activeFilters.setor.includes(j.setor)) return false;
     if(activeFilters.local.length&&!activeFilters.local.includes(j.local)) return false;
+    if(activeFilters.nivel.length&&!activeFilters.nivel.includes(j.nivel||'Médio')) return false;
+    if(activeFilters.source.length&&!activeFilters.source.includes(j.source||'')) return false;
     if(searchQuery){
       const q=searchQuery.toLowerCase();
       return j.title.toLowerCase().includes(q)||j.org.toLowerCase().includes(q)||(j.tags||[]).some(t=>t.toLowerCase().includes(q))||(j.desc||'').toLowerCase().includes(q);
@@ -322,7 +344,7 @@ function cardHTML(j){
   return`<article class="job-card${sv?' saved':''}" data-id="${j.id}">
   <div class="job-card-header">
     <div>
-      <div class="job-title">${j.title}${j.newBadge?'<span class="new-badge">Novo</span>':''}${j.source?`<span class="source-badge">${j.source}</span>`:''}</div>
+      <div class="job-title">${j.title}${j.newBadge?'<span class="new-badge">Novo</span>':''}${j.nivel?`<span class="nivel-badge nivel-${(j.nivel||'medio').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'')}">${j.nivel}</span>`:''}${j.source?`<span class="source-badge">${j.source}</span>`:''}</div>
       <div class="job-org">${j.org}</div>
     </div>
     <button class="job-save${sv?' active':''}" onclick="toggleSave('${j.id}')" aria-label="${sv?'Remover':'Guardar'}">
@@ -373,7 +395,7 @@ function renderSaved(){
 
 // ── COUNTS ──
 function updateCounts(){
-  const FK=['area','contrato','modalidade','setor','local'];
+  const FK=['area','contrato','modalidade','setor','local','nivel'];
   FK.forEach(key=>{
     document.querySelectorAll(`#filter-${key} input`).forEach(cb=>{
       const v=cb.value,c=JOBS.filter(j=>{
@@ -387,7 +409,7 @@ function updateCounts(){
 }
 
 // ── ACTIVE TAGS ──
-const FL={area:'Área',contrato:'Contrato',modalidade:'Modalidade',setor:'Setor',local:'Local'};
+const FL={area:'Área',contrato:'Contrato',modalidade:'Modalidade',setor:'Setor',local:'Local',nivel:'Nível',source:'Fonte'};
 function renderActiveTags(){
   const tags=[];
   for(const[k,vs]of Object.entries(activeFilters))vs.forEach(v=>tags.push({k,v,l:`${FL[k]}: ${v}`}));
@@ -398,7 +420,7 @@ function renderActiveTags(){
 function removeTag(k,v){
   if(k==='search'){searchQuery='';document.getElementById('search-input').value='';}
   else{activeFilters[k]=activeFilters[k].filter(x=>x!==v);const cb=document.querySelector(`#filter-${k} input[value="${v}"]`);if(cb)cb.checked=false;}
-  renderJobs();updateCounts();
+  buildSourceFilter();renderJobs();updateCounts();
 }
 
 function restoreDismissed(){
@@ -410,6 +432,7 @@ function restoreDismissed(){
 function clearAllFilters(){
   for(const k of Object.keys(activeFilters))activeFilters[k]=[];
   searchQuery='';
+  buildSourceFilter();
   document.getElementById('search-input').value='';
   document.querySelectorAll('.filter-group input').forEach(c=>c.checked=false);
   renderJobs();updateCounts();
@@ -475,7 +498,7 @@ document.querySelectorAll('.tab-btn').forEach(btn=>{
 });
 
 // ── LISTENERS ──
-['area','contrato','modalidade','setor','local'].forEach(k=>{
+['area','contrato','modalidade','setor','local','nivel'].forEach(k=>{
   document.getElementById(`filter-${k}`).addEventListener('change',e=>{
     const cb=e.target;
     if(cb.checked)activeFilters[k].push(cb.value);
@@ -487,6 +510,30 @@ document.getElementById('search-input').addEventListener('input',e=>{searchQuery
 document.getElementById('sort-select').addEventListener('change',e=>{sortBy=e.target.value;renderJobs();});
 document.getElementById('clear-all-btn').addEventListener('click',clearAllFilters);
 document.getElementById('mobile-filter-btn').addEventListener('click',()=>document.getElementById('sidebar').classList.toggle('open'));
+
+// ── FONTE FILTER (dinâmico) ──
+function buildSourceFilter(){
+  const counts={};
+  JOBS.forEach(j=>{
+    const s=j.source||'Outro';
+    counts[s]=(counts[s]||0)+1;
+  });
+  const container=document.getElementById('filter-source');
+  if(!container) return;
+  container.innerHTML=Object.entries(counts)
+    .sort((a,b)=>b[1]-a[1])
+    .map(([s,c])=>{
+      const checked=activeFilters.source.includes(s)?'checked':'';
+      return `<label class="filter-label"><input type="checkbox" value="${s}" ${checked}> ${s} <span class="count">${c}</span></label>`;
+    }).join('');
+  // Listener para checkboxes de fonte (recria sempre que buildSourceFilter corre)
+  container.addEventListener('change',e=>{
+    const cb=e.target;
+    if(cb.checked)activeFilters.source.push(cb.value);
+    else activeFilters.source=activeFilters.source.filter(v=>v!==cb.value);
+    renderJobs(); updateCounts();
+  },{once:false});
+}
 
 // ── INIT ──
 loadJobs();
