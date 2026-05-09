@@ -1,12 +1,31 @@
 {
-  "last_updated": "2026-05-09T03:28:00.662278+00:00",
-  "total": 81,
+  "last_updated": "2026-05-09T08:01:16.823608+00:00",
+  "total": 82,
   "sources": [
     "BAD",
     "Indeed",
     "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "b79177e65625",
+      "title": "Freelance EU Portuguese Content Editor (Fintech)",
+      "org": "Social Element",
+      "area": "Gestão da Informação",
+      "contrato": "Freelance",
+      "modalidade": "Remoto",
+      "setor": "ONG",
+      "local": "Internacional",
+      "tags": [
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-05-08",
+      "deadline": "2026-06-07",
+      "url": "https://pt.indeed.com/viewjob?jk=1244aaed4ea37131",
+      "desc": "**Where:** Portugal\n\n**Type:** Freelance\n\n**Industry**: Fintech\n\n### **About MarketFully Group**\n\nAt MarketFully Group, we’re on a mission to help the world’s most ambitious brands achieve growth InContent, InLanguage, InCulture, and InMarket. We provide multilingual marketing strategy, creative con…",
+      "source": "Indeed"
+    },
     {
       "id": "945ec2ea6fba",
       "title": "Test Analyst",
@@ -20,7 +39,7 @@
         "SQL",
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-08",
       "deadline": "2026-06-07",
       "url": "https://pt.indeed.com/viewjob?jk=f2d35d01d58e266a",
@@ -40,7 +59,7 @@
         "SQL",
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-08",
       "deadline": "2026-06-07",
       "url": "https://pt.indeed.com/viewjob?jk=b253e8b96aa4b48a",
@@ -59,7 +78,7 @@
       "tags": [
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-08",
       "deadline": "2026-06-07",
       "url": "https://pt.indeed.com/viewjob?jk=4571774c9bf6621d",
@@ -79,7 +98,7 @@
         "SharePoint",
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-08",
       "deadline": "2026-06-07",
       "url": "https://pt.indeed.com/viewjob?jk=7d6ed399bfc06d75",
@@ -98,7 +117,7 @@
       "tags": [
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-08",
       "deadline": "2026-06-07",
       "url": "https://pt.indeed.com/viewjob?jk=5a575263d77eb030",
@@ -117,7 +136,7 @@
       "tags": [
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-08",
       "deadline": "2026-06-07",
       "url": "https://pt.indeed.com/viewjob?jk=440f79cbe5f1c997",
@@ -134,7 +153,7 @@
       "setor": "Privado",
       "local": "Internacional",
       "tags": [],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-08",
       "deadline": "2026-06-07",
       "url": "https://pt.indeed.com/viewjob?jk=feb4c3d95cf9b95a",
@@ -1509,7 +1528,7 @@
       "tags": [
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2023-07-07",
       "deadline": "2023-08-06",
       "url": "https://pt.indeed.com/viewjob?jk=59eea59e63830b8b",
