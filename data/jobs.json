@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-05-11T15:19:37.429265+00:00",
-  "total": 82,
+  "last_updated": "2026-05-11T19:53:29.273188+00:00",
+  "total": 83,
   "sources": [
     "Indeed",
-    "BAD",
-    "CM Porto"
+    "CM Porto",
+    "BAD"
   ],
   "jobs": [
     {
@@ -1422,6 +1422,27 @@
       "deadline": "2026-06-04",
       "url": "https://pt.indeed.com/viewjob?jk=093458412316f744",
       "desc": "Estamos à procura de Customer Behavior Analyst para a nossa equipa de Customer Intelligence (CI)/CRM e acreditamos que seremos \\#betterwithyou!\n  \n  \n\nContamos contigo para…\n  \n  \n\n* Mapear sistemas legados da MC e sistemas/BD isoladas que comportam informação do cliente H\\&W\n* Identificar requisito…",
+      "source": "Indeed"
+    },
+    {
+      "id": "30097d02f8d4",
+      "title": "Procurement Digital Transformation Analyst (f/m/div)",
+      "org": "Infineon Technologies",
+      "area": "Gestão da Informação",
+      "contrato": "Estágio",
+      "modalidade": "Presencial",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Júnior",
+      "tags": [
+        "SQL",
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-04-30",
+      "deadline": "2026-05-30",
+      "url": "https://www.indeed.com/viewjob?jk=3cddf15a78e96f38",
+      "desc": "\\#WeAreIn for jobs that impact everyone’s life Your steady execution, creative problem\\-solving, and commitment to quality create a foundation that allows innovation to happen and success to grow. As a Procurement Digital Transformation Analyst on our Corporate Functions team, you ensure processes r…",
       "source": "Indeed"
     },
     {
