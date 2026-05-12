@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-12T17:15:23.575585+00:00",
+  "last_updated": "2026-05-12T19:58:30.879081+00:00",
   "total": 85,
   "sources": [
-    "CM Porto",
     "BAD",
+    "CM Porto",
     "Indeed"
   ],
   "jobs": [
@@ -1533,7 +1533,7 @@
       "local": "Internacional",
       "nivel": "Sénior",
       "tags": [],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-04-09",
       "deadline": "2026-05-09",
       "url": "https://www.indeed.com/viewjob?jk=9de918690a4ba820",
