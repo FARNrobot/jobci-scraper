@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-05-12T11:23:24.910772+00:00",
-  "total": 83,
+  "last_updated": "2026-05-12T14:33:37.042663+00:00",
+  "total": 84,
   "sources": [
     "BAD",
     "CM Porto",
     "Indeed"
   ],
   "jobs": [
+    {
+      "id": "dd0cf81e1789",
+      "title": "Senior Analyst, Financial Information Systems",
+      "org": "Ryan, LLC",
+      "area": "Dados",
+      "contrato": "Efetivo",
+      "modalidade": "Híbrido",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "Power BI",
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-05-12",
+      "deadline": "2026-06-11",
+      "url": "https://www.indeed.com/viewjob?jk=f93cce0ff1dfba12",
+      "desc": "**Why Ryan?**\n\n* Competitive Compensation and Benefits\n* Home Office Stipend\n* Business Connectivity Reimbursement (Phone/Internet)\n* Gym Membership or Equipment Reimbursement\n* LinkedIn Learning Subscription\n* Flexible Work Environment\n* Tuition Reimbursement After One Year of Service\n* Accelerated…",
+      "source": "Indeed"
+    },
     {
       "id": "b79177e65625",
       "title": "Freelance EU Portuguese Content Editor (Fintech)",
