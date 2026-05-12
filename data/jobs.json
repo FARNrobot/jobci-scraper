@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-12T14:33:37.042663+00:00",
-  "total": 84,
+  "last_updated": "2026-05-12T17:15:23.575585+00:00",
+  "total": 85,
   "sources": [
-    "BAD",
     "CM Porto",
+    "BAD",
     "Indeed"
   ],
   "jobs": [
@@ -21,7 +21,7 @@
         "Power BI",
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-12",
       "deadline": "2026-06-11",
       "url": "https://www.indeed.com/viewjob?jk=f93cce0ff1dfba12",
@@ -1520,6 +1520,24 @@
       "deadline": "2026-05-12",
       "url": "https://pt.indeed.com/viewjob?jk=107c3e6900319513",
       "desc": "**Who are we:**\n\n\nNeotalent Conclusion is one of the leading Iberian specialists providing services in Information Technology and Engineering services. As part of the Netherlands\\-based organization Conclusion, which has an ecosystem of over 25 companies and 3,600 employees, we are focused on increa…",
+      "source": "Indeed"
+    },
+    {
+      "id": "071f8ae416e3",
+      "title": "Responsável de Transformação Digital e Sistema de Informação (m/f)",
+      "org": "nan",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "Privado",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [],
+      "newBadge": true,
+      "posted": "2026-04-09",
+      "deadline": "2026-05-09",
+      "url": "https://www.indeed.com/viewjob?jk=9de918690a4ba820",
+      "desc": "O Grupo Safito, com empresas nas áreas da hotelaria e da lavandaria industrial, no âmbito do seu processo de evolução organizacional e reforço do seu modelo de gestão, pretende integrar um(a) Manager de Digital Transformation \\& Information Systems.\n\n\n\nEsta função assume um papel central na definiçã…",
       "source": "Indeed"
     },
     {
