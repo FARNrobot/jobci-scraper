@@ -1,12 +1,32 @@
 {
-  "last_updated": "2026-05-13T11:32:42.107824+00:00",
-  "total": 85,
+  "last_updated": "2026-05-13T14:43:38.150615+00:00",
+  "total": 86,
   "sources": [
+    "CM Porto",
     "BAD",
-    "Indeed",
-    "CM Porto"
+    "Indeed"
   ],
   "jobs": [
+    {
+      "id": "ced6b5c0008b",
+      "title": "Analista De Dados",
+      "org": "nan",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Médio",
+      "tags": [
+        "SQL"
+      ],
+      "newBadge": true,
+      "posted": "2026-05-13",
+      "deadline": "2026-06-12",
+      "url": "https://www.indeed.com/viewjob?jk=691a6e6b789e9163",
+      "desc": "Liberia Sugar Trading Corporation. is an innovative technology and digital entertainment company focused on software development, interactive platforms, and data\\-driven business solutions. We are currently seeking a motivated and analytical Data Analyst to join our growing team.\n\nResponsibilities…",
+      "source": "Indeed"
+    },
     {
       "id": "dd0cf81e1789",
       "title": "Senior Analyst, Financial Information Systems",
