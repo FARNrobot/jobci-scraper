@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T03:44:21.923556+00:00",
+  "last_updated": "2026-05-14T08:42:43.180238+00:00",
   "total": 87,
   "sources": [
     "CM Porto",
@@ -21,7 +21,7 @@
         "GDPR",
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-13",
       "deadline": "2026-06-12",
       "url": "https://www.indeed.com/viewjob?jk=f752eb93d926b06b",
