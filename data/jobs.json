@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-05-13T22:16:39.225991+00:00",
-  "total": 86,
+  "last_updated": "2026-05-14T03:44:21.923556+00:00",
+  "total": 87,
   "sources": [
     "CM Porto",
-    "Indeed",
-    "BAD"
+    "BAD",
+    "Indeed"
   ],
   "jobs": [
+    {
+      "id": "8dd699c55e9f",
+      "title": "Contractor Compliance Analyst",
+      "org": "Remofirst",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Remoto",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "GDPR",
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-05-13",
+      "deadline": "2026-06-12",
+      "url": "https://www.indeed.com/viewjob?jk=f752eb93d926b06b",
+      "desc": "**RemoFirst** is transforming the way businesses hire and manage global teams. Our mission is to enable Freedom of Work by providing an all\\-in\\-one global HR platform that simplifies hiring, compliance, payroll, and benefits management. We partner with some of the world’s most innovative companies,…",
+      "source": "Indeed"
+    },
     {
       "id": "ced6b5c0008b",
       "title": "Analista De Dados",
