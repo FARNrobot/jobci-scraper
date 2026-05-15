@@ -1,12 +1,35 @@
 {
-  "last_updated": "2026-05-15T08:53:42.362124+00:00",
-  "total": 87,
+  "last_updated": "2026-05-15T11:24:00.520874+00:00",
+  "total": 88,
   "sources": [
+    "BAD",
     "Indeed",
-    "CM Porto",
-    "BAD"
+    "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "646ce75147e3",
+      "title": "Senior Digital Analyst",
+      "org": "TUI Group",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "Público",
+      "local": "Internacional",
+      "nivel": "Júnior",
+      "tags": [
+        "Power BI",
+        "Python",
+        "SQL",
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-05-14",
+      "deadline": "2026-06-13",
+      "url": "https://www.indeed.com/viewjob?jk=78dd5ef86fb018a5",
+      "desc": "***Applications closing date: 29 May 2026\\.***\n\n  \n\nThis role sits within **Analytics Sales Platform** of our **Customer Analytics \\& Data Solutions** Division.  \n\n  \n\nAs a Senior Digital Analyst, you'll deliver advanced analytics and insights that drive business performance and customer experience…",
+      "source": "Indeed"
+    },
     {
       "id": "8dd699c55e9f",
       "title": "Contractor Compliance Analyst",
