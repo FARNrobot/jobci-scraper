@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-05-18T15:40:33.849648+00:00",
-  "total": 88,
+  "last_updated": "2026-05-18T19:48:30.960646+00:00",
+  "total": 89,
   "sources": [
     "Indeed",
-    "CM Porto",
-    "BAD"
+    "BAD",
+    "CM Porto"
   ],
   "jobs": [
     {
@@ -1602,6 +1602,26 @@
       "deadline": "2026-05-09",
       "url": "https://www.indeed.com/viewjob?jk=9de918690a4ba820",
       "desc": "O Grupo Safito, com empresas nas áreas da hotelaria e da lavandaria industrial, no âmbito do seu processo de evolução organizacional e reforço do seu modelo de gestão, pretende integrar um(a) Manager de Digital Transformation \\& Information Systems.\n\n\n\nEsta função assume um papel central na definiçã…",
+      "source": "Indeed"
+    },
+    {
+      "id": "9f4e131e17be",
+      "title": "Data Steward",
+      "org": "WIRE IT",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Híbrido",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "Python"
+      ],
+      "newBadge": true,
+      "posted": "2025-11-07",
+      "deadline": "2025-12-07",
+      "url": "https://www.indeed.com/viewjob?jk=bb372daeabab9941",
+      "desc": "Based in Portugal, Wire IT is your specialized IT consulting partner with 18 years of experience driven by an experienced and senior team that helps clients make the right decisions in a fast\\-moving market.\n\n\nWire IT's ambition is to grow while keeping true to its nature: agile, people\\-centered, a…",
       "source": "Indeed"
     },
     {
