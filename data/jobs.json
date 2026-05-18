@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-05-18T19:48:30.960646+00:00",
-  "total": 89,
+  "last_updated": "2026-05-18T22:05:58.884442+00:00",
+  "total": 90,
   "sources": [
-    "Indeed",
     "BAD",
+    "Indeed",
     "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "5c702aaf9171",
+      "title": "Global Markets Operations Documentation - Matching Analyst (Regional European Back-Office)",
+      "org": "BNP Paribas",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Remoto",
+      "setor": "Público",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "EAD",
+        "FAIR"
+      ],
+      "newBadge": true,
+      "posted": "2026-05-18",
+      "deadline": "2026-06-17",
+      "url": "https://www.indeed.com/viewjob?jk=86f39dfd59dbf7b0",
+      "desc": "**About the job**\n\n\n* The Documentation Matching Analyst is responsible for checking the integrity and accuracy of the booking and help managing the subsequent risks undertaken by the business lines\n**Your Main Activities Are**\n\n\n* Check Front Office booking to ensure all trades are captured in the…",
+      "source": "Indeed"
+    },
     {
       "id": "646ce75147e3",
       "title": "Senior Digital Analyst",
@@ -1617,7 +1638,7 @@
       "tags": [
         "Python"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2025-11-07",
       "deadline": "2025-12-07",
       "url": "https://www.indeed.com/viewjob?jk=bb372daeabab9941",
