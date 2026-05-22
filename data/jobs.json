@@ -1,12 +1,32 @@
 {
-  "last_updated": "2026-05-22T09:34:43.872976+00:00",
-  "total": 91,
+  "last_updated": "2026-05-22T14:46:51.739009+00:00",
+  "total": 92,
   "sources": [
     "BAD",
     "Indeed",
     "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "b6cebde39202",
+      "title": "Analista de Qualidade de Dados (Estágio Profissional)",
+      "org": "Aldeias de Crianças SOS",
+      "area": "Dados",
+      "contrato": "Estágio",
+      "modalidade": "Presencial",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Júnior",
+      "tags": [
+        "Digitalização"
+      ],
+      "newBadge": true,
+      "posted": "2026-05-22",
+      "deadline": "2026-06-21",
+      "url": "https://www.indeed.com/viewjob?jk=f24ee9dc426baf63",
+      "desc": "**Justificação do projeto:**\n\n\n\nEstamos a reforçar a nossa área de Dados e Tecnologias com a integração de um(a) Estagiário(a) em Qualidade de Dados.\n\n\n\nEsta função terá um papel central no fortalecimento da qualidade, organização e conformidade da informação da Associação, garantindo que os dados q…",
+      "source": "Indeed"
+    },
     {
       "id": "5c702aaf9171",
       "title": "Global Markets Operations Documentation - Matching Analyst (Regional European Back-Office)",
