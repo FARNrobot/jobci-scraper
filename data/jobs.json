@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-22T14:46:51.739009+00:00",
+  "last_updated": "2026-05-22T17:10:33.880921+00:00",
   "total": 92,
   "sources": [
-    "BAD",
     "Indeed",
+    "BAD",
     "CM Porto"
   ],
   "jobs": [
@@ -20,7 +20,7 @@
       "tags": [
         "Digitalização"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-22",
       "deadline": "2026-06-21",
       "url": "https://www.indeed.com/viewjob?jk=f24ee9dc426baf63",
