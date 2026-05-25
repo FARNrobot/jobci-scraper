@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-05-25T04:10:23.804877+00:00",
-  "total": 92,
+  "last_updated": "2026-05-25T10:16:58.473999+00:00",
+  "total": 93,
   "sources": [
     "BAD",
     "CM Porto",
     "Indeed"
   ],
   "jobs": [
+    {
+      "id": "572414a0a55b",
+      "title": "Assistente Operacional - Gestão de Embarques e Documentação de Importação/Exportação",
+      "org": "JACOLI",
+      "area": "Arquivo",
+      "contrato": "A Prazo",
+      "modalidade": "Presencial",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Médio",
+      "tags": [
+        "EAD",
+        "OAIS"
+      ],
+      "newBadge": true,
+      "posted": "2026-05-25",
+      "deadline": "2026-06-24",
+      "url": "https://www.indeed.com/viewjob?jk=006ee6ceb6d5b5f2",
+      "desc": "**Assistente Operacional – Gestão de Embarques, inspeções, documentação relacionadas com Importação/Exportação**\n\n**Introdução:**\n\nA JACOLI foi fundada em janeiro de 2011 e atua na área de sourcing, procurement e trading de matérias\\-primas destinadas à indústria, com especial enfoque no setor têxti…",
+      "source": "Indeed"
+    },
     {
       "id": "b6cebde39202",
       "title": "Analista de Qualidade de Dados (Estágio Profissional)",
