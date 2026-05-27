@@ -1,12 +1,35 @@
 {
-  "last_updated": "2026-05-27T10:00:20.739188+00:00",
-  "total": 93,
+  "last_updated": "2026-05-27T15:54:18.205182+00:00",
+  "total": 94,
   "sources": [
     "BAD",
-    "CM Porto",
-    "Indeed"
+    "Indeed",
+    "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "4515a14b9916",
+      "title": "Consultant IT - Centralized Information Management - French Fluent",
+      "org": "MC2I",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Júnior",
+      "tags": [
+        "SharePoint",
+        "GDPR",
+        "FAIR",
+        "Microsoft 365"
+      ],
+      "newBadge": true,
+      "posted": "2026-05-27",
+      "deadline": "2026-06-26",
+      "url": "https://www.indeed.com/viewjob?jk=57607b8d1a160035",
+      "desc": "Localisation :\n**Localisation****Porto, Portugal**Contrat :\n**Type de contrat****CDI**Description\n* mc2i est un cabinet **de conseil indépendant** qui accompagne ses clients grands comptes dans leurs projets de transformation numérique.\n* Depuis plus de **35 ans**, nous**intervenons dans des secteur…",
+      "source": "Indeed"
+    },
     {
       "id": "572414a0a55b",
       "title": "Assistente Operacional - Gestão de Embarques e Documentação de Importação/Exportação",
