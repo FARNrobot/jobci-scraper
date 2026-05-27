@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-05-27T15:54:18.205182+00:00",
+  "last_updated": "2026-05-27T20:23:39.705081+00:00",
   "total": 94,
   "sources": [
     "BAD",
-    "Indeed",
-    "CM Porto"
+    "CM Porto",
+    "Indeed"
   ],
   "jobs": [
     {
@@ -23,7 +23,7 @@
         "FAIR",
         "Microsoft 365"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-05-27",
       "deadline": "2026-06-26",
       "url": "https://www.indeed.com/viewjob?jk=57607b8d1a160035",
