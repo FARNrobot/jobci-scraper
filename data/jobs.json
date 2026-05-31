@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-05-31T19:22:05.392743+00:00",
-  "total": 94,
+  "last_updated": "2026-05-31T22:03:23.537179+00:00",
+  "total": 95,
   "sources": [
-    "CM Porto",
     "Indeed",
-    "BAD"
+    "BAD",
+    "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "7c37f84d70d4",
+      "title": "Digital Content & Social Media Consultant",
+      "org": "Inetum",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "Academia",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "EAD",
+        "CMS"
+      ],
+      "newBadge": true,
+      "posted": "2026-05-31",
+      "deadline": "2026-06-30",
+      "url": "https://www.indeed.com/viewjob?jk=9940874a4d409b8d",
+      "desc": "**Company Description**  \n\nInetum is a European leader in digital services. Inetum’s team of 28,000 consultants and specialists strive every day to make a digital impact for businesses, public sector entities and society. Inetum’s solutions aim at contributing to its clients’ performance and innovat…",
+      "source": "Indeed"
+    },
     {
       "id": "4515a14b9916",
       "title": "Consultant IT - Centralized Information Management - French Fluent",
