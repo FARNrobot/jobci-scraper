@@ -1,12 +1,32 @@
 {
-  "last_updated": "2026-06-04T15:27:07.358966+00:00",
-  "total": 97,
+  "last_updated": "2026-06-04T20:09:42.027790+00:00",
+  "total": 98,
   "sources": [
     "BAD",
     "Indeed",
     "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "ef35e4e4aa0e",
+      "title": "Digital and AI Compliance Specialist",
+      "org": "Siemens Energy",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Remoto",
+      "setor": "Academia",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-06-04",
+      "deadline": "2026-07-04",
+      "url": "https://www.indeed.com/viewjob?jk=8b447424c86f395e",
+      "desc": "### **A Snapshot of Your Day**\n\n\nThis role is being created to establish a dedicated AI compliance capability within the HR department. The business driver is the increasing complexity and volume of AI assessments required by regulations like the EU AI Act, which can no longer be managed by a centra…",
+      "source": "Indeed"
+    },
     {
       "id": "4a1d844a6990",
       "title": "Analista de Dados - Aveiro (M/F/D)",
