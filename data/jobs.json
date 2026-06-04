@@ -1,12 +1,52 @@
 {
-  "last_updated": "2026-06-03T21:19:32.470170+00:00",
-  "total": 95,
+  "last_updated": "2026-06-04T04:23:43.862547+00:00",
+  "total": 97,
   "sources": [
     "Indeed",
     "BAD",
     "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "4a1d844a6990",
+      "title": "Analista de Dados - Aveiro (M/F/D)",
+      "org": "Saint-Gobain",
+      "area": "Dados",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "Cultural",
+      "local": "Internacional",
+      "nivel": "Médio",
+      "tags": [
+        "Power BI",
+        "MARC",
+        "OAIS"
+      ],
+      "newBadge": true,
+      "posted": "2026-06-03",
+      "deadline": "2026-07-03",
+      "url": "https://www.indeed.com/viewjob?jk=1476852f12047ef4",
+      "desc": "**Porque precisamos de ti?**  \n\n\nPrecisamos de um perfil capaz de garantir a análise, consolidação e interpretação de dados comerciais, transformando informação em insights acionáveis que suportem a tomada de decisão e contribuam para a melhoria da performance, rentabilidade e eficiência dos process…",
+      "source": "Indeed"
+    },
+    {
+      "id": "8a289d5409fc",
+      "title": "Técnico/a de Documentação de Produto / Product Documentation Technician",
+      "org": "B-Simple - Healthcare Solutions",
+      "area": "Arquivo",
+      "contrato": "Efetivo",
+      "modalidade": "Remoto",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Médio",
+      "tags": [],
+      "newBadge": true,
+      "posted": "2026-06-03",
+      "deadline": "2026-07-03",
+      "url": "https://www.indeed.com/viewjob?jk=9cf17c064002c0da",
+      "desc": "Profissional capaz de assegurar a criação, organização e manutenção de documentação funcional de forma clara, precisa e atualizada relativa ao software, garantindo a correta utilização do sistema por diferentes stakeholders (profissionais de saúde, equipas técnicas e outros utilizadores finais).\n\n**…",
+      "source": "Indeed"
+    },
     {
       "id": "7c37f84d70d4",
       "title": "Digital Content & Social Media Consultant",
