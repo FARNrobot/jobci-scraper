@@ -1,12 +1,51 @@
 {
-  "last_updated": "2026-06-05T17:22:43.300818+00:00",
-  "total": 98,
+  "last_updated": "2026-06-05T19:59:48.982719+00:00",
+  "total": 100,
   "sources": [
-    "CM Porto",
     "BAD",
+    "CM Porto",
     "Indeed"
   ],
   "jobs": [
+    {
+      "id": "b58dcc7fb49a",
+      "title": "Information Security Analyst",
+      "org": "Acolad",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "GDPR",
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-06-05",
+      "deadline": "2026-07-05",
+      "url": "https://www.indeed.com/viewjob?jk=900bd5527c21849b",
+      "desc": "Job Description\nInformation Security Analyst\nJob Location: Lisbon, PRT, 1495\\-173\n  \n\nContract type: Fixed Term contract  \n\nAcolad is the global leader in content and language solutions. Its mission is to support companies in every industry to scale across markets and enable growth through cutting\\-…",
+      "source": "Indeed"
+    },
+    {
+      "id": "df1e913ddaae",
+      "title": "Analista de Dados",
+      "org": "Aldeias de Crianças SOS",
+      "area": "Dados",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "Privado",
+      "local": "Internacional",
+      "nivel": "Médio",
+      "tags": [],
+      "newBadge": true,
+      "posted": "2026-06-05",
+      "deadline": "2026-07-05",
+      "url": "https://www.indeed.com/viewjob?jk=c0cc8c49f8eae135",
+      "desc": "**Responsabilidades e Tarefas**\n\n\n**1\\. Suporte à gestão de Dados**\n\n\n* Realizar a inserção e importação de dados na base de dados, garantindo precisão, integridade e padronização;\n* Implementar práticas de normalização e validação de dados para uniformizar e assegurar a qualidade da informação;\n* F…",
+      "source": "Indeed"
+    },
     {
       "id": "ef35e4e4aa0e",
       "title": "Digital and AI Compliance Specialist",
