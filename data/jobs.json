@@ -1,12 +1,32 @@
 {
-  "last_updated": "2026-06-05T22:17:29.101395+00:00",
-  "total": 100,
+  "last_updated": "2026-06-06T03:51:23.392908+00:00",
+  "total": 101,
   "sources": [
-    "CM Porto",
+    "BAD",
     "Indeed",
-    "BAD"
+    "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "88d615da0390",
+      "title": "German Video Content Analyst",
+      "org": "Cognizant",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Híbrido",
+      "setor": "Cultural",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-06-05",
+      "deadline": "2026-07-05",
+      "url": "https://www.indeed.com/viewjob?jk=daac6940597648b5",
+      "desc": "Job Summary\n  \nThis role focuses on delivering high quality digital content services for clients in the hi tech industry while working in a hybrid work model. The candidate will apply native level German language skills to create review and manage content that aligns with client guidelines. The prof…",
+      "source": "Indeed"
+    },
     {
       "id": "b58dcc7fb49a",
       "title": "Information Security Analyst",
