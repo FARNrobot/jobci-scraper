@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-06-08T04:21:36.580031+00:00",
-  "total": 101,
+  "last_updated": "2026-06-08T11:03:31.470896+00:00",
+  "total": 102,
   "sources": [
-    "BAD",
+    "Indeed",
     "CM Porto",
-    "Indeed"
+    "BAD"
   ],
   "jobs": [
+    {
+      "id": "ef99277b48ac",
+      "title": "Sales Knowledge Manager",
+      "org": "Revolut",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Remoto",
+      "setor": "Cultural",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "EAD",
+        "Knowledge Management"
+      ],
+      "newBadge": true,
+      "posted": "2026-06-08",
+      "deadline": "2026-07-08",
+      "url": "https://www.indeed.com/viewjob?jk=1d8c648f3109369b",
+      "desc": "**About Revolut**\nPeople deserve more from their money. More visibility, more control, and more freedom. Since 2015, Revolut has been on a mission to deliver just that. Our powerhouse of products — including spending, saving, investing, exchanging, travelling, and more — help our 75\\+ million custom…",
+      "source": "Indeed"
+    },
     {
       "id": "88d615da0390",
       "title": "German Video Content Analyst",
