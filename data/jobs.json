@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-06-09T20:10:55.642054+00:00",
-  "total": 102,
+  "last_updated": "2026-06-09T22:25:59.721583+00:00",
+  "total": 103,
   "sources": [
-    "BAD",
+    "CM Porto",
     "Indeed",
-    "CM Porto"
+    "BAD"
   ],
   "jobs": [
+    {
+      "id": "1305be82c0b1",
+      "title": "Manager IT Information Security R&D - Digital Quality",
+      "org": "Philip Morris International",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "GDPR",
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-06-09",
+      "deadline": "2026-07-09",
+      "url": "https://www.indeed.com/viewjob?jk=5c0b7ba9955290dd",
+      "desc": "**Be a part of a revolutionary change \\- find your future in our future**\n\n\nAt PMI, we’ve chosen to do something incredible. We’re transforming our business and building our future with one clear purpose – to deliver a smoke\\-free future. We're disrupting our company from the inside out. Our transfo…",
+      "source": "Indeed"
+    },
     {
       "id": "ef99277b48ac",
       "title": "Sales Knowledge Manager",
