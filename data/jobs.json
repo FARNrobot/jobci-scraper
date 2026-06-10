@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-06-10T15:43:46.069319+00:00",
-  "total": 103,
+  "last_updated": "2026-06-10T20:35:04.491094+00:00",
+  "total": 104,
   "sources": [
+    "CM Porto",
     "Indeed",
-    "BAD",
-    "CM Porto"
+    "BAD"
   ],
   "jobs": [
+    {
+      "id": "a5152b13dd22",
+      "title": "bibliotecário",
+      "org": "None",
+      "area": "Biblioteca",
+      "contrato": "Efetivo",
+      "modalidade": "Remoto",
+      "setor": "Cultural",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [],
+      "newBadge": true,
+      "posted": "2026-06-10",
+      "deadline": "2026-07-10",
+      "url": "https://www.indeed.com/viewjob?jk=91ed72d49b2ce349",
+      "desc": "**Na nossa biblioteca em Amadora, queremos reforçar a equipa com uma pessoa responsável e com vontade de contribuir para um espaço onde a comunidade aprende, estuda e descobre novas ideias.**\n\n**O que vai fazer:**\n\n* Apoiar estudantes e visitantes na procura de informação;\n* Utilizar sistemas simple…",
+      "source": "Indeed"
+    },
     {
       "id": "1305be82c0b1",
       "title": "Manager IT Information Security R&D - Digital Quality",
