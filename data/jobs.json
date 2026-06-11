@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-06-11T16:09:27.235271+00:00",
-  "total": 104,
+  "last_updated": "2026-06-11T20:29:39.769263+00:00",
+  "total": 105,
   "sources": [
     "BAD",
-    "Indeed",
-    "CM Porto"
+    "CM Porto",
+    "Indeed"
   ],
   "jobs": [
+    {
+      "id": "d4c4b803205e",
+      "title": "Analista de Compliance Financeiro (AML) | Híbrido",
+      "org": "RecrutamentoCC",
+      "area": "Arquivo",
+      "contrato": "A Prazo",
+      "modalidade": "Híbrido",
+      "setor": "Privado",
+      "local": "Internacional",
+      "nivel": "Médio",
+      "tags": [],
+      "newBadge": true,
+      "posted": "2026-06-11",
+      "deadline": "2026-07-11",
+      "url": "https://www.indeed.com/viewjob?jk=16f347aa4cf92c87",
+      "desc": "**Analista de Compliance Financeiro (AML) \\| Híbrido**\n\nFunções:\n\n* Análise e acompanhamento de processos de AML e Screening;\n* Monitorização e validação de transações;\n* Tratamento e análise de alertas;\n* Apoio às operações FCC (Financial Crime Compliance);\n* Análise documental e tratamento de info…",
+      "source": "Indeed"
+    },
     {
       "id": "a5152b13dd22",
       "title": "bibliotecário",
