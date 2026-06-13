@@ -1,12 +1,52 @@
 {
-  "last_updated": "2026-06-13T16:16:27.585320+00:00",
-  "total": 105,
+  "last_updated": "2026-06-13T19:41:48.727333+00:00",
+  "total": 107,
   "sources": [
-    "CM Porto",
     "BAD",
+    "CM Porto",
     "Indeed"
   ],
   "jobs": [
+    {
+      "id": "1ad80c28f950",
+      "title": "Técnico de Documentação e Arquivo",
+      "org": "nan",
+      "area": "Arquivo",
+      "contrato": "Efetivo",
+      "modalidade": "Remoto",
+      "setor": "Cultural",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "Gestão Documental"
+      ],
+      "newBadge": true,
+      "posted": "2026-06-13",
+      "deadline": "2026-07-13",
+      "url": "https://www.indeed.com/viewjob?jk=f8220cb86efdf237",
+      "desc": "**Requisitos:**\n\n* Boa capacidade de organização e atenção ao detalhe\n* Gosto por livros, informação e aprendizagem contínua\n* Boa comunicação e facilidade no contacto com o público\n* Responsabilidade e pontualidade\n* Não é necessária experiência profissional\n* Formação inicial fornecida pela instit…",
+      "source": "Indeed"
+    },
+    {
+      "id": "efa335bccc5e",
+      "title": "Técnico de Documentação e Arquivo",
+      "org": "None",
+      "area": "Arquivo",
+      "contrato": "Efetivo",
+      "modalidade": "Remoto",
+      "setor": "Cultural",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "Gestão Documental"
+      ],
+      "newBadge": true,
+      "posted": "2026-06-13",
+      "deadline": "2026-07-13",
+      "url": "https://www.indeed.com/viewjob?jk=f8220cb86efdf237",
+      "desc": "**Requisitos:**\n\n* Boa capacidade de organização e atenção ao detalhe\n* Gosto por livros, informação e aprendizagem contínua\n* Boa comunicação e facilidade no contacto com o público\n* Responsabilidade e pontualidade\n* Não é necessária experiência profissional\n* Formação inicial fornecida pela instit…",
+      "source": "Indeed"
+    },
     {
       "id": "d4c4b803205e",
       "title": "Analista de Compliance Financeiro (AML) | Híbrido",
