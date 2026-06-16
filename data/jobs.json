@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-06-16T04:46:22.988204+00:00",
-  "total": 107,
+  "last_updated": "2026-06-16T11:18:57.286913+00:00",
+  "total": 108,
   "sources": [
     "Indeed",
-    "CM Porto",
-    "BAD"
+    "BAD",
+    "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "11c80662874a",
+      "title": "Senior Analyst - Governance & Compliance",
+      "org": "Boston Consulting Group",
+      "area": "Arquivo",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Júnior",
+      "tags": [
+        "Power BI",
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-06-14",
+      "deadline": "2026-07-14",
+      "url": "https://www.indeed.com/viewjob?jk=3c51de7c68165630",
+      "desc": "Who We Are\n\n\nBoston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963\\. Today, we help clients with total transformation\\-inspiring co…",
+      "source": "Indeed"
+    },
     {
       "id": "1ad80c28f950",
       "title": "Técnico de Documentação e Arquivo",
