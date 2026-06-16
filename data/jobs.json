@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-06-16T20:56:05.708033+00:00",
-  "total": 108,
+  "last_updated": "2026-06-16T22:54:53.676562+00:00",
+  "total": 109,
   "sources": [
-    "Indeed",
     "CM Porto",
-    "BAD"
+    "BAD",
+    "Indeed"
   ],
   "jobs": [
+    {
+      "id": "9d43a1730c20",
+      "title": "Digital Transformation Analyst",
+      "org": "Parfois",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "Power BI",
+        "SQL"
+      ],
+      "newBadge": true,
+      "posted": "2026-06-16",
+      "deadline": "2026-07-16",
+      "url": "https://www.indeed.com/viewjob?jk=c6f0b0bec5bf4633",
+      "desc": "**M/F**  \n\n**Location: Porto, Portugal**\n\n**ABOUT US**\n\n\nPARFOIS is a fast\\-growing women’s accessories brand based in Portugal, present in over 70 countries with more than 1,000 stores worldwide.\n\n\nWe operate in a dynamic and evolving environment, where data, innovation, and efficiency are key to d…",
+      "source": "Indeed"
+    },
     {
       "id": "11c80662874a",
       "title": "Senior Analyst - Governance & Compliance",
