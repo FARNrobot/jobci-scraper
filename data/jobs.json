@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-06-16T11:18:57.286913+00:00",
+  "last_updated": "2026-06-16T17:01:27.976240+00:00",
   "total": 108,
   "sources": [
-    "Indeed",
     "BAD",
+    "Indeed",
     "CM Porto"
   ],
   "jobs": [
@@ -21,7 +21,7 @@
         "Power BI",
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-06-14",
       "deadline": "2026-07-14",
       "url": "https://www.indeed.com/viewjob?jk=3c51de7c68165630",
