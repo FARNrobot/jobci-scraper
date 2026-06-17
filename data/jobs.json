@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T22:54:53.676562+00:00",
+  "last_updated": "2026-06-17T04:26:47.290267+00:00",
   "total": 109,
   "sources": [
     "CM Porto",
@@ -21,7 +21,7 @@
         "Power BI",
         "SQL"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-06-16",
       "deadline": "2026-07-16",
       "url": "https://www.indeed.com/viewjob?jk=c6f0b0bec5bf4633",
