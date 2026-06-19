@@ -1,12 +1,32 @@
 {
-  "last_updated": "2026-06-18T22:57:06.577691+00:00",
-  "total": 109,
+  "last_updated": "2026-06-19T04:47:50.121071+00:00",
+  "total": 110,
   "sources": [
+    "BAD",
     "Indeed",
-    "CM Porto",
-    "BAD"
+    "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "eee32108374f",
+      "title": "Business Information Analyst",
+      "org": "De Heus",
+      "area": "Dados",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "Privado",
+      "local": "Internacional",
+      "nivel": "Médio",
+      "tags": [
+        "Digitalização"
+      ],
+      "newBadge": true,
+      "posted": "2026-06-19",
+      "deadline": "2026-07-19",
+      "url": "https://www.indeed.com/viewjob?jk=2f1e29204b5dee71",
+      "desc": "Empresa multinacional está a recrutar BUSINESS INFORMATION ANALYST para a fábrica do Cartaxo ou da Trofa.\n  \n  \n\nReportando à Direção\\-Geral, integrará projeto estratégico de modernização da De Heus.\n  \n  \n\n**Principais responsabilidades:**  \n\n– Contribuir para a transformação digital e digitalizaçã…",
+      "source": "Indeed"
+    },
     {
       "id": "9d43a1730c20",
       "title": "Digital Transformation Analyst",
