@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-06-19T19:53:22.045051+00:00",
-  "total": 110,
+  "last_updated": "2026-06-19T22:07:27.050356+00:00",
+  "total": 111,
   "sources": [
-    "Indeed",
+    "CM Porto",
     "BAD",
-    "CM Porto"
+    "Indeed"
   ],
   "jobs": [
+    {
+      "id": "cccc8af389cd",
+      "title": "Documentation Matching Analyst",
+      "org": "BNP Paribas",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Remoto",
+      "setor": "Público",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "EAD",
+        "FAIR"
+      ],
+      "newBadge": true,
+      "posted": "2026-06-19",
+      "deadline": "2026-07-19",
+      "url": "https://www.indeed.com/viewjob?jk=3570d990489f6b01",
+      "desc": "About the job\n  \n  \n\nThe Documentation Matching Analyst is responsible for checking the integrity and accuracy of the booking and help manage the subsequent risks undertaken by the business lines\n  \n  \n\nThe Matching teams’ primary function is to support the Trading and Sales desks through the matchi…",
+      "source": "Indeed"
+    },
     {
       "id": "eee32108374f",
       "title": "Business Information Analyst",
