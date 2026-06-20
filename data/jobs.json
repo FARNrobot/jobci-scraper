@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T22:07:27.050356+00:00",
+  "last_updated": "2026-06-20T04:01:57.595313+00:00",
   "total": 111,
   "sources": [
     "CM Porto",
@@ -21,7 +21,7 @@
         "EAD",
         "FAIR"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-06-19",
       "deadline": "2026-07-19",
       "url": "https://www.indeed.com/viewjob?jk=3570d990489f6b01",
