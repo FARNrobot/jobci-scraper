@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-25T20:05:14.035216+00:00",
+  "last_updated": "2026-06-25T22:22:51.357285+00:00",
   "total": 112,
   "sources": [
-    "Indeed",
     "CM Porto",
-    "BAD"
+    "BAD",
+    "Indeed"
   ],
   "jobs": [
     {
@@ -21,7 +21,7 @@
         "EAD",
         "Knowledge Management"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-06-25",
       "deadline": "2026-07-25",
       "url": "https://www.indeed.com/viewjob?jk=e0ba32a3f002510d",
