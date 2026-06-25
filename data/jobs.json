@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-06-25T17:13:23.174713+00:00",
-  "total": 111,
+  "last_updated": "2026-06-25T20:05:14.035216+00:00",
+  "total": 112,
   "sources": [
-    "CM Porto",
     "Indeed",
+    "CM Porto",
     "BAD"
   ],
   "jobs": [
+    {
+      "id": "34d8b9101261",
+      "title": "Knowledge Management Senior Specialist - Customer Practice (B2B Commercial Excellence)",
+      "org": "Bain & Company",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Híbrido",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Júnior",
+      "tags": [
+        "EAD",
+        "Knowledge Management"
+      ],
+      "newBadge": true,
+      "posted": "2026-06-25",
+      "deadline": "2026-07-25",
+      "url": "https://www.indeed.com/viewjob?jk=e0ba32a3f002510d",
+      "desc": "* Applications must be submitted in English\\*\n\n\nWHAT MAKES US A GREAT PLACE TO WORK\n  \n  \n\nWe are proud to be consistently recognized as one of the world’s best places to work. We are currently the top ranked consulting firm on \\[1] Glassdoor’s Best Places to Work list and have earned the \\#1 overal…",
+      "source": "Indeed"
+    },
     {
       "id": "cccc8af389cd",
       "title": "Documentation Matching Analyst",
