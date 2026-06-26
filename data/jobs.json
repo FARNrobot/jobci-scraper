@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-06-26T17:02:56.507664+00:00",
-  "total": 112,
+  "last_updated": "2026-06-26T19:54:09.704276+00:00",
+  "total": 113,
   "sources": [
+    "Indeed",
     "CM Porto",
-    "BAD",
-    "Indeed"
+    "BAD"
   ],
   "jobs": [
+    {
+      "id": "040efad4c345",
+      "title": "Analista de Compliance & Riscos | Portugal",
+      "org": "Oportunidade Mercado Bitcoin",
+      "area": "Arquivo",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "Privado",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [],
+      "newBadge": true,
+      "posted": "2026-06-26",
+      "deadline": "2026-07-26",
+      "url": "https://www.indeed.com/viewjob?jk=0ec76e4a906d1bc0",
+      "desc": "Procuramos um(a) Analista para integrar a nossa função de cumprimento normativo num momento decisivo do mercado europeu de criptoativos — a plena aplicação do Regulamento MiCA (em vigor desde 30/12/2024, implementado em Portugal pela Lei n.o 69/2025\\) e a transição do regime VASP para a autorização…",
+      "source": "Indeed"
+    },
     {
       "id": "34d8b9101261",
       "title": "Knowledge Management Senior Specialist - Customer Practice (B2B Commercial Excellence)",
