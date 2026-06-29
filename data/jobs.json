@@ -1,12 +1,32 @@
 {
-  "last_updated": "2026-06-29T11:06:52.227512+00:00",
-  "total": 113,
+  "last_updated": "2026-06-29T15:53:09.738090+00:00",
+  "total": 114,
   "sources": [
+    "Indeed",
     "CM Porto",
-    "BAD",
-    "Indeed"
+    "BAD"
   ],
   "jobs": [
+    {
+      "id": "dd5208b383b8",
+      "title": "Business Data Steward",
+      "org": "Syensqo",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Híbrido",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Médio",
+      "tags": [
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-06-29",
+      "deadline": "2026-07-29",
+      "url": "https://www.indeed.com/viewjob?jk=a4088e6b818bfb28",
+      "desc": "Syensqo is all about chemistry. We’re not just referring to chemical reactions here, but also to the magic that occurs when the brightest minds get to work together. This is where our true strength lies. In you. In your future colleagues and in all your differences. And of course, in your ideas to i…",
+      "source": "Indeed"
+    },
     {
       "id": "040efad4c345",
       "title": "Analista de Compliance & Riscos | Portugal",
