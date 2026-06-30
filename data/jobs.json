@@ -1,12 +1,32 @@
 {
-  "last_updated": "2026-06-30T17:07:59.261699+00:00",
-  "total": 114,
+  "last_updated": "2026-06-30T20:03:14.941231+00:00",
+  "total": 115,
   "sources": [
-    "CM Porto",
     "Indeed",
+    "CM Porto",
     "BAD"
   ],
   "jobs": [
+    {
+      "id": "1b2417438323",
+      "title": "Business Data Steward (Late Shift)",
+      "org": "Syensqo",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Híbrido",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Médio",
+      "tags": [
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-06-30",
+      "deadline": "2026-07-30",
+      "url": "https://www.indeed.com/viewjob?jk=cd5d9e2e7b997d7d",
+      "desc": "Syensqo is all about chemistry. We’re not just referring to chemical reactions here, but also to the magic that occurs when the brightest minds get to work together. This is where our true strength lies. In you. In your future colleagues and in all your differences. And of course, in your ideas to i…",
+      "source": "Indeed"
+    },
     {
       "id": "dd5208b383b8",
       "title": "Business Data Steward",
