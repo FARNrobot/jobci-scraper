@@ -1,12 +1,53 @@
 {
-  "last_updated": "2026-07-02T03:53:56.510330+00:00",
-  "total": 115,
+  "last_updated": "2026-07-02T09:18:01.547265+00:00",
+  "total": 117,
   "sources": [
-    "Indeed",
     "CM Porto",
-    "BAD"
+    "BAD",
+    "Indeed"
   ],
   "jobs": [
+    {
+      "id": "fa1ee693e7d7",
+      "title": "Business Analyst | MC, Quebra, Segurança e Compliance Operacional",
+      "org": "SONAE",
+      "area": "Gestão da Informação",
+      "contrato": "Bolsa",
+      "modalidade": "Presencial",
+      "setor": "Cultural",
+      "local": "Internacional",
+      "nivel": "Médio",
+      "tags": [
+        "EAD",
+        "MARC"
+      ],
+      "newBadge": true,
+      "posted": "2026-07-02",
+      "deadline": "2026-08-01",
+      "url": "https://www.indeed.com/viewjob?jk=80f99d2ca872fe6b",
+      "desc": "A MC está à procura de um/a Business Analyst para integrar a equipa de Quebra, Segurança e Compliance Operacional da Direção de Desenvolvimento de Operações.\n  \n  \n\nA empresa coloca as pessoas no centro, sejam clientes, colaboradores ou comunidade, promovendo uma cultura inclusiva, próxima e orienta…",
+      "source": "Indeed"
+    },
+    {
+      "id": "49d2bfb93ba6",
+      "title": "Information Security Analyst",
+      "org": "WIRE IT",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Remoto",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "Python"
+      ],
+      "newBadge": true,
+      "posted": "2026-07-01",
+      "deadline": "2026-07-31",
+      "url": "https://www.indeed.com/viewjob?jk=a6b11189a3b2f270",
+      "desc": "Based in Portugal, Wire IT is your specialized IT consulting partner with 18 years of experience driven by an experienced and senior team that helps clients make the right decisions in a fast\\-moving market.\n\n\nWire IT's ambition is to grow while keeping true to its nature: agile, people\\-centered, a…",
+      "source": "Indeed"
+    },
     {
       "id": "1b2417438323",
       "title": "Business Data Steward (Late Shift)",
