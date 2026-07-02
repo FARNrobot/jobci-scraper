@@ -1,12 +1,32 @@
 {
-  "last_updated": "2026-07-02T09:18:01.547265+00:00",
-  "total": 117,
+  "last_updated": "2026-07-02T14:09:26.425684+00:00",
+  "total": 118,
   "sources": [
     "CM Porto",
     "BAD",
     "Indeed"
   ],
   "jobs": [
+    {
+      "id": "f0bc8b309532",
+      "title": "Compliance Analyst",
+      "org": "Paymentology",
+      "area": "Arquivo",
+      "contrato": "Efetivo",
+      "modalidade": "Remoto",
+      "setor": "Academia",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-07-02",
+      "deadline": "2026-08-01",
+      "url": "https://www.indeed.com/viewjob?jk=82ce720703e54f16",
+      "desc": "At **Paymentology**, we’re redefining what’s possible in the payments space. As the first truly global issuer\\-processor, we give banks and fintechs the technology and talent to launch and manage Mastercard and Visa cards at scale \\- across more than 60 countries.\n\n\nOur advanced, multi\\-cloud platfo…",
+      "source": "Indeed"
+    },
     {
       "id": "fa1ee693e7d7",
       "title": "Business Analyst | MC, Quebra, Segurança e Compliance Operacional",
@@ -21,7 +41,7 @@
         "EAD",
         "MARC"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-07-02",
       "deadline": "2026-08-01",
       "url": "https://www.indeed.com/viewjob?jk=80f99d2ca872fe6b",
@@ -41,7 +61,7 @@
       "tags": [
         "Python"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-07-01",
       "deadline": "2026-07-31",
       "url": "https://www.indeed.com/viewjob?jk=a6b11189a3b2f270",
