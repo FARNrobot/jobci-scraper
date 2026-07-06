@@ -1,12 +1,36 @@
 {
-  "last_updated": "2026-07-06T10:43:27.182237+00:00",
-  "total": 118,
+  "last_updated": "2026-07-06T15:40:41.765852+00:00",
+  "total": 119,
   "sources": [
+    "CM Porto",
     "Indeed",
-    "BAD",
-    "CM Porto"
+    "BAD"
   ],
   "jobs": [
+    {
+      "id": "2f55f9fa1056",
+      "title": "Senior Consultant IT - Centralized Information Management - French Fluent",
+      "org": "MC2I",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Júnior",
+      "tags": [
+        "SharePoint",
+        "GDPR",
+        "EAD",
+        "FAIR",
+        "Microsoft 365"
+      ],
+      "newBadge": true,
+      "posted": "2026-07-06",
+      "deadline": "2026-08-05",
+      "url": "https://www.indeed.com/viewjob?jk=58a3f77e7a16a050",
+      "desc": "Localisation :\nLocalisation\nPorto, Portugal\nContrat :\nType de contrat\nCDI\nPostuler à l'offre Senior Consultant IT \\- Centralized Information Management \\- French Fluent (Nouvel onglet)\nRetour aux offres\nDescription\nmc2i est un **cabinet de conseil indépendant** qui accompagne ses clients grands comp…",
+      "source": "Indeed"
+    },
     {
       "id": "f0bc8b309532",
       "title": "Compliance Analyst",
