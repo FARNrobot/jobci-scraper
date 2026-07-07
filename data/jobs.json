@@ -1,12 +1,32 @@
 {
-  "last_updated": "2026-07-07T17:20:11.610756+00:00",
-  "total": 120,
+  "last_updated": "2026-07-07T20:00:12.754550+00:00",
+  "total": 121,
   "sources": [
-    "CM Porto",
     "Indeed",
-    "BAD"
+    "BAD",
+    "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "b6e6e008ac99",
+      "title": "Digital Content & Optimization Specialist",
+      "org": "CINESA",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Remoto",
+      "setor": "Privado",
+      "local": "Internacional",
+      "nivel": "Médio",
+      "tags": [
+        "CMS"
+      ],
+      "newBadge": true,
+      "posted": "2026-07-07",
+      "deadline": "2026-08-06",
+      "url": "https://www.indeed.com/viewjob?jk=d3b403a8fba1360e",
+      "desc": "**Position: Digital Content \\& Optimization Specialist**\n\nLocation: Barcelona / Madrid / Lisboa / Porto\n\n\nReports to: Digital Platform Manager SE\n\n\nOdeon Cinemas Group, together with UCI and Cinesa, is one of the largest cinema chains in Europe and is part of AMC Entertainment Holdings, which operat…",
+      "source": "Indeed"
+    },
     {
       "id": "ebe9b9ef1733",
       "title": "Analyst - Digital Strategy & Development",
@@ -21,7 +41,7 @@
         "EAD",
         "MARC"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-07-07",
       "deadline": "2026-08-06",
       "url": "https://www.indeed.com/viewjob?jk=15fb9f5c2cb48d34",
