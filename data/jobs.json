@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-07-07T14:43:59.947290+00:00",
-  "total": 119,
+  "last_updated": "2026-07-07T17:20:11.610756+00:00",
+  "total": 120,
   "sources": [
-    "Indeed",
     "CM Porto",
+    "Indeed",
     "BAD"
   ],
   "jobs": [
+    {
+      "id": "ebe9b9ef1733",
+      "title": "Analyst - Digital Strategy & Development",
+      "org": "Banco de Investimento Global",
+      "area": "Dados",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "Academia",
+      "local": "Internacional",
+      "nivel": "Júnior",
+      "tags": [
+        "EAD",
+        "MARC"
+      ],
+      "newBadge": true,
+      "posted": "2026-07-07",
+      "deadline": "2026-08-06",
+      "url": "https://www.indeed.com/viewjob?jk=15fb9f5c2cb48d34",
+      "desc": "**Description:**\n----------------\n\n\nBanco de Investimento Global, S.A. (\"BiG\") is an independent financial institution, wholly owned by private investors and headquartered in Lisbon, which has been operating for more than 25 years in Portugal and since 2020 in Spain.\n\n\n\nThe Bank's business focuses o…",
+      "source": "Indeed"
+    },
     {
       "id": "2f55f9fa1056",
       "title": "Senior Consultant IT - Centralized Information Management - French Fluent",
