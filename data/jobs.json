@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T14:41:36.664039+00:00",
+  "last_updated": "2026-07-13T17:15:17.518453+00:00",
   "total": 122,
   "sources": [
     "BAD",
@@ -21,7 +21,7 @@
         "EAD",
         "FAIR"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-07-13",
       "deadline": "2026-08-12",
       "url": "https://www.indeed.com/viewjob?jk=59f4c3274f36a83c",
