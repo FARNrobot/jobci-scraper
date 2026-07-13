@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-07-13T09:33:42.303849+00:00",
-  "total": 121,
+  "last_updated": "2026-07-13T14:41:36.664039+00:00",
+  "total": 122,
   "sources": [
-    "CM Porto",
+    "BAD",
     "Indeed",
-    "BAD"
+    "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "3cecb127ef5e",
+      "title": "GMO Documentation - Equities Matching Analyst",
+      "org": "BNP Paribas",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Remoto",
+      "setor": "Público",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "EAD",
+        "FAIR"
+      ],
+      "newBadge": true,
+      "posted": "2026-07-13",
+      "deadline": "2026-08-12",
+      "url": "https://www.indeed.com/viewjob?jk=59f4c3274f36a83c",
+      "desc": "About the job\n  \n  \n\nThe Documentation Matching Analyst is responsible for checking the integrity and accuracy of the booking and help managing the subsequent risks undertaken by the business lines\n  \n  \n\nThe Matching teams’ primary function is to support the Trading and Sales desks through the matc…",
+      "source": "Indeed"
+    },
     {
       "id": "b6e6e008ac99",
       "title": "Digital Content & Optimization Specialist",
