@@ -1,12 +1,32 @@
 {
-  "last_updated": "2026-07-14T19:24:10.622863+00:00",
-  "total": 123,
+  "last_updated": "2026-07-14T22:01:01.142170+00:00",
+  "total": 124,
   "sources": [
+    "BAD",
     "CM Porto",
-    "Indeed",
-    "BAD"
+    "Indeed"
   ],
   "jobs": [
+    {
+      "id": "4f961706963c",
+      "title": "Data & Information Manager (m/f/d)",
+      "org": "Lufthansa Technik Portugal S.A",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "Privado",
+      "local": "Internacional",
+      "nivel": "Médio",
+      "tags": [
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-07-14",
+      "deadline": "2026-08-13",
+      "url": "https://www.indeed.com/viewjob?jk=e0366bc883426fd7",
+      "desc": "* Location\nSanta Maria da Feira\n* Employment level\nDirect entry\n* Function\nMaintenance and Repair\n* Working time\nFull time\n\n\n  \nAre you ready to be part of something extraordinary? We’re establishing a new MRO facility near Porto, Portugal. This location will be repairing engine and aircraft compone…",
+      "source": "Indeed"
+    },
     {
       "id": "fef6d703b0df",
       "title": "Knowledge Management Lead - (m/f/d)",
