@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-07-14T13:51:24.115845+00:00",
-  "total": 122,
+  "last_updated": "2026-07-14T16:18:30.352004+00:00",
+  "total": 123,
   "sources": [
-    "CM Porto",
     "BAD",
-    "Indeed"
+    "Indeed",
+    "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "fef6d703b0df",
+      "title": "Knowledge Management Lead - (m/f/d)",
+      "org": "Siemens",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "EAD",
+        "Knowledge Management"
+      ],
+      "newBadge": true,
+      "posted": "2026-07-14",
+      "deadline": "2026-08-13",
+      "url": "https://www.indeed.com/viewjob?jk=6b48d8da073d2de3",
+      "desc": "**Let’s make tomorrow different today.**\n\n\n\nAt Siemens, we're not just building technology; we're building a better future. Our Global Business Services (GBS) organization is at the heart of our operations, driving efficiency and innovation across the globe. We believe in the power of continuous imp…",
+      "source": "Indeed"
+    },
     {
       "id": "3cecb127ef5e",
       "title": "GMO Documentation - Equities Matching Analyst",
