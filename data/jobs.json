@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T22:01:01.142170+00:00",
+  "last_updated": "2026-07-15T02:43:58.073474+00:00",
   "total": 124,
   "sources": [
     "BAD",
@@ -20,7 +20,7 @@
       "tags": [
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-07-14",
       "deadline": "2026-08-13",
       "url": "https://www.indeed.com/viewjob?jk=e0366bc883426fd7",
