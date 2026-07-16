@@ -1,12 +1,53 @@
 {
-  "last_updated": "2026-07-15T22:04:33.376544+00:00",
-  "total": 124,
+  "last_updated": "2026-07-16T02:50:38.611432+00:00",
+  "total": 126,
   "sources": [
-    "BAD",
     "Indeed",
+    "BAD",
     "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "bd36a931cb5d",
+      "title": "Analista de Dados Mestre (M/F)",
+      "org": "Grupo Lusiaves",
+      "area": "Arquivo",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Médio",
+      "tags": [
+        "EAD",
+        "Gestão Documental"
+      ],
+      "newBadge": true,
+      "posted": "2026-07-15",
+      "deadline": "2026-08-14",
+      "url": "https://www.indeed.com/viewjob?jk=ed61236938a7a247",
+      "desc": "Na equipa de inovação e tecnologia estão todos dedicados a implementar e manter as melhores soluções para o negócio. É um desafio que requer *skills* técnicas avançadas, coragem e ambição. , Estamos à procura de pessoas que consigam resolver problemas rapidamente e eficazmente, mantendo as operações…",
+      "source": "Indeed"
+    },
+    {
+      "id": "65839838f08d",
+      "title": "IT Business Systems Analyst – Content Localization",
+      "org": "Expleo Group",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Remoto",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-07-15",
+      "deadline": "2026-08-14",
+      "url": "https://www.indeed.com/viewjob?jk=cdebee81db98b004",
+      "desc": "Overview:\n\nExpleo is a trusted partner for your innovation journey. As a global engineering, technology and consulting service provider, we are ideally positioned to help you achieve your ambitions and future\\-proof your business. With a smart blend of bold thinking and reliable execution, we’re abl…",
+      "source": "Indeed"
+    },
     {
       "id": "4f961706963c",
       "title": "Data & Information Manager (m/f/d)",
