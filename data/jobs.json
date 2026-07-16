@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-07-16T19:16:53.751964+00:00",
-  "total": 126,
+  "last_updated": "2026-07-16T22:05:24.284774+00:00",
+  "total": 127,
   "sources": [
-    "Indeed",
     "CM Porto",
-    "BAD"
+    "BAD",
+    "Indeed"
   ],
   "jobs": [
+    {
+      "id": "6faf0064f73d",
+      "title": "Documentation Drafting Analyst",
+      "org": "BNP Paribas",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Remoto",
+      "setor": "Público",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "EAD",
+        "FAIR"
+      ],
+      "newBadge": true,
+      "posted": "2026-07-16",
+      "deadline": "2026-08-15",
+      "url": "https://www.indeed.com/viewjob?jk=748fef8ba2c720e5",
+      "desc": "About the job\n  \n  \n\nThe Documentation Drafting Analyst's mission is to manage the subsequent risks undertaken by the business lines by checking the integrity and accuracy of the booking\n  \n  \n\nThe teams primary function is to support the Trading and Sales desks through the drafting of Over The Coun…",
+      "source": "Indeed"
+    },
     {
       "id": "bd36a931cb5d",
       "title": "Analista de Dados Mestre (M/F)",
