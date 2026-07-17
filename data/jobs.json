@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-17T13:45:17.295821+00:00",
-  "total": 127,
+  "last_updated": "2026-07-17T16:17:39.848981+00:00",
+  "total": 128,
   "sources": [
     "Indeed",
     "BAD",
@@ -129,6 +129,26 @@
       "deadline": "2026-08-12",
       "url": "https://www.indeed.com/viewjob?jk=59f4c3274f36a83c",
       "desc": "About the job\n  \n  \n\nThe Documentation Matching Analyst is responsible for checking the integrity and accuracy of the booking and help managing the subsequent risks undertaken by the business lines\n  \n  \n\nThe Matching teams’ primary function is to support the Trading and Sales desks through the matc…",
+      "source": "Indeed"
+    },
+    {
+      "id": "47756026ef2f",
+      "title": "Specialist Digital Content Solutions (f/m/div)",
+      "org": "Infineon Technologies",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-07-09",
+      "deadline": "2026-08-08",
+      "url": "https://www.indeed.com/viewjob?jk=5f7b3206c54da907",
+      "desc": "\\#WeAreIn for jobs that impact everyone’s life Your steady execution, creative problem\\-solving, and commitment to quality create a foundation that allows innovation to happen and success to grow. As a Specialist Digital Content Solutions in our Corporate Functions team, you ensure processes run eff…",
       "source": "Indeed"
     },
     {
