@@ -1,12 +1,53 @@
 {
-  "last_updated": "2026-07-20T14:12:31.700179+00:00",
-  "total": 128,
+  "last_updated": "2026-07-20T16:26:03.331855+00:00",
+  "total": 130,
   "sources": [
     "Indeed",
-    "BAD",
-    "CM Porto"
+    "CM Porto",
+    "BAD"
   ],
   "jobs": [
+    {
+      "id": "8a93ceeee5c1",
+      "title": "Enterprise Information Architect (f/m/d)",
+      "org": "Essity",
+      "area": "UX",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [],
+      "newBadge": true,
+      "posted": "2026-07-20",
+      "deadline": "2026-08-19",
+      "url": "https://www.indeed.com/viewjob?jk=c6785c702b460f5d",
+      "desc": "**Enterprise Information Architect (f/m/d)**\n\nAre you passionate about shaping how data is structured across an enterprise? Do you enjoy connecting business needs with scalable data architecture?\n\n\nA t Essity, our mission is to empower consumers, patients, and caregivers with products and solutions…",
+      "source": "Indeed"
+    },
+    {
+      "id": "dd6d116ae96d",
+      "title": "Clearing Data Steward",
+      "org": "Euronext",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "Power BI",
+        "SQL",
+        "EAD",
+        "DMP"
+      ],
+      "newBadge": true,
+      "posted": "2026-07-20",
+      "deadline": "2026-08-19",
+      "url": "https://www.indeed.com/viewjob?jk=73921d14f2990c01",
+      "desc": "**Join Euronext as a Clearing Data Steward**\n\n**About Euronext:**\n\nEuronext is the leading pan\\-European market infrastructure, shaping capital markets for future generations. Its mission is to connect European economies to global capital markets, to accelerate innovation and sustainable growth. Eur…",
+      "source": "Indeed"
+    },
     {
       "id": "6faf0064f73d",
       "title": "Documentation Drafting Analyst",
