@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-07-20T16:26:03.331855+00:00",
-  "total": 130,
+  "last_updated": "2026-07-20T19:46:40.852595+00:00",
+  "total": 131,
   "sources": [
+    "BAD",
     "Indeed",
-    "CM Porto",
-    "BAD"
+    "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "8faba0675105",
+      "title": "Senior Specialist, Knowledge Management - Strategy & Transformation",
+      "org": "Bain & Company",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Híbrido",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Júnior",
+      "tags": [
+        "EAD",
+        "Knowledge Management"
+      ],
+      "newBadge": true,
+      "posted": "2026-07-20",
+      "deadline": "2026-08-19",
+      "url": "https://www.indeed.com/viewjob?jk=dd9f264250fd3147",
+      "desc": "***\\*Applications must be submitted in English\\****\n\n\n**WHAT MAKES US A GREAT PLACE TO WORK**\n\nWe are proud to be consistently recognized as one of the world’s best places to work. We are currently the top ranked consulting firm on Glassdoor’s Best Places to Work list and have earned the \\#1 overall…",
+      "source": "Indeed"
+    },
     {
       "id": "8a93ceeee5c1",
       "title": "Enterprise Information Architect (f/m/d)",
@@ -18,7 +39,7 @@
       "local": "Internacional",
       "nivel": "Sénior",
       "tags": [],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-07-20",
       "deadline": "2026-08-19",
       "url": "https://www.indeed.com/viewjob?jk=c6785c702b460f5d",
@@ -41,7 +62,7 @@
         "EAD",
         "DMP"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-07-20",
       "deadline": "2026-08-19",
       "url": "https://www.indeed.com/viewjob?jk=73921d14f2990c01",
