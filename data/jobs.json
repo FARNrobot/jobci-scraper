@@ -1,12 +1,32 @@
 {
-  "last_updated": "2026-07-21T16:24:27.743142+00:00",
-  "total": 131,
+  "last_updated": "2026-07-21T19:35:46.718410+00:00",
+  "total": 132,
   "sources": [
-    "Indeed",
     "CM Porto",
+    "Indeed",
     "BAD"
   ],
   "jobs": [
+    {
+      "id": "7e92e309cfd5",
+      "title": "Junior IPT Compliance Analyst",
+      "org": "Sovos",
+      "area": "Gestão da Informação",
+      "contrato": "Estágio",
+      "modalidade": "Presencial",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Júnior",
+      "tags": [
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-07-21",
+      "deadline": "2026-08-20",
+      "url": "https://www.indeed.com/viewjob?jk=1e9ac529ad91840c",
+      "desc": "**Build your future with Sovos.**\n\n\n\nIf you are looking for an opportunity where career\\-minded professionals can achieve success while bringing their best and whole selves to work each day, Sovos may be the company you have been looking for. Employees at Sovos operate on the leading edge of digital…",
+      "source": "Indeed"
+    },
     {
       "id": "8faba0675105",
       "title": "Senior Specialist, Knowledge Management - Strategy & Transformation",
