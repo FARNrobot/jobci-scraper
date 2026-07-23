@@ -1,12 +1,32 @@
 {
-  "last_updated": "2026-07-23T14:08:38.684410+00:00",
-  "total": 133,
+  "last_updated": "2026-07-23T16:38:41.226216+00:00",
+  "total": 134,
   "sources": [
     "CM Porto",
-    "Indeed",
-    "BAD"
+    "BAD",
+    "Indeed"
   ],
   "jobs": [
+    {
+      "id": "9371cd2a2eb9",
+      "title": "Compliance Analyst",
+      "org": "Intapp",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Híbrido",
+      "setor": "Academia",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-07-23",
+      "deadline": "2026-08-22",
+      "url": "https://www.indeed.com/viewjob?jk=9a1fd5f4965aeade",
+      "desc": "Intapp is looking for a Compliance Analyst with a strong interest in security Governance, Risk, and Compliance (GRC) and some demonstrable experience in the area. We're looking for someone who is eager to learn, take ownership, and grow their career in security. In return, you'll have the opportunit…",
+      "source": "Indeed"
+    },
     {
       "id": "602677a51ad4",
       "title": "HR Information System Analyst",
@@ -20,7 +40,7 @@
       "tags": [
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-07-23",
       "deadline": "2026-08-22",
       "url": "https://www.indeed.com/viewjob?jk=df72770e8b933852",
