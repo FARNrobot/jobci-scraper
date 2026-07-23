@@ -1,12 +1,32 @@
 {
-  "last_updated": "2026-07-23T11:13:07.416931+00:00",
-  "total": 132,
+  "last_updated": "2026-07-23T14:08:38.684410+00:00",
+  "total": 133,
   "sources": [
-    "BAD",
+    "CM Porto",
     "Indeed",
-    "CM Porto"
+    "BAD"
   ],
   "jobs": [
+    {
+      "id": "602677a51ad4",
+      "title": "HR Information System Analyst",
+      "org": "DSV",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Híbrido",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-07-23",
+      "deadline": "2026-08-22",
+      "url": "https://www.indeed.com/viewjob?jk=df72770e8b933852",
+      "desc": "If you are a current DSV employee and interested in a position in another country, please contact your Human Resource representative to discuss the process and requirements of applying.\n\n\nJob Req Number: 122618  \n\nTime Type: Full Time\n\n\n\n**PLEASE REMEMBER TO CLICK \"APPLY\" BUTTON AFTER SAVING YOUR PR…",
+      "source": "Indeed"
+    },
     {
       "id": "7e92e309cfd5",
       "title": "Junior IPT Compliance Analyst",
