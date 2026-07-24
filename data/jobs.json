@@ -1,12 +1,32 @@
 {
-  "last_updated": "2026-07-24T13:50:51.802846+00:00",
-  "total": 134,
+  "last_updated": "2026-07-24T16:45:07.429725+00:00",
+  "total": 135,
   "sources": [
-    "BAD",
     "CM Porto",
-    "Indeed"
+    "Indeed",
+    "BAD"
   ],
   "jobs": [
+    {
+      "id": "52b8e9914904",
+      "title": "Analista de Gestão e Operações - Azambuja",
+      "org": "Politejo",
+      "area": "Dados",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "Privado",
+      "local": "Internacional",
+      "nivel": "Júnior",
+      "tags": [
+        "OAIS"
+      ],
+      "newBadge": true,
+      "posted": "2026-07-24",
+      "deadline": "2026-08-23",
+      "url": "https://www.indeed.com/viewjob?jk=bdef8cb1c1e68c2e",
+      "desc": "Na Politejo a nossa missão é desenvolver e fabricar soluções que melhorem as condições de vida das populações, contribuindo para a preservação do meio ambiente. Dispomos da mais ampla gama de soluções termoplásticas para redes de infraestruturas. Dispomos de dez fábricas distribuídas por cinco paíse…",
+      "source": "Indeed"
+    },
     {
       "id": "9371cd2a2eb9",
       "title": "Compliance Analyst",
