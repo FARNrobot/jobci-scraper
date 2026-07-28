@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-07-28T02:46:05.097698+00:00",
-  "total": 135,
+  "last_updated": "2026-07-28T05:49:35.973662+00:00",
+  "total": 136,
   "sources": [
-    "CM Porto",
     "Indeed",
-    "BAD"
+    "BAD",
+    "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "59f07d73fedb",
+      "title": "Records Management Office Controller",
+      "org": "Inetum",
+      "area": "Arquivo",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "EAD",
+        "Records Management"
+      ],
+      "newBadge": true,
+      "posted": "2026-07-27",
+      "deadline": "2026-08-26",
+      "url": "https://www.indeed.com/viewjob?jk=d8a240902e5d4d31",
+      "desc": "**Description du poste**\n**Business Overview**\n\n\n* This position is part of a Records Management Office (RMO) team that oversees and coordinates all aspects of regulatory and non\\-regulatory records across the organization. The RMO implements proactive measures to address regulatory requirements and…",
+      "source": "Indeed"
+    },
     {
       "id": "52b8e9914904",
       "title": "Analista de Gestão e Operações - Azambuja",
