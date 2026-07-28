@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-07-28T14:15:16.314375+00:00",
-  "total": 136,
+  "last_updated": "2026-07-28T16:42:25.833675+00:00",
+  "total": 137,
   "sources": [
-    "Indeed",
     "CM Porto",
+    "Indeed",
     "BAD"
   ],
   "jobs": [
+    {
+      "id": "1af5f064c25b",
+      "title": "Project Manager & Business Analyst (Digital Transformation team)",
+      "org": "Mercer",
+      "area": "Dados",
+      "contrato": "Efetivo",
+      "modalidade": "Remoto",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "Power BI",
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-07-28",
+      "deadline": "2026-08-27",
+      "url": "https://www.indeed.com/viewjob?jk=8657b05790b088e9",
+      "desc": "**Company:**\n------------\n\n\nMercer\n**Description:**\n----------------\n\n\nWe are seeking a talented individual to join our Digital Transformation team at Marsh. This role will be based in Lisbon. This is a hybrid role that has a requirement of working at least three days a week in the office.\n\n\nThe pur…",
+      "source": "Indeed"
+    },
     {
       "id": "59f07d73fedb",
       "title": "Records Management Office Controller",
