@@ -1,12 +1,52 @@
 {
-  "last_updated": "2026-07-31T08:53:51.081010+00:00",
-  "total": 137,
+  "last_updated": "2026-07-31T11:31:03.642297+00:00",
+  "total": 139,
   "sources": [
-    "CM Porto",
     "Indeed",
+    "CM Porto",
     "BAD"
   ],
   "jobs": [
+    {
+      "id": "3a44e3798b57",
+      "title": "Documentation Drafting & Matching Analyst",
+      "org": "Inetum",
+      "area": "Arquivo",
+      "contrato": "Efetivo",
+      "modalidade": "Híbrido",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-07-31",
+      "deadline": "2026-08-30",
+      "url": "https://www.indeed.com/viewjob?jk=e8e9d558ee0064da",
+      "desc": "**Description du poste**\nWe are looking for a **Documentation Drafting \\& Matching Analyst** to support post\\-trade documentation and control activities. The role is responsible for drafting and reviewing trade documentation, ensuring consistency between trade bookings and contractual records, and s…",
+      "source": "Indeed"
+    },
+    {
+      "id": "e8f5e5bcf68a",
+      "title": "Intern - Data Steward",
+      "org": "SBM Offshore",
+      "area": "Arquivo",
+      "contrato": "Estágio",
+      "modalidade": "Presencial",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-07-31",
+      "deadline": "2026-08-30",
+      "url": "https://www.indeed.com/viewjob?jk=d1fa374ddd402319",
+      "desc": "**Req Id:** 23514\n  \n**Job Family:** Internship\n  \n  \n\n**Location:**  \n\nPorto, PT, 4100\\-136\n  \n  \n\n**Additional Location:****Description:**  \n\nImagine your career taking you to the depths of innovation and the heights of impact. Our people enable continuous progress. Their commitment, collective ex…",
+      "source": "Indeed"
+    },
     {
       "id": "1af5f064c25b",
       "title": "Project Manager & Business Analyst (Digital Transformation team)",
