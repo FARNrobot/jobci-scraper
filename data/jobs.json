@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-07-31T11:31:03.642297+00:00",
-  "total": 139,
+  "last_updated": "2026-07-31T14:14:34.724927+00:00",
+  "total": 140,
   "sources": [
-    "Indeed",
     "CM Porto",
+    "Indeed",
     "BAD"
   ],
   "jobs": [
+    {
+      "id": "d7fdafaf4e04",
+      "title": "GMO Documentation - Drafting and Matching Analyst",
+      "org": "BNP Paribas",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Remoto",
+      "setor": "Público",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "EAD",
+        "FAIR"
+      ],
+      "newBadge": true,
+      "posted": "2026-07-31",
+      "deadline": "2026-08-30",
+      "url": "https://www.indeed.com/viewjob?jk=14c16b3728fa6188",
+      "desc": "About the job\n  \n  \n\nThe Documentation Drafting and Matching Analyst is responsible for ensuring the integrity and accuracy of the risk undertaken by the business lines. A wide range of products are traded by the Trading desk including Options, Swaps, Forwards, within Oil, Metals, Softs, Energy, Pow…",
+      "source": "Indeed"
+    },
     {
       "id": "3a44e3798b57",
       "title": "Documentation Drafting & Matching Analyst",
@@ -20,7 +41,7 @@
       "tags": [
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-07-31",
       "deadline": "2026-08-30",
       "url": "https://www.indeed.com/viewjob?jk=e8e9d558ee0064da",
@@ -40,7 +61,7 @@
       "tags": [
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-07-31",
       "deadline": "2026-08-30",
       "url": "https://www.indeed.com/viewjob?jk=d1fa374ddd402319",
