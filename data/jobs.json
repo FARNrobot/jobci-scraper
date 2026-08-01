@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-31T22:08:14.244905+00:00",
-  "total": 140,
+  "last_updated": "2026-08-01T03:17:36.635843+00:00",
+  "total": 141,
   "sources": [
     "CM Porto",
-    "BAD",
-    "Indeed"
+    "Indeed",
+    "BAD"
   ],
   "jobs": [
     {
@@ -128,6 +128,26 @@
       "deadline": "2026-08-23",
       "url": "https://www.indeed.com/viewjob?jk=bdef8cb1c1e68c2e",
       "desc": "Na Politejo a nossa missão é desenvolver e fabricar soluções que melhorem as condições de vida das populações, contribuindo para a preservação do meio ambiente. Dispomos da mais ampla gama de soluções termoplásticas para redes de infraestruturas. Dispomos de dez fábricas distribuídas por cinco paíse…",
+      "source": "Indeed"
+    },
+    {
+      "id": "d4d4a5df4ae1",
+      "title": "Information Security Analyst",
+      "org": "ScaleUp",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Remoto",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-07-23",
+      "deadline": "2026-08-22",
+      "url": "https://www.indeed.com/viewjob?jk=e5c35e7edeeb4120",
+      "desc": "**Hey! We're Scale Up, and our client is looking to hire a** **Information Security Analyst** **.**\n\n**Type of Employment:** Contractor (Long\\-term)\n  \n\n**Work Modality:** 100% Remote\n  \n\n**Work Schedule:** Full\\-time\n  \n\n**Time Zone:** U.S. Pacific Time (PST) with overlap during business hours\n\n\n**…",
       "source": "Indeed"
     },
     {
