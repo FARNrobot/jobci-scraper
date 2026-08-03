@@ -1,12 +1,32 @@
 {
-  "last_updated": "2026-08-03T09:51:59.376575+00:00",
-  "total": 141,
+  "last_updated": "2026-08-03T14:46:17.611317+00:00",
+  "total": 142,
   "sources": [
-    "BAD",
     "CM Porto",
+    "BAD",
     "Indeed"
   ],
   "jobs": [
+    {
+      "id": "8b0303f548ac",
+      "title": "Assistente de Gestão Documental (Remoto)",
+      "org": "nan",
+      "area": "Arquivo",
+      "contrato": "Efetivo",
+      "modalidade": "Remoto",
+      "setor": "Privado",
+      "local": "Internacional",
+      "nivel": "Médio",
+      "tags": [
+        "Gestão Documental"
+      ],
+      "newBadge": true,
+      "posted": "2026-08-03",
+      "deadline": "2026-09-02",
+      "url": "https://www.indeed.com/viewjob?jk=999465986ad31206",
+      "desc": "Responsabilidades\n\n* Organização de arquivos digitais.\n* Atualização de documentação.\n* Verificação de dados.\n* Gestão documental.\n* Apoio administrativo.\n\nPerfil\n\n* Atenção ao detalhe.\n* Organização.\n* Conhecimentos de Office.\n\nOferecemos\n\n* Trabalho remoto.\n* Formação inicial remunerada.\n* Segunda…",
+      "source": "Indeed"
+    },
     {
       "id": "d7fdafaf4e04",
       "title": "GMO Documentation - Drafting and Matching Analyst",
