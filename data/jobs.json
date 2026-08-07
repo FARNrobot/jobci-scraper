@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-06T14:19:55.089518+00:00",
-  "total": 142,
+  "last_updated": "2026-08-07T00:04:42.536856+00:00",
+  "total": 143,
   "sources": [
-    "CM Porto",
     "BAD",
+    "CM Porto",
     "Indeed"
   ],
   "jobs": [
@@ -86,6 +86,26 @@
       "deadline": "2026-08-30",
       "url": "https://www.indeed.com/viewjob?jk=d1fa374ddd402319",
       "desc": "**Req Id:** 23514\n  \n**Job Family:** Internship\n  \n  \n\n**Location:**  \n\nPorto, PT, 4100\\-136\n  \n  \n\n**Additional Location:****Description:**  \n\nImagine your career taking you to the depths of innovation and the heights of impact. Our people enable continuous progress. Their commitment, collective ex…",
+      "source": "Indeed"
+    },
+    {
+      "id": "cfaeb4515f5a",
+      "title": "Documentation Drafting & Matching Analyst",
+      "org": "nan",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Híbrido",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Médio",
+      "tags": [
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-07-30",
+      "deadline": "2026-08-29",
+      "url": "https://www.indeed.com/viewjob?jk=4c8e4218e40260ec",
+      "desc": "Join Axians, where innovation thrives on trust and autonomy, and where every challenge is an opportunity to create technology with impact.  \n\n  \n\n**DOCUMENTATION DRAFTING \\& MATCHING ANALYST**  \n\n**What We Are Looking For**  \n\nWe are looking for a Documentation Drafting \\& Matching Analyst to ensure…",
       "source": "Indeed"
     },
     {
