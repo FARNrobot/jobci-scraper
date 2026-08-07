@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-08-07T13:10:42.988140+00:00",
-  "total": 143,
+  "last_updated": "2026-08-07T15:59:02.040861+00:00",
+  "total": 144,
   "sources": [
     "BAD",
-    "CM Porto",
-    "Indeed"
+    "Indeed",
+    "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "b4829e283e63",
+      "title": "AML/Compliance Analyst (Remote from Europe)",
+      "org": "Gnosis",
+      "area": "Arquivo",
+      "contrato": "A Prazo",
+      "modalidade": "Remoto",
+      "setor": "Academia",
+      "local": "Internacional",
+      "nivel": "Médio",
+      "tags": [],
+      "newBadge": true,
+      "posted": "2026-08-07",
+      "deadline": "2026-09-06",
+      "url": "https://www.indeed.com/viewjob?jk=bdaa7ecf33ede31c",
+      "desc": "#### **What you will do**\n\n**About Gnosis Pay**  \n\nGnosis Pay provides the API and card\\-program infrastructure that enables wallets, fintechs, and businesses to issue stablecoin\\-powered payment cards and create custom payment flows. Partners can easily connect on\\-chain wallets to real\\-world spen…",
+      "source": "Indeed"
+    },
     {
       "id": "8b0303f548ac",
       "title": "Assistente de Gestão Documental (Remoto)",
