@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-09T18:45:37.357712+00:00",
+  "last_updated": "2026-08-09T21:35:11.873643+00:00",
   "total": 145,
   "sources": [
     "BAD",
-    "CM Porto",
-    "Indeed"
+    "Indeed",
+    "CM Porto"
   ],
   "jobs": [
     {
@@ -20,7 +20,7 @@
       "tags": [
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-08-09",
       "deadline": "2026-09-08",
       "url": "https://www.indeed.com/viewjob?jk=4283f42102a60ff5",
