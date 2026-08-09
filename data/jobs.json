@@ -1,12 +1,32 @@
 {
-  "last_updated": "2026-08-09T15:34:51.907944+00:00",
-  "total": 144,
+  "last_updated": "2026-08-09T18:45:37.357712+00:00",
+  "total": 145,
   "sources": [
     "BAD",
-    "Indeed",
-    "CM Porto"
+    "CM Porto",
+    "Indeed"
   ],
   "jobs": [
+    {
+      "id": "6dfbe4dd3a2a",
+      "title": "DIGITAL MARKETING & CONTENT SPECIALIST | LISBOA",
+      "org": "nan",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "Privado",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-08-09",
+      "deadline": "2026-09-08",
+      "url": "https://www.indeed.com/viewjob?jk=4283f42102a60ff5",
+      "desc": "**DIGITAL MARKETING \\& CONTENT SPECIALIST \\| LISBOA**\n\nA **Portugal RE Capital** procura uma pessoa criativa, dinâmica e orientada para resultados para assumir a execução da nossa estratégia de marketing digital.\n\nSomos um projeto ligado ao investimento, promoção, construção e mediação imobiliária e…",
+      "source": "Indeed"
+    },
     {
       "id": "b4829e283e63",
       "title": "AML/Compliance Analyst (Remote from Europe)",
