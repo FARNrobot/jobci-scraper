@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-11T01:57:38.526121+00:00",
+  "last_updated": "2026-08-11T04:21:57.073730+00:00",
   "total": 147,
   "sources": [
+    "BAD",
     "Indeed",
-    "CM Porto",
-    "BAD"
+    "CM Porto"
   ],
   "jobs": [
     {
@@ -22,7 +22,7 @@
         "SQL",
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-08-10",
       "deadline": "2026-09-09",
       "url": "https://www.indeed.com/viewjob?jk=2244ba2cd6ff8f23",
@@ -43,7 +43,7 @@
         "EAD",
         "Microsoft 365"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-08-10",
       "deadline": "2026-09-09",
       "url": "https://www.indeed.com/viewjob?jk=964105916cb4a6f3",
