@@ -1,12 +1,55 @@
 {
-  "last_updated": "2026-08-10T21:44:08.403582+00:00",
-  "total": 145,
+  "last_updated": "2026-08-11T01:57:38.526121+00:00",
+  "total": 147,
   "sources": [
     "Indeed",
     "CM Porto",
     "BAD"
   ],
   "jobs": [
+    {
+      "id": "1b117044c330",
+      "title": "Analista de Dados",
+      "org": "Bravo Portugal",
+      "area": "Dados",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "Privado",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "Python",
+        "SQL",
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-08-10",
+      "deadline": "2026-09-09",
+      "url": "https://www.indeed.com/viewjob?jk=2244ba2cd6ff8f23",
+      "desc": "***Quem somos:***  \n\nSomos a Bravo, a primeira e maior reparadora de crédito da Europa e América Latina. Com mais de 16 anos de experiência e operativos em 6 países, estamos comprometidos em oferecer uma segunda oportunidade às pessoas que enfrentam problemas de sobre\\-endividamento. A nossa missão…",
+      "source": "Indeed"
+    },
+    {
+      "id": "32d1ad266351",
+      "title": "Responsável de IA, Dados e Transformação Digital (m/f/d)",
+      "org": "INEGI",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "Cultural",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "EAD",
+        "Microsoft 365"
+      ],
+      "newBadge": true,
+      "posted": "2026-08-10",
+      "deadline": "2026-09-09",
+      "url": "https://www.indeed.com/viewjob?jk=964105916cb4a6f3",
+      "desc": "**Description:**\n----------------\n\n\n**Queres liderar a transformação digital de uma organização de referência em engenharia e inovação?**\n\n **A tua missão:**\n\nEstamos à procura de um(a) Responsável de IA, Dados e Transformação Digital, com reporte direto à Administração, para liderar e acelerar a tr…",
+      "source": "Indeed"
+    },
     {
       "id": "6dfbe4dd3a2a",
       "title": "DIGITAL MARKETING & CONTENT SPECIALIST | LISBOA",
