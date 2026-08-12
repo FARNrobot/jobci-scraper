@@ -1,12 +1,32 @@
 {
-  "last_updated": "2026-08-12T19:04:39.504884+00:00",
-  "total": 148,
+  "last_updated": "2026-08-12T21:50:12.170351+00:00",
+  "total": 149,
   "sources": [
-    "BAD",
     "Indeed",
+    "BAD",
     "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "b9d537527170",
+      "title": "Digital Campaign, Automation & Quality Documentation Specialist (English + Dutch) - Portugal Homebased",
+      "org": "IQVIA",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Remoto",
+      "setor": "Academia",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-08-12",
+      "deadline": "2026-09-11",
+      "url": "https://www.indeed.com/viewjob?jk=6ff0864bfc26bab6",
+      "desc": "Oeiras, Portugal \\| Full time \\| Home\\-based \\| R1558655\n\n\n  \n**Services Desk Techn Spec**\n\n\n**Lisbon, Portugal**\n\n\n**Remote/Home\\-based**\n\n**Full Time**\n\n\nAs a Marketing Services Specialist, you will become an integrated part of the Dutch Marketing Services team. You support the delivery of healthc…",
+      "source": "Indeed"
+    },
     {
       "id": "b2c7b56305dd",
       "title": "GMO Documentation - Equities Drafting Analyst",
