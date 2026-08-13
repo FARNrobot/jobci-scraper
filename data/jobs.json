@@ -1,12 +1,32 @@
 {
-  "last_updated": "2026-08-13T16:00:48.284710+00:00",
-  "total": 149,
+  "last_updated": "2026-08-13T19:05:33.445341+00:00",
+  "total": 150,
   "sources": [
-    "Indeed",
+    "CM Porto",
     "BAD",
-    "CM Porto"
+    "Indeed"
   ],
   "jobs": [
+    {
+      "id": "05883d2ce5e7",
+      "title": "Documentation Drafting & Matching Analyst (Dutch & English)",
+      "org": "nan",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Híbrido",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Médio",
+      "tags": [
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-08-13",
+      "deadline": "2026-09-12",
+      "url": "https://www.indeed.com/viewjob?jk=c729a1b40fd1eb2c",
+      "desc": "Join Axians, where innovation thrives on trust and autonomy, and where every challenge is an opportunity to create technology with impact.  \n\n  \n\n**DOCUMENTATION DRAFTING \\& MATCHING ANALYST (DUTCH \\& ENGLISH)**  \n\n**What We Are Looking For**  \n\nWe are looking for a professional responsible for ensu…",
+      "source": "Indeed"
+    },
     {
       "id": "b9d537527170",
       "title": "Digital Campaign, Automation & Quality Documentation Specialist (English + Dutch) - Portugal Homebased",
