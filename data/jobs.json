@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-15T01:23:23.583865+00:00",
+  "last_updated": "2026-08-15T03:41:34.202969+00:00",
   "total": 151,
   "sources": [
-    "Indeed",
     "BAD",
+    "Indeed",
     "CM Porto"
   ],
   "jobs": [
@@ -21,7 +21,7 @@
         "RGPD",
         "Gestão Documental"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-08-14",
       "deadline": "2026-09-13",
       "url": "https://www.indeed.com/viewjob?jk=c8b7823a6d849740",
