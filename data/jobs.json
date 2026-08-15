@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-08-14T21:28:01.748709+00:00",
-  "total": 150,
+  "last_updated": "2026-08-15T01:23:23.583865+00:00",
+  "total": 151,
   "sources": [
-    "BAD",
     "Indeed",
+    "BAD",
     "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "d8d54459caf1",
+      "title": "Compliance Analyst - Lisboa/Híbrido",
+      "org": "NOESIS",
+      "area": "Arquivo",
+      "contrato": "Efetivo",
+      "modalidade": "Híbrido",
+      "setor": "Privado",
+      "local": "Internacional",
+      "nivel": "Médio",
+      "tags": [
+        "RGPD",
+        "Gestão Documental"
+      ],
+      "newBadge": true,
+      "posted": "2026-08-14",
+      "deadline": "2026-09-13",
+      "url": "https://www.indeed.com/viewjob?jk=c8b7823a6d849740",
+      "desc": "**Description:**\n----------------\n\n\nA Noesis procura profissionais com o seguinte perfil:\n\n**Principais Tarefas e Responsabilidades:**\n\n* Monitorizar requisitos legais, regulamentares e normativos aplicáveis à Cibersegurança, Segurança da Informação, Proteção de Dados e Resiliência Digital.\n* Apoiar…",
+      "source": "Indeed"
+    },
     {
       "id": "05883d2ce5e7",
       "title": "Documentation Drafting & Matching Analyst (Dutch & English)",
