@@ -1,12 +1,32 @@
 {
-  "last_updated": "2026-08-19T15:34:30.237936+00:00",
-  "total": 151,
+  "last_updated": "2026-08-19T18:38:58.541462+00:00",
+  "total": 152,
   "sources": [
     "Indeed",
     "CM Porto",
     "BAD"
   ],
   "jobs": [
+    {
+      "id": "d9bbab57b714",
+      "title": "Especialista em Controlo de Acessos e Gestão Documental",
+      "org": "Once For All",
+      "area": "Arquivo",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "Cultural",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "Gestão Documental"
+      ],
+      "newBadge": true,
+      "posted": "2026-08-19",
+      "deadline": "2026-09-18",
+      "url": "https://www.indeed.com/viewjob?jk=bfdd64a1a8d98518",
+      "desc": "#### **Sobre Nós:**\n\n\nA Nalanda é uma multinacional espanhola líder, dedicada a aproximar grandes empresas e os seus fornecedores através de uma plataforma digital inovadora. A nossa plataforma simplifica processos empresariais como a troca de documentos, compras, faturas e informação empresarial es…",
+      "source": "Indeed"
+    },
     {
       "id": "d8d54459caf1",
       "title": "Compliance Analyst - Lisboa/Híbrido",
