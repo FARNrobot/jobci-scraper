@@ -1,12 +1,32 @@
 {
-  "last_updated": "2026-08-21T12:53:25.359974+00:00",
-  "total": 152,
+  "last_updated": "2026-08-21T15:36:20.730044+00:00",
+  "total": 153,
   "sources": [
     "CM Porto",
     "BAD",
     "Indeed"
   ],
   "jobs": [
+    {
+      "id": "83cd72526c83",
+      "title": "Data Protection Officer M/F",
+      "org": "Crédit Agricole",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Híbrido",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "GDPR"
+      ],
+      "newBadge": true,
+      "posted": "2026-08-21",
+      "deadline": "2026-09-20",
+      "url": "https://www.indeed.com/viewjob?jk=aee17e6aa8b04e9d",
+      "desc": "**Description du poste**\n------------------------\n\n* Participate in the execution of the activities of the DRCS Compliance Unit, within the framework described above, with a special focus on the following areas:\n  \n\n\t+ Monitor business and product projects, both from a general legal perspective and…",
+      "source": "Indeed"
+    },
     {
       "id": "d9bbab57b714",
       "title": "Especialista em Controlo de Acessos e Gestão Documental",
