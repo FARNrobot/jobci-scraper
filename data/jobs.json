@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-21T15:36:20.730044+00:00",
+  "last_updated": "2026-08-21T18:40:08.440394+00:00",
   "total": 153,
   "sources": [
-    "CM Porto",
     "BAD",
+    "CM Porto",
     "Indeed"
   ],
   "jobs": [
@@ -20,7 +20,7 @@
       "tags": [
         "GDPR"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-08-21",
       "deadline": "2026-09-20",
       "url": "https://www.indeed.com/viewjob?jk=aee17e6aa8b04e9d",
