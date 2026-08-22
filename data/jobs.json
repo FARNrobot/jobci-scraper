@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-08-21T21:27:44.646444+00:00",
-  "total": 153,
+  "last_updated": "2026-08-22T01:22:37.596731+00:00",
+  "total": 154,
   "sources": [
+    "CM Porto",
     "BAD",
-    "Indeed",
-    "CM Porto"
+    "Indeed"
   ],
   "jobs": [
+    {
+      "id": "96ecb7d1d88a",
+      "title": "SPE-Video Content Analyst German",
+      "org": "Cognizant",
+      "area": "Arquivo",
+      "contrato": "Efetivo",
+      "modalidade": "Híbrido",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Médio",
+      "tags": [
+        "EAD",
+        "Knowledge Management"
+      ],
+      "newBadge": true,
+      "posted": "2026-08-21",
+      "deadline": "2026-09-20",
+      "url": "https://www.indeed.com/viewjob?jk=839b0e139e398cc3",
+      "desc": "Job Summary\n  \nThe role of SPE Digital Content Services Job Code 75OA02 focuses on delivering accurate and timely digital content production and maintenance for enterprise clients using MS Office MS Excel and MS Office Web Components in a hybrid work model while upholding quality standards and suppo…",
+      "source": "Indeed"
+    },
     {
       "id": "83cd72526c83",
       "title": "Data Protection Officer M/F",
