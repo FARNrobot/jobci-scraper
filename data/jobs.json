@@ -1,12 +1,32 @@
 {
-  "last_updated": "2026-08-23T06:45:37.993319+00:00",
-  "total": 154,
+  "last_updated": "2026-08-23T09:30:29.476905+00:00",
+  "total": 155,
   "sources": [
     "CM Porto",
     "BAD",
     "Indeed"
   ],
   "jobs": [
+    {
+      "id": "758d8cc579a6",
+      "title": "Gestor de Documentação e Faturação Digital – Remoto M/F",
+      "org": "nan",
+      "area": "Arquivo",
+      "contrato": "A Prazo",
+      "modalidade": "Remoto",
+      "setor": "Privado",
+      "local": "Internacional",
+      "nivel": "Médio",
+      "tags": [
+        "OAIS"
+      ],
+      "newBadge": true,
+      "posted": "2026-08-23",
+      "deadline": "2026-09-22",
+      "url": "https://www.indeed.com/viewjob?jk=c5d9be4bbd8c2778",
+      "desc": "**Descrição da oferta**\n\nProcuramos uma pessoa organizada e rigorosa para apoiar a gestão de documentos financeiros e administrativos da empresa em regime 100% remoto.\n\nO trabalho será realizado através de computador ou telemóvel, consoante a tarefa. A função envolve a verificação de faturas, atuali…",
+      "source": "Indeed"
+    },
     {
       "id": "96ecb7d1d88a",
       "title": "SPE-Video Content Analyst German",
