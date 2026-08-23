@@ -1,12 +1,32 @@
 {
-  "last_updated": "2026-08-23T15:25:15.662576+00:00",
-  "total": 155,
+  "last_updated": "2026-08-23T18:33:29.867513+00:00",
+  "total": 156,
   "sources": [
-    "CM Porto",
+    "Indeed",
     "BAD",
-    "Indeed"
+    "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "5fb540250bcd",
+      "title": "Gestor de Documentação e Faturação Digital – Remoto M/F",
+      "org": "None",
+      "area": "Arquivo",
+      "contrato": "A Prazo",
+      "modalidade": "Remoto",
+      "setor": "Privado",
+      "local": "Internacional",
+      "nivel": "Médio",
+      "tags": [
+        "OAIS"
+      ],
+      "newBadge": true,
+      "posted": "2026-08-23",
+      "deadline": "2026-09-22",
+      "url": "https://www.indeed.com/viewjob?jk=c5d9be4bbd8c2778",
+      "desc": "**Descrição da oferta**\n\nProcuramos uma pessoa organizada e rigorosa para apoiar a gestão de documentos financeiros e administrativos da empresa em regime 100% remoto.\n\nO trabalho será realizado através de computador ou telemóvel, consoante a tarefa. A função envolve a verificação de faturas, atuali…",
+      "source": "Indeed"
+    },
     {
       "id": "758d8cc579a6",
       "title": "Gestor de Documentação e Faturação Digital – Remoto M/F",
