@@ -1,12 +1,32 @@
 {
-  "last_updated": "2026-08-26T16:20:06.661635+00:00",
-  "total": 156,
+  "last_updated": "2026-08-26T19:48:27.703772+00:00",
+  "total": 157,
   "sources": [
     "CM Porto",
-    "Indeed",
-    "BAD"
+    "BAD",
+    "Indeed"
   ],
   "jobs": [
+    {
+      "id": "596a9be343c3",
+      "title": "Digital Risk & Local IT Support Analyst",
+      "org": "Carrier",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-08-26",
+      "deadline": "2026-09-25",
+      "url": "https://www.indeed.com/viewjob?jk=ce4d1ad0f5ded232",
+      "desc": "**Role:** **Digital Risk \\& Local IT Support Analyst**\n\n**Location: Matosinhos, Porto, Portugal**\n\n**Type of Contract: Permanent full\\-time**\n\n\nCarrier is the leading worldwide provider of heating, ventilation, and air conditioning (HVAC), refrigeration, fire, security, and cold chain solutions. We…",
+      "source": "Indeed"
+    },
     {
       "id": "5fb540250bcd",
       "title": "Gestor de Documentação e Faturação Digital – Remoto M/F",
