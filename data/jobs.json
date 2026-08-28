@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-08-27T13:56:35.015170+00:00",
-  "total": 157,
+  "last_updated": "2026-08-28T00:17:49.290930+00:00",
+  "total": 158,
   "sources": [
     "CM Porto",
-    "Indeed",
-    "BAD"
+    "BAD",
+    "Indeed"
   ],
   "jobs": [
+    {
+      "id": "449a2517b7a9",
+      "title": "Digital Transformation Business Analyst",
+      "org": "FedEx",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Híbrido",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "Power BI",
+        "EAD",
+        "FAIR"
+      ],
+      "newBadge": true,
+      "posted": "2026-08-27",
+      "deadline": "2026-09-26",
+      "url": "https://www.indeed.com/viewjob?jk=e1da5698446fafa3",
+      "desc": "Are you passionate about transforming business through data, automation, and Artificial Intelligence?\n  \n\nJoin FedEx Global Trade Services as a Digital Transformation Business Analyst and help shape the future of global trade by identifying innovative solutions, optimizing business processes, and dr…",
+      "source": "Indeed"
+    },
     {
       "id": "596a9be343c3",
       "title": "Digital Risk & Local IT Support Analyst",
