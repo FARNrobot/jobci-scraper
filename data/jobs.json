@@ -1,12 +1,32 @@
 {
-  "last_updated": "2026-09-03T16:03:57.304038+00:00",
-  "total": 158,
+  "last_updated": "2026-09-03T20:43:21.855589+00:00",
+  "total": 159,
   "sources": [
     "Indeed",
     "BAD",
     "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "50b75e8a8dfe",
+      "title": "ICT Compliance & Digital Operational Resilience Trainee",
+      "org": "Euronext",
+      "area": "Gestão da Informação",
+      "contrato": "Estágio",
+      "modalidade": "Presencial",
+      "setor": "Privado",
+      "local": "Internacional",
+      "nivel": "Júnior",
+      "tags": [
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-09-03",
+      "deadline": "2026-10-03",
+      "url": "https://www.indeed.com/viewjob?jk=c697a62aac287d94",
+      "desc": "Join us as an ICT Compliance \\& Digital Operational Resilience Trainee\n  \n\n  \n\nIn collaboration with the Head of Corporate Compliance and the team, your tasks will be the following:\n\n\n**Primary focus — Digital Operational Resilience Act**\n\n* Support the implementation and maintenance of the Digital…",
+      "source": "Indeed"
+    },
     {
       "id": "449a2517b7a9",
       "title": "Digital Transformation Business Analyst",
