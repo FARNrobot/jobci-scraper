@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-09-03T20:43:21.855589+00:00",
-  "total": 159,
+  "last_updated": "2026-09-03T23:04:40.746337+00:00",
+  "total": 160,
   "sources": [
-    "Indeed",
     "BAD",
-    "CM Porto"
+    "CM Porto",
+    "Indeed"
   ],
   "jobs": [
+    {
+      "id": "7bf47d5333e3",
+      "title": "BUSINESS ANALYST (DATA KNOWLEDGE) (HYBRID)",
+      "org": "iTRTech Group",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Híbrido",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "SQL",
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-09-03",
+      "deadline": "2026-10-03",
+      "url": "https://www.indeed.com/viewjob?jk=d03c0b089562fbc6",
+      "desc": "#### **BUSINESS ANALYST (DATA KNOWLEDGE) (HYBRID LISBON)**\n\n\nPortuguese company hires for hybrid position\n\n\n Location: Lisbon, Portugal\n\n* ️ Only candidates already based in Portugal will be considered\n\n\n Work Model: Hybrid — 2 to 3 days per week in the office\n\n\n️ Language Requirements: Fluent Engli…",
+      "source": "Indeed"
+    },
     {
       "id": "50b75e8a8dfe",
       "title": "ICT Compliance & Digital Operational Resilience Trainee",
@@ -20,7 +41,7 @@
       "tags": [
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-09-03",
       "deadline": "2026-10-03",
       "url": "https://www.indeed.com/viewjob?jk=c697a62aac287d94",
