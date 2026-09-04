@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-09-04T15:59:51.599747+00:00",
-  "total": 160,
+  "last_updated": "2026-09-04T20:30:04.821086+00:00",
+  "total": 161,
   "sources": [
-    "CM Porto",
     "BAD",
-    "Indeed"
+    "Indeed",
+    "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "d3958be01287",
+      "title": "Analista de Dados (m/f) - SHEQ",
+      "org": "Mota-Engil",
+      "area": "Dados",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "Cultural",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "Power BI",
+        "Python",
+        "SQL"
+      ],
+      "newBadge": true,
+      "posted": "2026-09-04",
+      "deadline": "2026-10-04",
+      "url": "https://www.indeed.com/viewjob?jk=6c14ccfaebe409dd",
+      "desc": "**Analista de Dados (m/f) \\- SHEQ**\n\n  \n\n**Descrição da Oportunidade**\n\n  \n\nEstamos a reforçar a equipa SHEQ Corporativa, responsável por apoiar a definição de diretrizes, standards, indicadores e práticas de gestão em Segurança, Saúde, Ambiente e Qualidade em todo o Grupo. Uma das nossas prioridade…",
+      "source": "Indeed"
+    },
     {
       "id": "7bf47d5333e3",
       "title": "BUSINESS ANALYST (DATA KNOWLEDGE) (HYBRID)",
