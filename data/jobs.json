@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-09-05T03:39:18.848011+00:00",
-  "total": 161,
+  "last_updated": "2026-09-05T10:13:25.105875+00:00",
+  "total": 162,
   "sources": [
     "BAD",
-    "CM Porto",
-    "Indeed"
+    "Indeed",
+    "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "fbecbd79a336",
+      "title": "Process Analyst – Knowledge-to-AI Consultant (m/f/d)",
+      "org": "Siemens",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Híbrido",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "EAD",
+        "Knowledge Management"
+      ],
+      "newBadge": true,
+      "posted": "2026-09-04",
+      "deadline": "2026-10-04",
+      "url": "https://www.indeed.com/viewjob?jk=af8fb65251cd62a9",
+      "desc": "**Create a better \\#TomorrowWithUs**  \n\nSiemens Global Business Services (GBS) enables Siemens units worldwide and external customers to accelerate their business transformation into a sustainable and digital future.\nOur portfolio comprises services driven by expertise and the latest technology – wi…",
+      "source": "Indeed"
+    },
     {
       "id": "d3958be01287",
       "title": "Analista de Dados (m/f) - SHEQ",
