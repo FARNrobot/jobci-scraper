@@ -1,12 +1,35 @@
 {
-  "last_updated": "2026-09-10T20:36:12.802484+00:00",
-  "total": 165,
+  "last_updated": "2026-09-10T22:59:56.276083+00:00",
+  "total": 166,
   "sources": [
-    "CM Porto",
     "Indeed",
-    "BAD"
+    "BAD",
+    "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "b0ebfb8104b3",
+      "title": "Content Specialist, Medical Communications & Information – Oncology Business Unit",
+      "org": "AstraZeneca",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Híbrido",
+      "setor": "Público",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "Power BI",
+        "EAD",
+        "FAIR",
+        "CMS"
+      ],
+      "newBadge": true,
+      "posted": "2026-09-10",
+      "deadline": "2026-10-10",
+      "url": "https://www.indeed.com/viewjob?jk=db09fe882a0e4ee7",
+      "desc": "Posted date Sep. 10, 2026\nContract type Full time\nJob ID R\\-255687\n  \n**Why choose AstraZeneca Portugal?**\n------------------------------------\n\n\nAs an exciting and emerging leader in pharma and biotech, we're pushing the boundaries of science to deliver life\\-changing medicines to patients. This is…",
+      "source": "Indeed"
+    },
     {
       "id": "4e6c693cf9e4",
       "title": "Analista de Gestão - Fundos Comunitários",
