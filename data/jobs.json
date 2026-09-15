@@ -1,12 +1,32 @@
 {
-  "last_updated": "2026-09-15T16:34:25.193356+00:00",
-  "total": 167,
+  "last_updated": "2026-09-15T21:00:30.299752+00:00",
+  "total": 168,
   "sources": [
+    "CM Porto",
     "BAD",
-    "Indeed",
-    "CM Porto"
+    "Indeed"
   ],
   "jobs": [
+    {
+      "id": "4fbcad968401",
+      "title": "Backoffice / Administração / Gestão de Dados",
+      "org": "nan",
+      "area": "Arquivo",
+      "contrato": "A Prazo",
+      "modalidade": "Remoto",
+      "setor": "Privado",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "Gestão Documental"
+      ],
+      "newBadge": true,
+      "posted": "2026-09-15",
+      "deadline": "2026-10-15",
+      "url": "https://www.indeed.com/viewjob?jk=df395173d2714438",
+      "desc": "Assistente de Backoffice e Gestão de Dados – Teletrabalho\n\nProcuramos uma pessoa organizada, responsável e com facilidade em trabalhar com informação para integrar a nossa equipa na área de Backoffice e Gestão de Dados.\n\nA função é realizada em regime de teletrabalho e envolve principalmente atualiz…",
+      "source": "Indeed"
+    },
     {
       "id": "e56f14ed5cf7",
       "title": "Especialista SCCM / MECM e Microsoft Intune",
