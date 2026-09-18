@@ -1,12 +1,32 @@
 {
-  "last_updated": "2026-09-18T10:49:26.827784+00:00",
-  "total": 168,
+  "last_updated": "2026-09-18T16:04:40.268397+00:00",
+  "total": 169,
   "sources": [
     "CM Porto",
     "Indeed",
     "BAD"
   ],
   "jobs": [
+    {
+      "id": "6041e2d0aaa5",
+      "title": "Recrutamos Técnico de Informação e Documentação para o Santuário de Fátima (M/F)",
+      "org": "Santuário de Fátima",
+      "area": "Arquivo",
+      "contrato": "Estágio",
+      "modalidade": "Presencial",
+      "setor": "Academia",
+      "local": "Internacional",
+      "nivel": "Júnior",
+      "tags": [
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-09-17",
+      "deadline": "2026-10-17",
+      "url": "https://www.indeed.com/viewjob?jk=6f2c0b2075ca2ac6",
+      "desc": "Com intuito de reforçar a equipa da Academia de Estudos do Santuário de Fátima informa\\-se que se encontra aberto concurso para **Técnico de Informação e Documentação (f/m)**\n\n**Função**\n\n· Organização e tratamento de documentação custodiada pelo Arquivo e Biblioteca do Santuário de Fátima;\n\n· Atend…",
+      "source": "Indeed"
+    },
     {
       "id": "4fbcad968401",
       "title": "Backoffice / Administração / Gestão de Dados",
