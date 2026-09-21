@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-09-21T04:04:52.167503+00:00",
-  "total": 169,
+  "last_updated": "2026-09-21T12:22:01.670925+00:00",
+  "total": 170,
   "sources": [
+    "BAD",
     "Indeed",
-    "CM Porto",
-    "BAD"
+    "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "326b19faa3e8",
+      "title": "Analista de dados",
+      "org": "Inetum",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "Power BI",
+        "Python",
+        "SQL"
+      ],
+      "newBadge": true,
+      "posted": "2026-09-18",
+      "deadline": "2026-10-18",
+      "url": "https://www.indeed.com/viewjob?jk=b192c0a82a07b505",
+      "desc": "**Descrição da empresa** **Inetum** is a global digital services company focused on enabling businesses and organizations to accelerate their digital transformation. Operating in 19 countries with more than 28,000 professionals worldwide, Inetum combines innovation, expertise, and a people\\-centric…",
+      "source": "Indeed"
+    },
     {
       "id": "6041e2d0aaa5",
       "title": "Recrutamos Técnico de Informação e Documentação para o Santuário de Fátima (M/F)",
