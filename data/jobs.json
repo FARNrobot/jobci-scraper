@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-09-21T19:54:18.830418+00:00",
-  "total": 170,
+  "last_updated": "2026-09-21T23:55:31.897292+00:00",
+  "total": 171,
   "sources": [
     "CM Porto",
     "Indeed",
     "BAD"
   ],
   "jobs": [
+    {
+      "id": "07b22c34d90e",
+      "title": "ANALISTA FUNCIONAL – DADOS (HÍBRIDO)",
+      "org": "iTRTech Group",
+      "area": "Dados",
+      "contrato": "A Prazo",
+      "modalidade": "Remoto",
+      "setor": "Privado",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "SQL",
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-09-21",
+      "deadline": "2026-10-21",
+      "url": "https://www.indeed.com/viewjob?jk=feb4f0cd8ef6636b",
+      "desc": "#### **ANALISTA FUNCIONAL – DADOS (HÍBRIDO LISBOA)**\n\n\nEmpresa portuguesa contrata para vaga híbrida\n\n\n Localização: Lisboa, Portugal\n\n* ️ Apenas candidatos já baseados em Portugal serão considerados\n\n\n Modelo de Trabalho: Híbrido — 50% de teletrabalho\n\n\n ️ Requisitos de Idioma: Português\n\n\n Seniori…",
+      "source": "Indeed"
+    },
     {
       "id": "326b19faa3e8",
       "title": "Analista de dados",
