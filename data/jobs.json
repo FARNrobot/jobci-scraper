@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-09-22T16:34:49.640285+00:00",
-  "total": 171,
+  "last_updated": "2026-09-22T21:02:10.206259+00:00",
+  "total": 172,
   "sources": [
-    "BAD",
+    "Indeed",
     "CM Porto",
-    "Indeed"
+    "BAD"
   ],
   "jobs": [
+    {
+      "id": "ce3e2569dfa2",
+      "title": "Arquivista",
+      "org": "Solidnetworks",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "Privado",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [],
+      "newBadge": true,
+      "posted": "2026-09-22",
+      "deadline": "2026-10-22",
+      "url": "https://www.indeed.com/viewjob?jk=66007156928cec0e",
+      "desc": "Na Solidnetworks, somos especialistas em criar soluções tecnológicas à medida das necessidades dos nossos clientes.\n\nCom uma abordagem centrada na inovação e na eficiência, oferecemos serviços integrados nas áreas de Tecnologias de Informação (TI), BPO (Business Process Outsourcing) e Outsourcing, a…",
+      "source": "Indeed"
+    },
     {
       "id": "07b22c34d90e",
       "title": "ANALISTA FUNCIONAL – DADOS (HÍBRIDO)",
