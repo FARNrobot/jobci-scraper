@@ -1,12 +1,35 @@
 {
-  "last_updated": "2026-09-23T16:25:35.002551+00:00",
-  "total": 173,
+  "last_updated": "2026-09-23T21:17:02.892217+00:00",
+  "total": 174,
   "sources": [
     "BAD",
-    "Indeed",
-    "CM Porto"
+    "CM Porto",
+    "Indeed"
   ],
   "jobs": [
+    {
+      "id": "5e4aa3e3d2b4",
+      "title": "Data Steward - Master Data Management SAP",
+      "org": "KARDEX",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Remoto",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "Python",
+        "SQL",
+        "GDPR",
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-09-23",
+      "deadline": "2026-10-23",
+      "url": "https://www.indeed.com/viewjob?jk=b2058fe0d8751ff8",
+      "desc": "The Kardex Group is one of the world's leading manufacturers of dynamic storage, retrieval and distribution systems. Our more than 3,000 employees worldwide develop and manufacture logistics solutions that are used in many different sectors such as industrial manufacturing, retail and administration…",
+      "source": "Indeed"
+    },
     {
       "id": "5683f575a2b3",
       "title": "Arquivista- Licenciatura na área das ciências documentais/arquivística",
@@ -18,7 +41,7 @@
       "local": "Internacional",
       "nivel": "Sénior",
       "tags": [],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-09-23",
       "deadline": "2026-10-23",
       "url": "https://www.indeed.com/viewjob?jk=b2d8d9add248afb4",
