@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-09-23T11:04:12.944060+00:00",
-  "total": 172,
+  "last_updated": "2026-09-23T16:25:35.002551+00:00",
+  "total": 173,
   "sources": [
-    "CM Porto",
+    "BAD",
     "Indeed",
-    "BAD"
+    "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "5683f575a2b3",
+      "title": "Arquivista- Licenciatura na área das ciências documentais/arquivística",
+      "org": "Solidnetworks",
+      "area": "Arquivo",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "Público",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [],
+      "newBadge": true,
+      "posted": "2026-09-23",
+      "deadline": "2026-10-23",
+      "url": "https://www.indeed.com/viewjob?jk=b2d8d9add248afb4",
+      "desc": "Na Solidnetworks, somos especialistas em criar soluções tecnológicas à medida das necessidades dos nossos clientes.\n\nCom uma abordagem centrada na inovação e na eficiência, oferecemos serviços integrados nas áreas de Tecnologias de Informação (TI), BPO (Business Process Outsourcing) e Outsourcing, a…",
+      "source": "Indeed"
+    },
     {
       "id": "ce3e2569dfa2",
       "title": "Arquivista",
