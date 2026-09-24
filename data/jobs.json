@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-09-24T16:46:53.843313+00:00",
-  "total": 174,
+  "last_updated": "2026-09-24T21:18:18.135046+00:00",
+  "total": 175,
   "sources": [
-    "BAD",
     "CM Porto",
-    "Indeed"
+    "Indeed",
+    "BAD"
   ],
   "jobs": [
+    {
+      "id": "04435f0d8a15",
+      "title": "Analista Funcional Banca - area de dados",
+      "org": "WIRE IT",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Híbrido",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "SQL",
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-09-24",
+      "deadline": "2026-10-24",
+      "url": "https://www.indeed.com/viewjob?jk=137343f4997882a8",
+      "desc": "Based in Portugal, **Wire IT** is your specialized IT consulting partner with 18 years of experience driven by an experienced and senior team that helps clients make the right decisions in a fast\\-moving market.\n\n\nWire IT's ambition is to grow while keeping true to its nature: agile, people\\-centere…",
+      "source": "Indeed"
+    },
     {
       "id": "5e4aa3e3d2b4",
       "title": "Data Steward - Master Data Management SAP",
