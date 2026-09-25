@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-24T21:18:18.135046+00:00",
+  "last_updated": "2026-09-25T04:07:52.627077+00:00",
   "total": 175,
   "sources": [
-    "CM Porto",
     "Indeed",
-    "BAD"
+    "BAD",
+    "CM Porto"
   ],
   "jobs": [
     {
@@ -21,7 +21,7 @@
         "SQL",
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-09-24",
       "deadline": "2026-10-24",
       "url": "https://www.indeed.com/viewjob?jk=137343f4997882a8",
