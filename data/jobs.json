@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-09-29T12:24:49.341622+00:00",
-  "total": 176,
+  "last_updated": "2026-09-29T19:51:56.533697+00:00",
+  "total": 177,
   "sources": [
-    "Indeed",
+    "CM Porto",
     "BAD",
-    "CM Porto"
+    "Indeed"
   ],
   "jobs": [
+    {
+      "id": "b3fc2359b456",
+      "title": "Analista de Gestão - Fundos Comunitários",
+      "org": "None",
+      "area": "Dados",
+      "contrato": "Freelance",
+      "modalidade": "Híbrido",
+      "setor": "Privado",
+      "local": "Internacional",
+      "nivel": "Médio",
+      "tags": [],
+      "newBadge": true,
+      "posted": "2026-09-29",
+      "deadline": "2026-10-29",
+      "url": "https://www.indeed.com/viewjob?jk=4b1a55016dfadba7",
+      "desc": "**SOBRE A BSO CONSULTING**\n\nA BSO Consulting é uma consultora especializada em gestão, sistemas de informação e transformação organizacional, que apoia entidades públicas e privadas na definição de estratégias, melhoria de processos, implementação de soluções tecnológicas e transformação organizacio…",
+      "source": "Indeed"
+    },
     {
       "id": "63e28d613f11",
       "title": "Digital Content Manager",
