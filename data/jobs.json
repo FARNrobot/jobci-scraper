@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-09-30T09:27:17.782563+00:00",
-  "total": 178,
+  "last_updated": "2026-09-30T17:47:41.465074+00:00",
+  "total": 179,
   "sources": [
-    "Indeed",
     "BAD",
+    "Indeed",
     "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "8a7d58a83270",
+      "title": "Arquivista- Licenciatura na área das ciências documentais/arquivística- Lisboa",
+      "org": "Solidnetworks",
+      "area": "Arquivo",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "Público",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [],
+      "newBadge": true,
+      "posted": "2026-09-30",
+      "deadline": "2026-10-30",
+      "url": "https://www.indeed.com/viewjob?jk=488a5864ec7d86b3",
+      "desc": "Na Solidnetworks, somos especialistas em criar soluções tecnológicas à medida das necessidades dos nossos clientes.\n\nCom uma abordagem centrada na inovação e na eficiência, oferecemos serviços integrados nas áreas de Tecnologias de Informação (TI), BPO (Business Process Outsourcing) e Outsourcing, a…",
+      "source": "Indeed"
+    },
     {
       "id": "b3fc2359b456",
       "title": "Analista de Gestão - Fundos Comunitários",
@@ -40,7 +58,7 @@
         "Power BI",
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-09-28",
       "deadline": "2026-10-28",
       "url": "https://www.indeed.com/viewjob?jk=8e01858a357c0469",
