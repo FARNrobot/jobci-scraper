@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-30T00:08:41.284836+00:00",
-  "total": 177,
+  "last_updated": "2026-09-30T09:27:17.782563+00:00",
+  "total": 178,
   "sources": [
     "Indeed",
     "BAD",
@@ -23,6 +23,28 @@
       "deadline": "2026-10-29",
       "url": "https://www.indeed.com/viewjob?jk=4b1a55016dfadba7",
       "desc": "**SOBRE A BSO CONSULTING**\n\nA BSO Consulting é uma consultora especializada em gestão, sistemas de informação e transformação organizacional, que apoia entidades públicas e privadas na definição de estratégias, melhoria de processos, implementação de soluções tecnológicas e transformação organizacio…",
+      "source": "Indeed"
+    },
+    {
+      "id": "12befbfb336a",
+      "title": "Global Compliance Senior Analyst",
+      "org": "Boston Consulting Group",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "SharePoint",
+        "Power BI",
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-09-28",
+      "deadline": "2026-10-28",
+      "url": "https://www.indeed.com/viewjob?jk=8e01858a357c0469",
+      "desc": "**Locations**: Lisbon \\| London\n\n\nWho We Are\n\n\nBoston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963\\. Today, we help clients with…",
       "source": "Indeed"
     },
     {
