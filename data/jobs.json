@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-10-10T00:34:44.131741+00:00",
-  "total": 181,
+  "last_updated": "2026-10-10T09:34:43.170640+00:00",
+  "total": 182,
   "sources": [
     "CM Porto",
     "Indeed",
     "BAD"
   ],
   "jobs": [
+    {
+      "id": "99b71c6f46b1",
+      "title": "Functional Analyst – Digital Channels Workforce",
+      "org": "Accenture",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Híbrido",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Júnior",
+      "tags": [
+        "SharePoint",
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-10-09",
+      "deadline": "2026-11-08",
+      "url": "https://www.indeed.com/viewjob?jk=125dddafbb0359b4",
+      "desc": "At **Accenture Digital Core**, we help clients continuously innovate at speed and at scale, combining deep industry expertise with cutting\\-edge technology to deliver meaningful transformation. You will bring innovation, intelligence and experience together to shape robust, secure and scalable digit…",
+      "source": "Indeed"
+    },
     {
       "id": "5f4bb9386532",
       "title": "Video Content Analyst with Portuguese",
