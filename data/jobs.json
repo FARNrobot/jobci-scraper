@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-10-14T11:27:30.950597+00:00",
-  "total": 182,
+  "last_updated": "2026-10-14T16:48:50.679044+00:00",
+  "total": 183,
   "sources": [
-    "Indeed",
     "BAD",
-    "CM Porto"
+    "CM Porto",
+    "Indeed"
   ],
   "jobs": [
+    {
+      "id": "c880a03e0c50",
+      "title": "Digital Workplace - Lifecycle Documentation & Governance",
+      "org": "Siemens Energy",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Remoto",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "EAD",
+        "FAIR"
+      ],
+      "newBadge": true,
+      "posted": "2026-10-14",
+      "deadline": "2026-11-13",
+      "url": "https://www.indeed.com/viewjob?jk=c6499b2610692e75",
+      "desc": "**A Snapshot of Your Day**  \n\nJoin the dynamic Siemens Digital Core team in Portugal \\- Lisbon or Porto offices \\- Lisbon or Porto offices and play a vital role in the energy transition by creating efficient spaces for developing and manufacturing our innovative solutions. Imagine your workdays fill…",
+      "source": "Indeed"
+    },
     {
       "id": "99b71c6f46b1",
       "title": "Functional Analyst – Digital Channels Workforce",
