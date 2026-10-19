@@ -1,12 +1,32 @@
 {
-  "last_updated": "2026-10-19T12:34:48.195407+00:00",
-  "total": 184,
+  "last_updated": "2026-10-19T20:26:18.802987+00:00",
+  "total": 185,
   "sources": [
-    "CM Porto",
     "Indeed",
-    "BAD"
+    "BAD",
+    "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "2e7e7360c348",
+      "title": "Documentation Drafting & Matching Analyst",
+      "org": "QUANTEAM",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Híbrido",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-10-19",
+      "deadline": "2026-11-18",
+      "url": "https://www.indeed.com/viewjob?jk=ddfbb3411cc016bc",
+      "desc": "Who are we?\n\nQuanteam, founding entity of RAINBOW PARTNERS, is a consulting firm specialized in Banking and Financial Services. With more than 1200 consultants across 10 countries, we combine business and IT expertise to support leading institutions in transformation projects.\n\nOur core areas:\n\n➡ Qu…",
+      "source": "Indeed"
+    },
     {
       "id": "8fae13e452e8",
       "title": "Arquivista - Administrativo",
