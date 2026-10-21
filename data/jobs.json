@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-20T23:40:44.300336+00:00",
+  "last_updated": "2026-10-21T03:54:31.626375+00:00",
   "total": 185,
   "sources": [
-    "Indeed",
     "CM Porto",
-    "BAD"
+    "BAD",
+    "Indeed"
   ],
   "jobs": [
     {
