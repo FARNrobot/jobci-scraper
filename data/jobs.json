@@ -1,12 +1,53 @@
 {
-  "last_updated": "2026-10-23T11:14:34.454964+00:00",
-  "total": 186,
+  "last_updated": "2026-10-23T16:43:20.745635+00:00",
+  "total": 188,
   "sources": [
     "BAD",
     "Indeed",
     "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "64d157e318a9",
+      "title": "Information Architect (f/m/d)",
+      "org": "Essity",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-10-23",
+      "deadline": "2026-11-22",
+      "url": "https://www.indeed.com/viewjob?jk=e57abf1d3c35eb78",
+      "desc": "**Information Architect (f/m/d)**\n\n  \n\nDo you enjoy structuring data and turning complexity into clarity? Are you driven to design data models and semantic layers that enable business insights? Join us and make your expertise count.  \n\n  \n\n\n\n**About the Role**\n\n  \n\nAs an **Information Architect** ,…",
+      "source": "Indeed"
+    },
+    {
+      "id": "c11c97968b57",
+      "title": "Data Steward for Unit Configuration Management - S4/PLM Support",
+      "org": "Siemens Energy",
+      "area": "Dados",
+      "contrato": "Efetivo",
+      "modalidade": "Remoto",
+      "setor": "Academia",
+      "local": "Internacional",
+      "nivel": "Médio",
+      "tags": [
+        "EAD",
+        "FAIR"
+      ],
+      "newBadge": true,
+      "posted": "2026-10-23",
+      "deadline": "2026-11-22",
+      "url": "https://www.indeed.com/viewjob?jk=b0ecbc1d50e08e6b",
+      "desc": "### **A Snapshot of Your Day**\n\n### You will spend your day at the heart of our digital transformation, ensuring seamless data migration from legacy systems to our new PLM360 and S4HANA platforms. Collaborating closely with cross\\-functional integration and data readiness teams, you will validate en…",
+      "source": "Indeed"
+    },
     {
       "id": "e62b0ff81c03",
       "title": "Digital Sales & Perfect Store Analyst",
