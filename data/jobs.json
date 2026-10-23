@@ -1,12 +1,32 @@
 {
-  "last_updated": "2026-10-22T21:19:42.514367+00:00",
-  "total": 185,
+  "last_updated": "2026-10-23T03:58:20.881129+00:00",
+  "total": 186,
   "sources": [
-    "CM Porto",
     "BAD",
-    "Indeed"
+    "Indeed",
+    "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "e62b0ff81c03",
+      "title": "Digital Sales & Perfect Store Analyst",
+      "org": "PepsiCo",
+      "area": "Gestão da Informação",
+      "contrato": "Estágio",
+      "modalidade": "Remoto",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Médio",
+      "tags": [
+        "Power BI"
+      ],
+      "newBadge": true,
+      "posted": "2026-10-22",
+      "deadline": "2026-11-21",
+      "url": "https://www.indeed.com/viewjob?jk=c7fe098d23ae2f4b",
+      "desc": "Overview:\n\nProvide operational and analytical support for PepsiCo Portugal's digital selling and customer engagement tools and for field execution programs (Perfect Store). The role executes recurring platform activities, maintains approved content, customer and structure data, monitors adoption and…",
+      "source": "Indeed"
+    },
     {
       "id": "2e7e7360c348",
       "title": "Documentation Drafting & Matching Analyst",
