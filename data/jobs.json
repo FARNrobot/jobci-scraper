@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-24T10:33:34.009852+00:00",
+  "last_updated": "2026-10-24T15:36:43.192955+00:00",
   "total": 189,
   "sources": [
     "Indeed",
-    "CM Porto",
-    "BAD"
+    "BAD",
+    "CM Porto"
   ],
   "jobs": [
     {
@@ -22,7 +22,7 @@
         "FAIR",
         "DMP"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-10-23",
       "deadline": "2026-11-22",
       "url": "https://www.indeed.com/viewjob?jk=34e42aa6f3c4c170",
