@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-10-24T03:52:42.667972+00:00",
-  "total": 188,
+  "last_updated": "2026-10-24T10:33:34.009852+00:00",
+  "total": 189,
   "sources": [
-    "BAD",
+    "Indeed",
     "CM Porto",
-    "Indeed"
+    "BAD"
   ],
   "jobs": [
+    {
+      "id": "916cb36a8eaf",
+      "title": "Senior Data Steward Field Service PLM360/S4",
+      "org": "Siemens Energy",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Remoto",
+      "setor": "Academia",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "EAD",
+        "FAIR",
+        "DMP"
+      ],
+      "newBadge": true,
+      "posted": "2026-10-23",
+      "deadline": "2026-11-22",
+      "url": "https://www.indeed.com/viewjob?jk=34e42aa6f3c4c170",
+      "desc": "A Snapshot of Your Day\n\n\nAs a Senior Data Steward within our Field Service Automation team, your day centers on safeguarding master data integrity across core enterprise platforms. You will collaborate closely with cross\\-functional engineering and field service operations teams to define data owner…",
+      "source": "Indeed"
+    },
     {
       "id": "64d157e318a9",
       "title": "Information Architect (f/m/d)",
