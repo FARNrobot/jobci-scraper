@@ -1,12 +1,35 @@
 {
-  "last_updated": "2026-10-28T12:23:13.544816+00:00",
-  "total": 189,
+  "last_updated": "2026-10-28T20:08:03.718045+00:00",
+  "total": 190,
   "sources": [
+    "BAD",
     "Indeed",
-    "CM Porto",
-    "BAD"
+    "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "dfccd0196968",
+      "title": "Analista de Content Marketing & Social Media (M/F)",
+      "org": "Emboscada Lda",
+      "area": "Dados",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "Privado",
+      "local": "Internacional",
+      "nivel": "Médio",
+      "tags": [
+        "EAD",
+        "MARC",
+        "Figma",
+        "CMS"
+      ],
+      "newBadge": true,
+      "posted": "2026-10-28",
+      "deadline": "2026-11-27",
+      "url": "https://www.indeed.com/viewjob?jk=ed516c05a2219954",
+      "desc": "**Sobre a oportunidade**\n\nA Emboscada Grupo está à procura de um(a) Analista de Content Marketing \\& Social Media para integrar a nossa equipa de Marketing!\n\nProcuramos alguém criativo, proativo e com experiência na produção de conteúdos digitais, capaz de transformar ideias em conteúdos relevantes,…",
+      "source": "Indeed"
+    },
     {
       "id": "916cb36a8eaf",
       "title": "Senior Data Steward Field Service PLM360/S4",
