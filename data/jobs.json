@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-10-28T20:08:03.718045+00:00",
+  "last_updated": "2026-10-29T00:39:54.782888+00:00",
   "total": 190,
   "sources": [
-    "BAD",
     "Indeed",
+    "BAD",
     "CM Porto"
   ],
   "jobs": [
@@ -23,7 +23,7 @@
         "Figma",
         "CMS"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-10-28",
       "deadline": "2026-11-27",
       "url": "https://www.indeed.com/viewjob?jk=ed516c05a2219954",
