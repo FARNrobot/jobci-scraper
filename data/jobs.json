@@ -1,12 +1,51 @@
 {
-  "last_updated": "2026-10-29T09:37:06.974868+00:00",
-  "total": 190,
+  "last_updated": "2026-10-29T18:12:59.660681+00:00",
+  "total": 192,
   "sources": [
+    "Indeed",
     "BAD",
-    "CM Porto",
-    "Indeed"
+    "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "c380cd57312b",
+      "title": "Coordenador Operação- Lic. Gestão, Comun., Ciências Sociais, Qualidade, Tec Informação- Viseu",
+      "org": "Solidnetworks",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "Privado",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [],
+      "newBadge": true,
+      "posted": "2026-10-29",
+      "deadline": "2026-11-28",
+      "url": "https://www.indeed.com/viewjob?jk=d1e5973603d693ac",
+      "desc": "Na SolidNetworks, somos especialistas em criar soluções tecnológicas à medida das necessidades dos nossos clientes.\n\nCom uma abordagem centrada na inovação e na eficiência, oferecemos serviços integrados nas áreas de Tecnologias de Informação (TI), BPO (Business Process Outsourcing) e Outsourcing, a…",
+      "source": "Indeed"
+    },
+    {
+      "id": "fdba371f1711",
+      "title": "Graduate / Consulting Analyst - Cyber Risk and Regulatory Compliance",
+      "org": "Marsh",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Remoto",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Júnior",
+      "tags": [
+        "Power BI",
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-10-28",
+      "deadline": "2026-11-27",
+      "url": "https://www.indeed.com/viewjob?jk=f61e41253137eeca",
+      "desc": "**Company:**\n------------\n\n\nMarsh\n**Description:**\n----------------\n\n\nWe are seeking a talented individual to join our Risk Consulting team, part of our Risk business at Marsh. This role will be based in Lisbon. This is a hybrid role that has a requirement of working at least three days a week in th…",
+      "source": "Indeed"
+    },
     {
       "id": "dfccd0196968",
       "title": "Analista de Content Marketing & Social Media (M/F)",
