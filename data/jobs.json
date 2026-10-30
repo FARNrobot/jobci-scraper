@@ -1,12 +1,48 @@
 {
-  "last_updated": "2026-10-29T18:12:59.660681+00:00",
-  "total": 192,
+  "last_updated": "2026-10-30T00:40:39.545444+00:00",
+  "total": 194,
   "sources": [
-    "Indeed",
+    "CM Porto",
     "BAD",
-    "CM Porto"
+    "Indeed"
   ],
   "jobs": [
+    {
+      "id": "a72fb57a0904",
+      "title": "Coordenador Operação- Lic. Gestão, Comun., Ciências Sociais, Qualidade, Tec Informação- Lisboa",
+      "org": "Solidnetworks",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "Privado",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [],
+      "newBadge": true,
+      "posted": "2026-10-29",
+      "deadline": "2026-11-28",
+      "url": "https://www.indeed.com/viewjob?jk=3bb4e3bd374c68db",
+      "desc": "Na SolidNetworks, somos especialistas em criar soluções tecnológicas à medida das necessidades dos nossos clientes.\n\nCom uma abordagem centrada na inovação e na eficiência, oferecemos serviços integrados nas áreas de Tecnologias de Informação (TI), BPO (Business Process Outsourcing) e Outsourcing, a…",
+      "source": "Indeed"
+    },
+    {
+      "id": "77b0c63e393c",
+      "title": "Supervisor Contact Center- Lic. Gestão, Comun., Ciências Sociais, Qualidade, Tec Informação- Viseu",
+      "org": "Solidnetworks",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "Privado",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [],
+      "newBadge": true,
+      "posted": "2026-10-29",
+      "deadline": "2026-11-28",
+      "url": "https://www.indeed.com/viewjob?jk=8e82cb9d73adbad4",
+      "desc": "Na SolidNetworks, somos especialistas em criar soluções tecnológicas à medida das necessidades dos nossos clientes.\n\nCom uma abordagem centrada na inovação e na eficiência, oferecemos serviços integrados nas áreas de Tecnologias de Informação (TI), BPO (Business Process Outsourcing) e Outsourcing, a…",
+      "source": "Indeed"
+    },
     {
       "id": "c380cd57312b",
       "title": "Coordenador Operação- Lic. Gestão, Comun., Ciências Sociais, Qualidade, Tec Informação- Viseu",
@@ -18,7 +54,7 @@
       "local": "Internacional",
       "nivel": "Sénior",
       "tags": [],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-10-29",
       "deadline": "2026-11-28",
       "url": "https://www.indeed.com/viewjob?jk=d1e5973603d693ac",
@@ -39,7 +75,7 @@
         "Power BI",
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-10-28",
       "deadline": "2026-11-27",
       "url": "https://www.indeed.com/viewjob?jk=f61e41253137eeca",
