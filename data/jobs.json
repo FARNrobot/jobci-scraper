@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-10-30T17:50:51.859748+00:00",
-  "total": 194,
+  "last_updated": "2026-10-30T22:03:10.860552+00:00",
+  "total": 195,
   "sources": [
-    "CM Porto",
     "BAD",
+    "CM Porto",
     "Indeed"
   ],
   "jobs": [
+    {
+      "id": "fbcc87692448",
+      "title": "Assistente de Serviço e Gestão de Informação (Customer Care) 174",
+      "org": "MILESTONE II TECHNOLOGY, S.A.",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "Cultural",
+      "local": "Internacional",
+      "nivel": "Médio",
+      "tags": [],
+      "newBadge": true,
+      "posted": "2026-10-30",
+      "deadline": "2026-11-29",
+      "url": "https://www.indeed.com/viewjob?jk=0a802e877492beba",
+      "desc": "**Assistente de Serviço e Gestão de Informação (Customer Care)**\n\nA Milestone está à procura de um(a) colega para integrar um cliente na área da Cibersegurança e Administração Pública\n\n**O que valorizamos:**\n\n· licenciatura concluída (requisito obrigatório);\n\n· Fluência em português e inglês, oral e…",
+      "source": "Indeed"
+    },
     {
       "id": "a72fb57a0904",
       "title": "Coordenador Operação- Lic. Gestão, Comun., Ciências Sociais, Qualidade, Tec Informação- Lisboa",
