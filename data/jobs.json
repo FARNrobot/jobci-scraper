@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-31T21:12:43.379891+00:00",
-  "total": 195,
+  "last_updated": "2026-11-01T05:06:33.423927+00:00",
+  "total": 196,
   "sources": [
+    "Indeed",
     "BAD",
-    "CM Porto",
-    "Indeed"
+    "CM Porto"
   ],
   "jobs": [
     {
@@ -23,6 +23,27 @@
       "deadline": "2026-11-29",
       "url": "https://www.indeed.com/viewjob?jk=0a802e877492beba",
       "desc": "**Assistente de Serviço e Gestão de Informação (Customer Care)**\n\nA Milestone está à procura de um(a) colega para integrar um cliente na área da Cibersegurança e Administração Pública\n\n**O que valorizamos:**\n\n· licenciatura concluída (requisito obrigatório);\n\n· Fluência em português e inglês, oral e…",
+      "source": "Indeed"
+    },
+    {
+      "id": "4a592537eef4",
+      "title": "Digital Delivery Analyst",
+      "org": "EDP",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Híbrido",
+      "setor": "Academia",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "EAD",
+        "FAIR"
+      ],
+      "newBadge": true,
+      "posted": "2026-10-29",
+      "deadline": "2026-11-28",
+      "url": "https://www.indeed.com/viewjob?jk=52217e4a499e9ca0",
+      "desc": "País/região: PT\nCidade: Lisboa\nPlataforma de Negócio: Client Solutions\nWe are EDP, a global energy company present in around 29 markets with a particular emphasis on renewable energies. With more than 45 years of experience, we have been consolidating a relevant presence on the world energy scene ba…",
       "source": "Indeed"
     },
     {
