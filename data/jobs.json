@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-06T10:33:36.064203+00:00",
-  "total": 197,
+  "last_updated": "2026-11-06T19:03:51.732293+00:00",
+  "total": 198,
   "sources": [
     "CM Porto",
-    "Indeed",
-    "BAD"
+    "BAD",
+    "Indeed"
   ],
   "jobs": [
+    {
+      "id": "a5a50535f006",
+      "title": "French Digital Marketing Campaign Analyst (Paid Media & Video Streaming)",
+      "org": "Cognizant",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Médio",
+      "tags": [],
+      "newBadge": true,
+      "posted": "2026-11-06",
+      "deadline": "2026-12-06",
+      "url": "https://www.indeed.com/viewjob?jk=dcdd469c76a32897",
+      "desc": "**French Digital Marketing Campaign Analyst (Paid Media \\& Video Streaming)**\n\n\nJoin a dynamic team supporting global advertisers in the planning, execution, optimization, and reporting of high\\-impact digital advertising campaigns. As a Digital Marketing Campaign Analyst, you will work closely with…",
+      "source": "Indeed"
+    },
     {
       "id": "55fe0b0543b4",
       "title": "Analista de Sistemas de Informação",
