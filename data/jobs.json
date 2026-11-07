@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-07T00:42:18.221616+00:00",
+  "last_updated": "2026-11-07T09:45:31.479062+00:00",
   "total": 199,
   "sources": [
     "Indeed",
-    "CM Porto",
-    "BAD"
+    "BAD",
+    "CM Porto"
   ],
   "jobs": [
     {
@@ -18,7 +18,7 @@
       "local": "Internacional",
       "nivel": "Médio",
       "tags": [],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-11-06",
       "deadline": "2026-12-06",
       "url": "https://www.indeed.com/viewjob?jk=dbcb4548bbbb1f66",
