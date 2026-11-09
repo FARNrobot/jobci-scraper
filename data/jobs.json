@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-11-09T11:05:11.559847+00:00",
-  "total": 200,
+  "last_updated": "2026-11-09T22:04:59.510887+00:00",
+  "total": 201,
   "sources": [
-    "CM Porto",
     "Indeed",
+    "CM Porto",
     "BAD"
   ],
   "jobs": [
+    {
+      "id": "6c272ffe7899",
+      "title": "Gestor/a de Projeto Sénior – RGPD & Compliance",
+      "org": "askblue",
+      "area": "Arquivo",
+      "contrato": "A Prazo",
+      "modalidade": "Híbrido",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "RGPD",
+        "EAD"
+      ],
+      "newBadge": true,
+      "posted": "2026-11-09",
+      "deadline": "2026-12-09",
+      "url": "https://www.indeed.com/viewjob?jk=fee87c8817824cb5",
+      "desc": "Conhece a **askblue**?  \n\n  \n\nNascemos em 2013, e prestamos serviços na área de tecnologias da informação.  \n\n  \n\nEstamos à procura de um/a **Gestor/a de Projeto Sénior** para integrar o programa de RGPD e Compliance, assegurando a gestão e coordenação de vários projetos em simultâneo num dos nossos…",
+      "source": "Indeed"
+    },
     {
       "id": "9fa7dda9b604",
       "title": "Turkish Digital Marketing Campaign Analyst (Paid Media & Video Streaming)",
