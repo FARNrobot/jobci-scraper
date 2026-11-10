@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-11-09T22:04:59.510887+00:00",
+  "last_updated": "2026-11-10T06:35:47.141480+00:00",
   "total": 201,
   "sources": [
-    "Indeed",
     "CM Porto",
+    "Indeed",
     "BAD"
   ],
   "jobs": [
@@ -21,7 +21,7 @@
         "RGPD",
         "EAD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-11-09",
       "deadline": "2026-12-09",
       "url": "https://www.indeed.com/viewjob?jk=fee87c8817824cb5",
