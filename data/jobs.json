@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-11T13:48:04.357423+00:00",
-  "total": 201,
+  "last_updated": "2026-11-11T21:47:15.810220+00:00",
+  "total": 202,
   "sources": [
     "BAD",
     "Indeed",
     "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "5cebf999a791",
+      "title": "Arquivista- Licenciatura na área das ciências documentais",
+      "org": "Solidnetworks",
+      "area": "Arquivo",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "Público",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [],
+      "newBadge": true,
+      "posted": "2026-11-11",
+      "deadline": "2026-12-11",
+      "url": "https://www.indeed.com/viewjob?jk=bfded0137324c34d",
+      "desc": "Na Solidnetworks, somos especialistas em criar soluções tecnológicas à medida das necessidades dos nossos clientes.\n\nCom uma abordagem centrada na inovação e na eficiência, oferecemos serviços integrados nas áreas de Tecnologias de Informação (TI), BPO (Business Process Outsourcing) e Outsourcing, a…",
+      "source": "Indeed"
+    },
     {
       "id": "6c272ffe7899",
       "title": "Gestor/a de Projeto Sénior – RGPD & Compliance",
