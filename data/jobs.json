@@ -1,12 +1,54 @@
 {
-  "last_updated": "2026-11-13T05:46:13.787202+00:00",
-  "total": 202,
+  "last_updated": "2026-11-13T14:13:25.459767+00:00",
+  "total": 204,
   "sources": [
-    "CM Porto",
+    "BAD",
     "Indeed",
-    "BAD"
+    "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "fc35123e6f73",
+      "title": "Information Security Automation Analyst",
+      "org": "IQVIA",
+      "area": "Arquivo",
+      "contrato": "Efetivo",
+      "modalidade": "Remoto",
+      "setor": "Academia",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "SharePoint",
+        "Python",
+        "SQL",
+        "EAD",
+        "Microsoft 365"
+      ],
+      "newBadge": true,
+      "posted": "2026-11-13",
+      "deadline": "2026-12-13",
+      "url": "https://www.indeed.com/viewjob?jk=2b7b01bea3e3d404",
+      "desc": "Oeiras, Portugal \\| Full time \\| Hybrid \\| R1575915\n\n\n  \n**About the Role**\n\n\nWe are seeking an Information Security Analyst to help transform how Information Security operates through the use of AI, automation, and intelligent workflows.\n\n\nIn this role, you will design, build, and optimize AI\\-powe…",
+      "source": "Indeed"
+    },
+    {
+      "id": "be6663e24bee",
+      "title": "Pessoa Analista de Dados & Suporte Analítico",
+      "org": "MJV Innovation",
+      "area": "Dados",
+      "contrato": "Freelance",
+      "modalidade": "Presencial",
+      "setor": "Privado",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [],
+      "newBadge": true,
+      "posted": "2026-11-12",
+      "deadline": "2026-12-12",
+      "url": "https://www.indeed.com/viewjob?jk=29f1731b8c956079",
+      "desc": "**Descrição da Vaga:**  \n\nO Analista de Dados \\& Suporte Analítico dará suporte direto às demandas operacionais e estratégicas da operação em Portugal. O profissional será responsável por analisar bases de dados comerciais, apoiar no monitoramento de indicadores de desempenho de mercado e otimizar r…",
+      "source": "Indeed"
+    },
     {
       "id": "5cebf999a791",
       "title": "Arquivista- Licenciatura na área das ciências documentais",
