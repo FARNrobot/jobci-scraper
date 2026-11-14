@@ -1,12 +1,33 @@
 {
-  "last_updated": "2026-11-14T13:12:33.936126+00:00",
-  "total": 204,
+  "last_updated": "2026-11-14T19:48:19.255834+00:00",
+  "total": 205,
   "sources": [
-    "Indeed",
     "BAD",
-    "CM Porto"
+    "CM Porto",
+    "Indeed"
   ],
   "jobs": [
+    {
+      "id": "69e713b0beac",
+      "title": "Junior VAT Compliance Analyst",
+      "org": "Sovos",
+      "area": "Gestão da Informação",
+      "contrato": "Estágio",
+      "modalidade": "Híbrido",
+      "setor": "ONG",
+      "local": "Internacional",
+      "nivel": "Júnior",
+      "tags": [
+        "EAD",
+        "FAIR"
+      ],
+      "newBadge": true,
+      "posted": "2026-11-13",
+      "deadline": "2026-12-13",
+      "url": "https://www.indeed.com/viewjob?jk=41d67454bfd202b2",
+      "desc": "**SOVOS**\n\n\n**Junior VAT Compliance Analyst**\n=================================\n\n\nManaged \\& Professional Services·Full\\-Time·Portugal\n\n\n**Build Your Future With Us**\n\n\nThe digitization of tax compliance is fundamentally changing global commerce and how businesses need to operate and grow. Governmen…",
+      "source": "Indeed"
+    },
     {
       "id": "fc35123e6f73",
       "title": "Information Security Automation Analyst",
