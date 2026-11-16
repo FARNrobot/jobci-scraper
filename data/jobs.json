@@ -1,12 +1,52 @@
 {
-  "last_updated": "2026-11-16T10:47:37.538020+00:00",
-  "total": 205,
+  "last_updated": "2026-11-16T21:46:38.506336+00:00",
+  "total": 207,
   "sources": [
-    "BAD",
     "CM Porto",
+    "BAD",
     "Indeed"
   ],
   "jobs": [
+    {
+      "id": "14e015ccc769",
+      "title": "Analista de Compliance (M/F)",
+      "org": "grupo mosqueteiros",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Híbrido",
+      "setor": "Cultural",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "RGPD"
+      ],
+      "newBadge": true,
+      "posted": "2026-11-16",
+      "deadline": "2026-12-16",
+      "url": "https://www.indeed.com/viewjob?jk=6f24333a85a46eef",
+      "desc": "Os Mosqueteiros, um dos maiores grupos empresariais do setor do Retalho Alimentar e Não Alimentar, está a recrutar **Analista de Compliance (M/F)**, para a estrutura Central de Alcanena/Bugalhos.\n\n**Função**\n\nDesempenhar um papel ativo na promoção de uma cultura de ética, integridade e responsabilid…",
+      "source": "Indeed"
+    },
+    {
+      "id": "3107c04b4d01",
+      "title": "Analista de Compliance (M/F)",
+      "org": "Grupo Os Mosqueteiros",
+      "area": "Gestão da Informação",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "Cultural",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "RGPD"
+      ],
+      "newBadge": true,
+      "posted": "2026-11-16",
+      "deadline": "2026-12-16",
+      "url": "https://www.indeed.com/viewjob?jk=4a595701a9e2bc5f",
+      "desc": "Desempenhar um papel ativo na promoção de uma cultura de ética, integridade e responsabilidade, contribuindo para o desenvolvimento das práticas de Compliance do Grupo em Portugal. Em articulação com diferentes áreas da organização, irás transformar requisitos legais e regulamentares em soluções prá…",
+      "source": "Indeed"
+    },
     {
       "id": "69e713b0beac",
       "title": "Junior VAT Compliance Analyst",
