@@ -1,12 +1,53 @@
 {
-  "last_updated": "2026-11-16T21:46:38.506336+00:00",
-  "total": 207,
+  "last_updated": "2026-11-17T07:11:12.290390+00:00",
+  "total": 209,
   "sources": [
-    "CM Porto",
     "BAD",
+    "CM Porto",
     "Indeed"
   ],
   "jobs": [
+    {
+      "id": "5d0629640315",
+      "title": "Assistente Administrativo(a) | Apoio a TSST e Gestão Documental",
+      "org": "Chama Amarela",
+      "area": "Arquivo",
+      "contrato": "A Prazo",
+      "modalidade": "Presencial",
+      "setor": "Privado",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "Gestão Documental"
+      ],
+      "newBadge": true,
+      "posted": "2026-11-16",
+      "deadline": "2026-12-16",
+      "url": "https://www.indeed.com/viewjob?jk=fbb61bfd94469ea0",
+      "desc": "**Assistente Administrativo(a) \\| Apoio a TSST e Gestão Documental**\n\nEstamos a recrutar um(a) **Assistente Administrativo(a)** para desempenhar funções de apoio à área de Segurança e Saúde no Trabalho (TSST), com foco na gestão documental, organização de processos e acompanhamento dos requisitos ad…",
+      "source": "Indeed"
+    },
+    {
+      "id": "100b61a64251",
+      "title": "OFERTA DE EMPREGO | ASSISTENTE ADMINISTRATIVO(A) – GESTÃO DOCUMENTAL E APOIO A TSST",
+      "org": "nan",
+      "area": "Arquivo",
+      "contrato": "A Prazo",
+      "modalidade": "Presencial",
+      "setor": "Privado",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "OAIS",
+        "Gestão Documental"
+      ],
+      "newBadge": true,
+      "posted": "2026-11-16",
+      "deadline": "2026-12-16",
+      "url": "https://www.indeed.com/viewjob?jk=aaf0332634315ef6",
+      "desc": "**OFERTA DE EMPREGO \\| ASSISTENTE ADMINISTRATIVO(A) – GESTÃO DOCUMENTAL E APOIO A TSST**\n\n**A CHAMA AMARELA ESTÁ A RECRUTAR!**\n\nA **Chama Amarela** procura um(a) **Assistente Administrativo(a)** para integrar a sua equipa, com responsabilidades na gestão documental, acompanhamento de processos admin…",
+      "source": "Indeed"
+    },
     {
       "id": "14e015ccc769",
       "title": "Analista de Compliance (M/F)",
@@ -20,7 +61,7 @@
       "tags": [
         "RGPD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-11-16",
       "deadline": "2026-12-16",
       "url": "https://www.indeed.com/viewjob?jk=6f24333a85a46eef",
@@ -40,7 +81,7 @@
       "tags": [
         "RGPD"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-11-16",
       "deadline": "2026-12-16",
       "url": "https://www.indeed.com/viewjob?jk=4a595701a9e2bc5f",
