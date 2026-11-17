@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-11-17T07:11:12.290390+00:00",
-  "total": 209,
+  "last_updated": "2026-11-17T18:17:44.636581+00:00",
+  "total": 210,
   "sources": [
-    "BAD",
     "CM Porto",
+    "BAD",
     "Indeed"
   ],
   "jobs": [
@@ -20,7 +20,7 @@
       "tags": [
         "Gestão Documental"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-11-16",
       "deadline": "2026-12-16",
       "url": "https://www.indeed.com/viewjob?jk=fbb61bfd94469ea0",
@@ -41,7 +41,7 @@
         "OAIS",
         "Gestão Documental"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-11-16",
       "deadline": "2026-12-16",
       "url": "https://www.indeed.com/viewjob?jk=aaf0332634315ef6",
@@ -399,6 +399,28 @@
       "deadline": "2026-11-27",
       "url": "https://www.indeed.com/viewjob?jk=ed516c05a2219954",
       "desc": "**Sobre a oportunidade**\n\nA Emboscada Grupo está à procura de um(a) Analista de Content Marketing \\& Social Media para integrar a nossa equipa de Marketing!\n\nProcuramos alguém criativo, proativo e com experiência na produção de conteúdos digitais, capaz de transformar ideias em conteúdos relevantes,…",
+      "source": "Indeed"
+    },
+    {
+      "id": "4ea15d570dac",
+      "title": "Técnico Superior – Assessoria Técnica à Gestão (M/F) - LISBOA",
+      "org": "Infraestruturas de Portugal",
+      "area": "Arquivo",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "Privado",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "EAD",
+        "Gestão Documental",
+        "Digitalização"
+      ],
+      "newBadge": true,
+      "posted": "2026-10-27",
+      "deadline": "2026-11-26",
+      "url": "https://www.indeed.com/viewjob?jk=e418918d29b9276b",
+      "desc": "* Coordenar operacionalmente as atividades de gestão do Arquivo Técnico, assegurando o apoio ao responsável da área e garantindo a continuidade e redundância das atividades técnicas críticas;\n* Gerir e assegurar a organização do arquivo técnico, em suporte físico e digital, garantindo a qualidade, c…",
       "source": "Indeed"
     },
     {
