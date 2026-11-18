@@ -1,12 +1,32 @@
 {
-  "last_updated": "2026-11-18T11:19:06.761185+00:00",
-  "total": 210,
+  "last_updated": "2026-11-18T20:10:31.703452+00:00",
+  "total": 211,
   "sources": [
     "CM Porto",
-    "BAD",
-    "Indeed"
+    "Indeed",
+    "BAD"
   ],
   "jobs": [
+    {
+      "id": "db1733fb7ae1",
+      "title": "Técnico(a) de Gestão Documental e Administrativa",
+      "org": "Mecalbi",
+      "area": "Arquivo",
+      "contrato": "A Prazo",
+      "modalidade": "Remoto",
+      "setor": "Privado",
+      "local": "Internacional",
+      "nivel": "Sénior",
+      "tags": [
+        "Gestão Documental"
+      ],
+      "newBadge": true,
+      "posted": "2026-11-18",
+      "deadline": "2026-12-18",
+      "url": "https://www.indeed.com/viewjob?jk=ef0f976a5a932e38",
+      "desc": "Procuramos um(a) Técnico(a) de Gestão Documental e Administrativa para apoiar as atividades administrativas da empresa, assegurar a organização de documentos e acompanhar os processos internos. O profissional será responsável por manter os registos atualizados, organizar a informação e garantir uma…",
+      "source": "Indeed"
+    },
     {
       "id": "5d0629640315",
       "title": "Assistente Administrativo(a) | Apoio a TSST e Gestão Documental",
