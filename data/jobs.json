@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-18T20:10:31.703452+00:00",
+  "last_updated": "2026-11-19T02:22:18.764755+00:00",
   "total": 211,
   "sources": [
-    "CM Porto",
+    "BAD",
     "Indeed",
-    "BAD"
+    "CM Porto"
   ],
   "jobs": [
     {
@@ -20,7 +20,7 @@
       "tags": [
         "Gestão Documental"
       ],
-      "newBadge": true,
+      "newBadge": false,
       "posted": "2026-11-18",
       "deadline": "2026-12-18",
       "url": "https://www.indeed.com/viewjob?jk=ef0f976a5a932e38",
