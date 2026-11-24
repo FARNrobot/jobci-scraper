@@ -1,12 +1,32 @@
 {
-  "last_updated": "2026-11-24T09:03:32.392058+00:00",
-  "total": 211,
+  "last_updated": "2026-11-24T22:05:31.614933+00:00",
+  "total": 212,
   "sources": [
     "BAD",
     "Indeed",
     "CM Porto"
   ],
   "jobs": [
+    {
+      "id": "4b716de4ddb0",
+      "title": "Arquivista - Administrativo",
+      "org": "Nucleo Engenharia Consultiva S.A.",
+      "area": "Arquivo",
+      "contrato": "Efetivo",
+      "modalidade": "Presencial",
+      "setor": "Privado",
+      "local": "Internacional",
+      "nivel": "Médio",
+      "tags": [
+        "Gestão Documental"
+      ],
+      "newBadge": true,
+      "posted": "2026-11-24",
+      "deadline": "2026-12-24",
+      "url": "https://www.indeed.com/viewjob?jk=5dcf4aefc880b9a1",
+      "desc": "**Descrição da Empresa**\n\nA Núcleo Engenharia é uma empresa colaborativa, que valoriza as pessoas e incentiva o desenvolvimento dos profissionais de cada área. Por isso, buscamos um profissional que compartilhe da mesma ideia e seja comprometido com os nossos objetivos. Somos uma empresa diversa e i…",
+      "source": "Indeed"
+    },
     {
       "id": "db1733fb7ae1",
       "title": "Técnico(a) de Gestão Documental e Administrativa",
